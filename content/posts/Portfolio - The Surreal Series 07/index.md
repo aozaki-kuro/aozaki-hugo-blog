@@ -1,11 +1,11 @@
 ---
-title: "The Surreal Series: Dreamer"
-slug: "The Surreal Series 08"
+title: "The Surreal Series 07: Dreamer"
+slug: "The Surreal Series 07"
 date: 2019-02-14T10:07:00+08:00
 draft: false
 displayCopyright: false
 toc: false
-description: "08: The Dreamer"
+description: "07: The Dreamer"
 categories: ["Portfolio"]
 tags: 
 - Portfolio
@@ -18,7 +18,3 @@ tags:
 ![](0004.jpg)
 ![](0005.jpg)
 ![](0006.jpg)
-
-***
-
-Copyright © 2019 Aozaki, All rights reserved.

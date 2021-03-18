@@ -1,11 +1,12 @@
 ---
-title: "The Surreal Series: Unbalance"
+title: "The Surreal Series 06: Unbalance"
 slug: "The Surreal Series 06"
 date: 2016-07-15T10:07:00+08:00
 draft: false
 displayCopyright: false
 toc: false
 description: "06: The Unbalanced"
+license: Copyright © 2016 Aozaki, All rights reserved.
 categories: ["Portfolio"]
 tags: 
 - Portfolio
@@ -21,7 +22,3 @@ tags:
 ![](0007.jpg)
 ![](0008.jpg)
 ![](0009.jpg)
-
-***
-
-Copyright © 2016 Aozaki, All rights reserved.

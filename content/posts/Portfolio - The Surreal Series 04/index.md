@@ -1,11 +1,12 @@
 ---
-title: "The Surreal Series: Regret"
+title: "The Surreal Series 03: Regret"
 slug: "The Surreal Series 03"
 date: 2015-03-29T10:07:00+08:00
 draft: false
 displayCopyright: false
 toc: false
 description: "03: Regret Regret Regret"
+license: Copyright © 2015 Aozaki, All rights reserved.
 categories: ["Portfolio"]
 tags: 
 - Portfolio
@@ -22,7 +23,3 @@ tags:
 ![](0008.jpg)
 ![](0009.jpg)
 ![](0010.jpg)
-
-***
-
-Copyright © 2015 Aozaki, All rights reserved.

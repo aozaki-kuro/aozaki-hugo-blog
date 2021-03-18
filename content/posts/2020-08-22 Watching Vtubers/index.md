@@ -12,7 +12,11 @@ tags:
 - VTuber
 ---
 
-**Warning: 本文含有大量主观判断、私人观点、不理智行为，小心星咏者.jpg**
+{{< admonition >}}
+
+本文含有大量主观判断、私人观点、不理智行为，小心星咏者.jpg
+
+{{< /admonition >}}
 
 > 虚拟YouTuber（日语：バーチャルユーチューバー，英语：Virtual YouTuber，也缩写为VTuber）是以YouTube为平台进行影片直播和投稿的虚拟偶像，在YouTube以外的平台中又被称作虚拟主播。
 > 
