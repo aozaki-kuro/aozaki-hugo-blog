@@ -2,7 +2,7 @@
 title: "《对马岛之鬼》白金后简评"
 date: 2020-08-04T20:51:02+08:00
 toc: false
-categories: ["life"]
+categories: ["Life"]
 tags:
 - PS4
 - 游戏

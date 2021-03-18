@@ -2,7 +2,7 @@
 title: 毕业了
 date: 2020-08-07 21:18:14
 draft: false
-categories: ["life"]
+categories: ["Life"]
 toc: false
 tags: 
 - 随笔

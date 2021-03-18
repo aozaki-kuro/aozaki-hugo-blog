@@ -2,7 +2,7 @@
 title: "Hugo部署与踩坑记"
 date: 2020-08-09T11:29:51+08:00
 draft: false
-categories: ["tech"]
+categories: ["Tech"]
 tags:
 - 折腾
 - 网络

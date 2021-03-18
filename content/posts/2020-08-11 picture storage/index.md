@@ -2,7 +2,7 @@
 title: "本地图片库的整理思路"
 date: 2020-08-11T12:21:47+08:00
 draft: false
-categories: ["tech"]
+categories: ["Tech"]
 tags:
 - 折腾
 - 强迫症

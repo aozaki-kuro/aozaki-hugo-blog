@@ -2,7 +2,7 @@
 title: "利用Github Action自动化部署Hugo"
 date: 2020-08-10T18:04:51+08:00
 draft: false
-categories: ["tech"]
+categories: ["Tech"]
 toc: true
 tags:
 - 折腾

@@ -7,7 +7,7 @@ author: "Aozaki"
 authorLink: "https://aozaki-kuro.com/"
 description: "当个器材党真开心"
 toc: false
-categories: ["life"]
+categories: ["Life"]
 tags: ["生活", "摄影"] 
 ---
 

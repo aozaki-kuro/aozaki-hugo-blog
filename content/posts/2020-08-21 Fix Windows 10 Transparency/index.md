@@ -5,7 +5,7 @@ date: 2020-08-22T20:31:41+08:00
 draft: false
 displayCopyright: false
 toc: false
-categories: ["tech"]
+categories: ["Tech"]
 description: "Windows Bug 10"
 tags: 
 - 技术

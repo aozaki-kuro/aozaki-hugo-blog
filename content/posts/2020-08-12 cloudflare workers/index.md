@@ -3,7 +3,7 @@ title: "浅尝Cloudflare Workers部署静态博客"
 date: 2020-08-12T11:05:50+08:00
 draft: false
 slug: "migrating blog to cloudflare workers"
-categories: ["tech"]
+categories: ["Tech"]
 displayCopyright: true
 tags:
 - 折腾

@@ -2,7 +2,7 @@
 title: "新博客的折腾与迷思"
 date: 2020-08-05T15:55:19+08:00
 draft: false
-categories: ["life"]
+categories: ["Life"]
 toc: false
 tags: 
 - 随笔

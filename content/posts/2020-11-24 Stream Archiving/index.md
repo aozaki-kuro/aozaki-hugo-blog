@@ -4,7 +4,7 @@ date: 2020-11-24T09:05:50+08:00
 draft: false
 slug: "stream archiving"
 description: "求人不如求己，仓鼠症患者的自我救赎"
-categories: ["tech"]
+categories: ["Tech"]
 tags:
 - 仓鼠症
 - 网络

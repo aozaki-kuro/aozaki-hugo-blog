@@ -5,7 +5,7 @@ date: 2020-10-10T11:07:00+08:00
 draft: false
 displayCopyright: false
 toc: false
-categories: ["reading"]
+categories: ["Reading"]
 description: "天久鷹央の推理カルテ，医生写的推理小说"
 tags: 
 - 生活
