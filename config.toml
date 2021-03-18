@@ -89,7 +89,7 @@ ignoreErrors = ["error-remote-getjson"]
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-        svgFavicon = "/static/safari-pinned-tab.svg"
+        svgFavicon = ""
         # Android 浏览器主题色
         themeColor = "#ffffff"
         # Safari 图标颜色
@@ -129,7 +129,7 @@ ignoreErrors = ["error-remote-getjson"]
           # 主页显示头像的 URL
           avatarURL = ""
           # {{< version 0.1.1 >}} Alt text for avatar (default is the author name)
-          avatarAlt = ""
+          avatarAlt = "Aozaki Kuro"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = "Aozaki's Note"
           # 主页显示的网站副标题
