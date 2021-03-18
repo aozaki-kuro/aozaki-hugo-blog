@@ -1,0 +1,28 @@
+name: Build
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1  # v2 does not have submodules option now
+        with:
+          submodules: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          # The Hugo version to download (if necessary) and use. Example: 0.58.2
+          hugo-version: latest # optional, default is latest
+          # Download (if necessary) and use Hugo extended version. Example: true
+          extended: true # optional, default is false
+      - name: Build
+        run: hugo --gc --minify
+      - name: Deploy to Github Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: aozaki-kuro/aozaki-kuro.github.io # <- 改成你自己的 user github page
+          publish_dir: ./public # <- 指定編譯後的成品放置的資料夾
+          publish_branch: master # <- 遠端 repo 的目標分之
