@@ -224,7 +224,7 @@ ignoreErrors = ["error-remote-getjson"]
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["images/avatar.jpg"]
+  images = ["about/logo.jpg"]
 
   # Header config
   [params.header]

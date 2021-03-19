@@ -3,9 +3,10 @@ title: "About"
 date: 2020-08-04T18:00:08+08:00
 draft: false
 badge: false
+comment: false
 ---
 
-![☄️](0001.jpg "☄️")
+![☄️](logo.jpg "☄️")
 
 <center>
 
