@@ -5,6 +5,7 @@ date: 2019-02-14T10:07:00+08:00
 draft: false
 displayCopyright: false
 toc: false
+license: Copyright © 2019 Aozaki, All rights reserved.
 description: "07: The Dreamer"
 categories: ["Portfolio"]
 tags: 
