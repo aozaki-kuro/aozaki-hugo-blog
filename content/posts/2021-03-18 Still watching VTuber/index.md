@@ -1,7 +1,7 @@
 ---
 title: "我仍在看Virtual YouTuber"
 slug: "still watching vtuber suisei hoshimachi"
-date: 2021-03-19T11:03:00+08:00
+date: 2021-03-18T21:03:00+08:00
 draft: false
 description: "没错，我还在看。"
 license: All pictures belongs to the proper Copyright holder(s)
