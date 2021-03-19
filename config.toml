@@ -458,7 +458,7 @@ ignoreErrors = ["error-remote-getjson"]
       # Publisher info
       [params.page.seo.publisher]
         name = "Aozaki"
-        logoUrl = "/images/avatar.jpg"
+        logoUrl = ""
 
   # TypeIt config
   [params.typeit]
