@@ -379,9 +379,9 @@ ignoreErrors = ["error-remote-getjson"]
       enable = true
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "Aozaki's Note"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
@@ -419,7 +419,7 @@ ignoreErrors = ["error-remote-getjson"]
         languageCode = ""
       # Telegram comments config (https://comments.app/)
       [params.page.comment.telegram]
-        enable = true
+        enable = false
         siteID = "cm4NT4nO"
         limit = 5
         height = ""
