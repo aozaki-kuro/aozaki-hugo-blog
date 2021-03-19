@@ -5,6 +5,8 @@ date: 2021-03-19T11:03:00+08:00
 draft: false
 description: "没错，我还在看。"
 license: All pictures belongs to the proper Copyright holder(s)
+featuredImage: "0001.jpg"
+featuredImagePreview: "0001.jpg"
 categories: ["VTuber"]
 tags: 
 - 生活
@@ -23,8 +25,6 @@ tags:
 什么都不要想，先跟我喊：**すいちゃんは？今日もかわいいー！！**
 
 {{< /admonition >}}
-
-![今日もかわいいー！！](0001.jpg "80万订阅了")
 
 你没看错，在[上一篇](/2020/08/watching-virtual-youtuber-vtuber/)的7个月后，我依然在看VTuber。**甚至陷得更深了。**
 
