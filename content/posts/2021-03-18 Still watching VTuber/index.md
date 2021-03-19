@@ -7,6 +7,7 @@ description: "没错，我还在看。"
 license: All pictures belongs to the proper Copyright holder(s)
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
+images: ["0001.jpg"]
 categories: ["VTuber"]
 tags: 
 - 生活

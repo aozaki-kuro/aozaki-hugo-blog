@@ -129,7 +129,7 @@ ignoreErrors = ["error-remote-getjson"]
           # 主页显示头像的 URL
           avatarURL = ""
           # {{< version 0.1.1 >}} Alt text for avatar (default is the author name)
-          avatarAlt = "Aozaki Kuro"
+          avatarAlt = "Aozaki"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = "Aozaki's Note"
           # 主页显示的网站副标题
@@ -209,7 +209,7 @@ ignoreErrors = ["error-remote-getjson"]
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "i@aozaki-kuro.com"
+        Email = ""
         RSS = true
 
 [params]
