@@ -257,7 +257,7 @@ ignoreErrors = ["error-remote-getjson"]
     # whether to show the author
     author = true
     # site creation time
-    since = 20202
+    since = 2020
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
@@ -348,23 +348,23 @@ ignoreErrors = ["error-remote-getjson"]
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
       Myspace = false
       Blogger = false
@@ -376,7 +376,7 @@ ignoreErrors = ["error-remote-getjson"]
       Mix = false
     # Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqus]
         enable = false
@@ -391,7 +391,7 @@ ignoreErrors = ["error-remote-getjson"]
         clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -419,8 +419,8 @@ ignoreErrors = ["error-remote-getjson"]
         languageCode = ""
       # Telegram comments config (https://comments.app/)
       [params.page.comment.telegram]
-        enable = false
-        siteID = ""
+        enable = true
+        siteID = "cm4NT4nO"
         limit = 5
         height = ""
         color = ""
@@ -558,7 +558,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Author config
 [author]
   name = "Aozaki"
-  email = ""
+  email = "i@aozaki-kuro.com"
   link = "https://aozaki-kuro.com"
 
 # Sitemap config
