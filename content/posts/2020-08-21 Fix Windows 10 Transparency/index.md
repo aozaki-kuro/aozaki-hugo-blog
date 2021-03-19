@@ -8,7 +8,7 @@ toc: false
 categories: ["Tech"]
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
-images: ["https://aozaki-kuro.com/2020/08/fix-windows-10-transparency/0001.jpg"]
+images: ["/fix-windows-10-transparency/0001.jpg"]
 description: "Windows Bug 10"
 tags: 
 - 技术

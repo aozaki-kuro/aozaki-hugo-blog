@@ -8,7 +8,7 @@ toc: false
 description: "花开堪折直须折，莫待无花空折枝。"
 featuredImage: "0003.jpg"
 featuredImagePreview: "0003.jpg"
-images: ["/2021/03/still-watching-vtuber-suisei-hoshimachi/0003.jpg"]
+images: ["/still-watching-vtuber-suisei-hoshimachi/0003.jpg"]
 categories: ["VTuber"]
 tags: 
 - 生活

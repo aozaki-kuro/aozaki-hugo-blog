@@ -5,7 +5,7 @@ date: 2021-03-19T13:51:51+08:00
 draft: false
 featuredImage: "0001.png"
 featuredImagePreview: "0001.png"
-images: ["/2021/03/migrating-from-github-pages-to-cloudflare-pages/0001.png"]
+images: ["/migrating-from-github-pages-to-cloudflare-pages/0001.png"]
 categories: ["Tech"]
 tags:
 - 折腾
