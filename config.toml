@@ -63,13 +63,6 @@ ignoreErrors = ["error-remote-getjson"]
         title = ""
         weight = 3
       [[languages.zh-cn.menu.main]]
-        identifier = "Portfolio"
-        pre = ""
-        name = "Portfolio"
-        url = "/categories/Portfolio/"
-        title = ""
-        weight = 4
-      [[languages.zh-cn.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
