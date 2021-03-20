@@ -3,6 +3,9 @@ title: "本地图片库的整理思路"
 date: 2020-08-11T12:21:47+08:00
 draft: false
 categories: ["Tech"]
+featuredImage: "0004.jpg"
+featuredImagePreview: "0004.jpg"
+images: ["/arranging-local-pictures/0004.jpg"]
 tags:
 - 折腾
 - 强迫症
@@ -12,8 +15,6 @@ slug: "arranging local pictures"
 displayCopyright: true
 toc: true
 ---
-
-![整理结果预览](0004.jpg )
 
 **WARNING！本文部分内容建议18岁以上阅读。**
 

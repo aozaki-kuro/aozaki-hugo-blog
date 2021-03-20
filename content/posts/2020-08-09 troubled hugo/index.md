@@ -7,11 +7,12 @@ tags:
 - 折腾
 - 网络
 slug: "Hugo Deployment Debugging"
+featuredImage: "0001.jpg"
+featuredImagePreview: "0001.jpg"
+images: ["/hugo-deployment-debugging/0001.jpg"]
 displayCopyright: true
 toc: true
 ---
-
-![](0001.jpg)
 
 本博客部署于Github Pages上，最初构建时应用的Hexo。在被Node.js的巨量依赖和最终页面生成速度面前决定迁移至Hugo。Hugo部署的坑很多，故保留完整操作与相关踩坑记录。😫
 

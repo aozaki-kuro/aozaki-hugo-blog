@@ -4,6 +4,9 @@ date: 2020-08-12T11:05:50+08:00
 draft: false
 slug: "migrating blog to cloudflare workers"
 categories: ["Tech"]
+featuredImage: "0002.jpg"
+featuredImagePreview: "0002.jpg"
+images: ["/migrating-blog-to-cloudflare-workers/0002.jpg"]
 displayCopyright: true
 tags:
 - 折腾

@@ -4,17 +4,25 @@ date: 2021-01-25T12:01:50+08:00
 draft: false
 slug: "stream archiving eng"
 displayCopyright: true
+description: "The way to treasure every moment of our dearest Comet."
+featuredImage: "0001.jpg"
+featuredImagePreview: "0001.jpg"
+images: ["/stream-archiving-eng//0001.jpg"]
 categories: ["Tech"]
+tags:
+- 折腾
+- VTuber
 ---
-# 📢 IMPORTANT
+
+## 📢 IMPORTANT
 
 IF YOU HAVE ANY PROBLEMS, READ THE `README.MD` IN EVERY REPO FIRST.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-# 🔨 Tool Preparation
+## 🔨 Tool Preparation
 
-## 📁 Download
+### 📁 Download
 
 - youtube-dl - general purpose video downloader [[Github](https://github.com/ytdl-org/youtube-dl)]
 - streamlink - stream recording tool [[Github](https://github.com/streamlink/streamlink)]
@@ -22,17 +30,17 @@ IF YOU HAVE ANY PROBLEMS, READ THE `README.MD` IN EVERY REPO FIRST.
 - aria2 - download accelerating [[Github](https://github.com/aria2/aria2)]
 - Stream Recorder - stream recording tool [[Chrome Store](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)]
 
-## 📁 Processing
+### 📁 Processing
 
 - ffmpeg [[Github](https://github.com/FFmpeg/FFmpeg)] [[Guide Here](http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/)]
 - AtomicParsley [[Github](https://github.com/wez/atomicparsley)]
 
-## 📁 Upload
+### 📁 Upload
 
 - OneDriveUploader [[Github](https://github.com/MoeClub/OneList/tree/master/OneDriveUploader)] or Google Drive Sync [[Github](https://github.com/dtsvetkov1/Google-Drive-sync)]
 - rclone (optional) [[Github](https://github.com/rclone/rclone)]
 
-# 🎬 Virtual Server Enviroment Preparation
+## 🎬 Virtual Server Enviroment Preparation
 
 [![Windows10](https://img.shields.io/badge/Windows%2010-20H2-blue)](https://www.microsoft.com/en-us/software-download/windows10)
 
@@ -68,9 +76,9 @@ sudo apt install atomicparsley
 sudo apt install aria2
 ```
 
-# ✨ Usage
+## ✨ Usage
 
-## 🚩 Youtube-dl
+### 🚩 Youtube-dl
 
 Should be the mostly used tool to download youtube-dl videos. Simple as it is.
 
@@ -106,7 +114,7 @@ Also, the config takes 3 times of writing files which might take longer. *Wait p
 
 > Downloaded video and audio → Merged .mp4 file → Write metadata → Write thumbnail with AtomicParsley
 
-## 🚩 Streamlink
+### 🚩 Streamlink
 
 For **No Archive** streams youtube-dl doesn't work. We should use streamlink instead.
 
@@ -122,7 +130,7 @@ streamlink "url" best -o "filename.ts" --niconico-email "EMAIL" --niconico-passw
 
 For AbemaTV, streamlink also works. But somehow it's a little bit slow. You can also use `yuu` instead [[Github](https://github.com/noaione/yuu)].
 
-## 🚩 Stream Recorder
+### 🚩 Stream Recorder
 
 This is a plugin which can directly grab the stream. It did a great job in the **SUISEI "POWER" LIVE**. I successfully saved the live-record edition using this plugin.
 
@@ -132,7 +140,7 @@ The details were written in the plugin, **read before use**, *the plugin does no
 
 And it does not work with `YouTube`, so you still need `streamlink`.
 
-## 🚩 Auto Monitor-Download Script
+### 🚩 Auto Monitor-Download Script
 
 It's just a script, but the options are pretty complicated and was in Chinese so I will provide the lines I'm using.
 
@@ -144,7 +152,7 @@ The `-l` is the looping option, means recheck the streaming status in every 10 s
 
 ---
 
-## ☁ Uploading
+### ☁ Uploading
 
 In this project I use `OneDriveUploader` since I stored everything in a 5TB OneDrive Business Account.
 
@@ -218,11 +226,11 @@ ps aux | grep -i "keyword"
 kill "process_id"
 ```
 
-## ⚠ Upper Case
+### ⚠ Upper Case
 
 Be careful, commands in Ubuntu are case sensitive, if you cannot run the command please check.
 
-## ⚠ Renaming
+### ⚠ Renaming
 
 I'm using `Renamer.exe` or modify the filename manually. I will write about the naming style:
 
@@ -242,7 +250,7 @@ The final output should be like this
 20210120【テトリス99】順位でガチャ配信の課金額が決まる⁉.mp4
 ```
 
-## ⚠ Invalid file names
+### ⚠ Invalid file names
 
 OneDrive/Sharepoint has a strict file name requirement, but it's basically the same as Windows 10.
 
@@ -254,14 +262,10 @@ See also: [Invalid file names and file types in OneDrive and SharePoint - Micros
 
 If you are using `rclone`, the file will be auto renamed, see also [Restricted filename characters - Rclone](https://rclone.org/onedrive/#restricted-filename-characters)
 
-## ⚠ YouTube Video Encoding
+### ⚠ YouTube Video Encoding
 
 FYI YouTube needs time to encode the archive after the stream ended. You can download with `youtube-dl` right after with 1 thread enabled.
 
 You can also wait for _30 minutes to serveral hours_ (depending on the length of the stream), when you see the comments and superchats are back, that means the archive has been encoded. At this point you can use `youtube-dl` along with `aria2` to download much faster in 5~10 threads enabled.
 
 Also, if the stream is **longer than 2 hours** and you didn't started recording it from the beginning, `youtube-dl` can just download the **last 2 hours' part** as soon as the stream ended. You have to wait until the whole archive finished encoding, then you can grab a intact archive.
-
-# 🔰 Issues
-
-If you are having more questions, please [open an issue](https://github.com/aozaki-kuro/archive-guide/issues/new?assignees=&labels=question&template=questions.md&title=%5BQuestion%5D+) using the \[Question\] template.

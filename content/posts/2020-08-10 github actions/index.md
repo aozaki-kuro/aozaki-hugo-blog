@@ -8,9 +8,10 @@ tags:
 - 折腾
 - 网络
 slug: "deploying hugo with github actions"
+featuredImage: "0001.jpg"
+featuredImagePreview: "0001.jpg"
+images: ["/deploying-hugo-with-github-actions/0001.jpg"]
 ---
-
-![](0001.jpg)
 
 先前抱怨过Hugo本地编译再`git push`至远端的操作过于繁琐，今天发现可以通过Github Action实现对Hugo的自动化部署并实践成功，故记录折腾过程。
 

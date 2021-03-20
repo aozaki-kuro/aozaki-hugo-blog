@@ -6,6 +6,9 @@ draft: false
 author: "Aozaki"
 authorLink: "https://aozaki-kuro.com/"
 description: "当个器材党真开心"
+featuredImage: "0003.jpg"
+featuredImagePreview: "0003.jpg"
+images: ["/leica-m10-r/0003.jpg"]
 toc: false
 categories: ["Life"]
 tags: ["生活", "摄影"] 
@@ -37,7 +40,3 @@ tags: ["生活", "摄影"]
 在背带方面纠结了很久，一方面是在AA真丝系列高昂的价格面前略有迟疑，另一方面，手中仿制AA的登山绳背带在M10-R的实际使用中只让我觉得碍事。于是最后选定了ACAM-313N这根真丝腕带，一方面不破坏原有握持感，另一方面也是因为它较为年轻的红黑配色，非常有特色。
 
 皮套来自于Kontice Leather。由于是黑色机身，填写定制订单时便想着要保持低调，所以面料选择了EPSOM掌纹，并且要求制成底部可换电池的版本。皮套到手后便感受到了与普通皮料截然不同的手感和做工，确实非常对得起它高昂的价格，并且与机身浑然天成。
-
-***
-
-只是才拿到机器不久，片子还不多。今后有更新的话会直接放在[Portfolio](https://aozaki-kuro.com/portfolio/)栏目下。不过首先会将以往的片子逐渐整理出来，算是对2014年至今自己拍摄的一个总结，并且希望能开启新的风格。
