@@ -27,7 +27,7 @@ tags:
 
 {{< /admonition >}}
 
-你没看错，在[上一篇](/2020/08/watching-virtual-youtuber-vtuber/)的7个月后，我依然在看VTuber。**甚至陷得更深了。**
+你没看错，在[上一篇](/watching-virtual-youtuber-vtuber/)的7个月后，我依然在看VTuber。**甚至陷得更深了。**
 
 <!--more-->
 

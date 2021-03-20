@@ -16,9 +16,9 @@ slug: "migrating from github pages to cloudflare pages"
 
 ## 曾经的折腾
 
-如果先前有看过我或搜索过我的博客的朋友可能知道，我经历了非常痛苦的Hexo→Hugo过程。并且由于[Github Actions需要自行编写](/2020/08/deploying-hugo-with-github-actions/)，这个问题着实令人非常头痛。
+如果先前有看过我或搜索过我的博客的朋友可能知道，我经历了非常痛苦的Hexo→Hugo过程。并且由于[Github Actions需要自行编写](/deploying-hugo-with-github-actions/)，这个问题着实令人非常头痛。
 
-之前也尝试过[将博客部署到Cloudflare Workers](/2020/08/migrating-blog-to-cloudflare-workers/)，不过由于并未改善的连接速度以及对中文路径的超烂支持，因此放弃。
+之前也尝试过[将博客部署到Cloudflare Workers](/migrating-blog-to-cloudflare-workers/)，不过由于并未改善的连接速度以及对中文路径的超烂支持，因此放弃。
 
 然而但是即便是套了Cloudflare CDN的Github Pages的表现也是并不尽如人意，因此一度考虑过自己租服务器建站等等。结果迫于时间原因，并没有最后执行下去。
 
