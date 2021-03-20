@@ -125,9 +125,9 @@ ignoreErrors = ["error-remote-getjson"]
         [languages.zh-cn.params.home.profile]
           enable = true
           # Gravatar 邮箱，用于优先在主页显示的头像
-          gravatarEmail = "aozaki.kuro@gmail.com"
+          gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = ""
+          avatarURL = "/about/logo.jpg"
           # {{< version 0.1.1 >}} Alt text for avatar (default is the author name)
           avatarAlt = "Aozaki"
           # 主页显示的网站标题 (支持 HTML 格式)
@@ -300,7 +300,7 @@ ignoreErrors = ["error-remote-getjson"]
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     # whether to show the full text content in RSS
-    rssFullText = false
+    rssFullText = true
     # Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
