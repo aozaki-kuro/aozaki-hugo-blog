@@ -3,7 +3,7 @@ title: "生日快乐，彗酱"
 description: "写在她的生日。"
 slug: "Happy Birthday Sui-chan"
 date: 2021-03-22T21:05:00+08:00
-draft: true
+draft: false
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
 images: ["/Happy-Birthday-Sui-chan/0001.jpg"]
