@@ -202,7 +202,7 @@ ignoreErrors = ["error-remote-getjson"]
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = ""
+        Email = "i@aozaki-kuro.com"
         RSS = true
 
 [params]
