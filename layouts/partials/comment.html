@@ -8,8 +8,22 @@
         {{- /* Disqus Comment System */ -}}
         {{- $disqus := $comment.disqus | default dict -}}
         {{- if $disqus.enable -}}
+            <div id="disqus" class="comment"></div>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/disqusjs@1.3/dist/disqusjs.css">
             <script src="https://cdn.jsdelivr.net/npm/disqusjs@1.3/dist/disqus.js"></script>
+            <script>
+                var dsqjs = new DisqusJS({
+                    shortname: 'aozaki-note',
+                    siteName: 'Aozaki Note',
+                    identifier: '',
+                    url: '',
+                    title: '',
+                    api: 'https://disqus.skk.moe/disqus/',
+                    apikey: '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p',
+                    admin: 'kuro_aozaki',
+                    adminLabel: '☄'
+                });
+            </script>
         {{- end -}}
 
         {{- /* Gitalk Comment System */ -}}
