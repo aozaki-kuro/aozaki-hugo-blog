@@ -36,7 +36,7 @@ tags:
 
 ![誕生日寄せ書き](0002.jpg "由Suiseicord主催的生日留言册")
 
-> 生日留言册完整PDF点[这里](https://suiseicord.com/shikishi/3rdannv)。
+> :(far fa-file-pdf fa-fw):生日留言册完整PDF点[这里](https://suiseicord.com/shikishi/3rdannv)。
 
 我大概从1月19日就已经准备好了相关文本，并且在开始征集时立刻投稿，所以我的留言和向今沢老师约的稿就在第11~13页，紧跟Suiseicord的核心成员。
 
@@ -89,6 +89,18 @@ tags:
 于是换完声线后我们迎来了更帅的阿星，怎么会有人拒绝帅女人呢？
 
 因此也有不少朋友表示，这是给了我们再一次迷上她的机会。
+
+![乱舞のメロディー](0008.jpg "「乱舞のメロディー」")
+
+不过昨天在路上放星的歌单时突然发现，这个声线实际上对于她的听众而言非常熟悉。
+
+她这样的“帅”声线实际上一直在她的翻唱曲中出现，像[乱舞のメロディー](https://www.youtube.com/watch?v=LpkWFnRPd-M)、[ALICE in N.Y.](https://www.youtube.com/watch?v=Ur0K2WA67jw)，甚至[佐賀事変](https://www.youtube.com/watch?v=-wNSFmqhQsU)里，都可以听到她这样相对深沉的声线。以播放量的增长速度来看，这也是她的观众最喜欢的声线了。
+
+<br>
+
+![不愿透露姓名的发情路人甲](0009.jpg "不愿透露姓名的发情路人甲")
+
+做个事后诸葛亮：她着实不必那么担心，毕竟帅女人可能才是她的观众们最喜欢的一面。
 
 ### 更换声线的意义
 
