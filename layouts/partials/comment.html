@@ -6,24 +6,25 @@
 {{- if $comment.enable -}}
     <div id="comments">
         {{- /* Disqus Comment System */ -}}
-        {{- $disqus := $comment.disqus | default dict -}}
-        {{- if $disqus.enable -}}
-            <div id="disqus_thread"></div>
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/disqusjs@1.3/dist/disqusjs.css">
-            <script src="https://cdn.jsdelivr.net/npm/disqusjs@1.3/dist/disqus.js"></script>
+        {{- $disqusjs := $comment.disqusjs | default dict -}}
+        {{- if $disqusjs.enable -}}
+            <!-- jsDelivr -->
+            {{- $source := $cdn.disqusjsCSS | default "lib/disqusjs/disqusjs.css" -}}
+            <link rel="stylesheet" href="{{- $source -}}">
+            {{- $source := $cdn.disqusjsJS | default "lib/disqusjs/disqus.js" -}}
+            <!-- jsDelivr -->
+            <script src="{{- $source -}}"></script>
+            <div id="disqus_thread" class="comment"></div>
             <script>
                 var dsqjs = new DisqusJS({
-                    shortname: 'aozaki-note',
-                    siteName: '',
-                    identifier: '',
-                    url: '',
-                    title: '',
-                    api: 'https://disqus.aozaki-kuro.com/api/',
-                    apikey: '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p',
-                    admin: 'kuro_aozaki',
-                    adminLabel: '☄'
-                });
-            </script>
+                    shortname: {{- $disqusjs.shortname -}},
+                    siteName: {{- $disqusjs.siteName -}},
+                    api: {{- $disqusjs.api -}},
+                    apikey: {{- $disqusjs.apikey -}},
+                    admin: {{- $disqusjs.admin -}},
+                    adminLabel: {{- $disqusjs.adminLabel -}}
+                 });
+                </script>
         {{- end -}}
 
         {{- /* Gitalk Comment System */ -}}

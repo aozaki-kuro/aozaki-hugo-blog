@@ -371,10 +371,15 @@ ignoreErrors = ["error-remote-getjson"]
     [params.page.comment]
       enable = true
       # Disqus comment config (https://disqus.com/)
-      [params.page.comment.disqus]
+      [params.page.comment.disqusjs]
         enable = true
-        # Disqus shortname to use Disqus in posts
-        # shortname = "aozaki-note"
+        # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
+        shortname = "aozaki-note"
+        siteName = ''
+        apikey = '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p'
+        api = 'https://disqus.aozaki-kuro.com/api/'
+        admin = 'Aozaki'
+        adminLabel = '☄'
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
