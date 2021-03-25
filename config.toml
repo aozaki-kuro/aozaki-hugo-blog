@@ -93,7 +93,7 @@ ignoreErrors = ["error-remote-getjson"]
       [languages.zh-cn.params.search]
         enable = true
         # 搜索引擎的类型 ("lunr", "algolia")
-        type = "algolia"
+        type = "lunr"
         # 文章内容最长索引长度
         contentLength = 4000
         # 搜索框的占位提示语
@@ -108,8 +108,8 @@ ignoreErrors = ["error-remote-getjson"]
         absoluteURL = false
         [languages.zh-cn.params.search.algolia]
           index = "index.zh-cn"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          appID = "189SC8VULE"
+          searchKey = "20a250b24a96865cf1bdc58acbc39ec4"
       # 主页信息设置
       [languages.zh-cn.params.home]
         # RSS 文章数目
@@ -120,7 +120,7 @@ ignoreErrors = ["error-remote-getjson"]
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/about/logo.jpg"
+          avatarURL = "logo.jpg"
           # {{< version 0.1.1 >}} Alt text for avatar (default is the author name)
           avatarAlt = "Aozaki"
           # 主页显示的网站标题 (支持 HTML 格式)
@@ -217,7 +217,7 @@ ignoreErrors = ["error-remote-getjson"]
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["about/logo.jpg"]
+  images = ["logo.jpg"]
 
   # Header config
   [params.header]
