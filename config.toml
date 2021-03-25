@@ -120,7 +120,7 @@ ignoreErrors = ["error-remote-getjson"]
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "logo.jpg"
+          avatarURL = "media/logo.jpg"
           # {{< version 0.1.1 >}} Alt text for avatar (default is the author name)
           avatarAlt = "Aozaki"
           # 主页显示的网站标题 (支持 HTML 格式)
@@ -217,7 +217,7 @@ ignoreErrors = ["error-remote-getjson"]
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["logo.jpg"]
+  images = ["/media/logo.jpg"]
 
   # Header config
   [params.header]
