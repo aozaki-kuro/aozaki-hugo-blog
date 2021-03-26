@@ -3,7 +3,7 @@ title: "新电台，新开始！"
 description: "谢谢你，文化放送。"
 slug: "suisei hoshimachi tadakoro azusa radio program"
 date: 2021-03-23T20:05:00+08:00
-draft: true
+draft: false
 toc: false
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
@@ -43,21 +43,44 @@ MUSIC SPACE的直播存档目前仍然存活。
 
 此前的猜测包括Hololive在文化放送只谈下来一个时间段、被官方节目挤占时间、节目效果不好被砍了、她太忙了等等原因。甚至还有觉得星又被利用当作拓展事务所人气的猜测。一时间关于为何突然节目迎来最终回的原因众说纷纭。
 
-> [:(fab fa-twitter fa-fw):田所あずさofficial](https://twitter.com/AzusaTadokoro/status/1375053223367634947) 官宣消息。
+> [:(fab fa-twitter fa-fw):Hololive](https://twitter.com/hololivetv/status/1375327563229274112)、[:(fab fa-twitter fa-fw):田所あずさofficial](https://twitter.com/AzusaTadokoro/status/1375053223367634947) 官宣消息。
 
 ![行線すくらんぶる](0003.jpg "「星街すいせい・田所あずさ 平行線すくらんぶる」")
 
-随着2021年3月25日晚新节目「平行線すくらんぶる」的官宣，这些疑惑一扫而空。档期不变，依然是每周日下午17:00 - 17:30 JST，节目变为了与 田所あずさ 的共同节目。
+随着2021年3月25日晚新节目「平行線すくらんぶる」的官宣，这些疑惑一扫而空。档期不变，依然是每周日下午17:00 - 17:30 JST，节目变为了与 [田所あずさ](https://www.wikiwand.com/ja/田所あずさ) 的共同节目。
 
 到这里如果有对IM@S系列熟悉的朋友可能已经尖叫出声了。
 
 [田所あずさ](https://www.wikiwand.com/ja/田所あずさ) 正是在 アイドルマスター ミリオンライブ！ シアターデイズ[^3]中 [最上静香](https://millionlive.info/?最上静香) 的CV。
 
-> 翻唱视频地址：[:(fab fa-youtube fa-fw):餞の鳥](https://www.youtube.com/watch?v=5yDNEmcKQFY)、[:(fab fa-youtube fa-fw):アライブファクター](https://www.youtube.com/watch?v=a9EZ2KFTbYM)
+> 翻唱视频地址：[:(fab fa-youtube fa-fw):アライブファクター](https://www.youtube.com/watch?v=a9EZ2KFTbYM)、[:(fab fa-youtube fa-fw):餞の鳥](https://www.youtube.com/watch?v=5yDNEmcKQFY)
+
+![アライブファクター](0005.jpg "アライブファクター / 如月千早(CV.今井麻美)、最上静香(CV.田所あずさ)")
 
 ![餞の鳥](0004.jpg "餞の鳥 / D/Zeal [ジュリア (CV.愛美)、最上静香 (CV.田所あずさ)]")
 
-![アライブファクター](0005.jpg "アライブファクター / 如月千早(CV.今井麻美)、最上静香(CV.田所あずさ)")
+非常巧合的是，星在去年已经分别与朝ノ瑠璃、ときのそら翻唱过 [アライブファクター](https://www.youtube.com/watch?v=a9EZ2KFTbYM) 与 [餞の鳥](https://www.youtube.com/watch?v=5yDNEmcKQFY) 。尤其在 [アライブファクター](https://www.youtube.com/watch?v=a9EZ2KFTbYM) 中，星翻唱了[最上静香](https://millionlive.info/?最上静香)的部分。
+
+想必二位在最初的几回节目中一定会聊到这个话题，素来喜欢IM@S的星也一定会忍不住想多聊一些。
+
+## 田所あずさ
+
+![来自事务所官网的介绍](0006.jpg "来自事务所官网的介绍")
+
+实际上除了饰演贵为IM@S新御三家之一的最上静香，田所あずさ小姐在CV和音乐方面均颇有建树。
+
+CV方面饰演过 [アイカツ!](https://www.wikiwand.com/ja/アイカツ!_(アニメ)) 的 [霧矢あおい](http://www.aikatsu.net/03/character/05.html)，或是在
+ [終末なにしてますか? 忙しいですか? 救ってもらっていいですか?](https://www.wikiwand.com/ja/終末なにしてますか?_忙しいですか?_救ってもらっていいですか?) 中出演 [珂朵莉（クトリ・ノタ・セニオリス）](http://sukasuka-anime.com/chara/chtholly.html) 一角。
+
+![个人音乐专辑及单曲](0007.jpg "个人音乐专辑及单曲")
+
+不仅如此，她也已经成功举办了**10场**个人演唱会，这对于星来说想必也是梦寐以求的目标吧。
+
+## 其他须知
+
+电台「星街すいせい・田所あずさ　平行線すくらんぶる」在 [超！A&G+](http://agqr.jp/)，每周日17:00-17:30 JST开播。第一次直播将在2021年4月4日开始。Hashtag是`#線すく`。
+
+非常期待星和あずさ能够擦出怎样的火花……！熊猫哥会不会继续出现呢！
 
 [^1]: [高槻かなこ](https://twitter.com/Kanako_tktk)小姐作为CV出演 ラブライブ!サンシャイン!! 中的 国木田花丸。- [Wiki](https://www.wikiwand.com/ja/高槻かなこ)
 
