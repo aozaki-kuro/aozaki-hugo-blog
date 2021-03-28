@@ -80,7 +80,7 @@ tags:
 
 > [:(fab fa-twitter fa-fw):原文地址](https://twitter.com/suisei_hosimati/status/1373988320158523398)，建议无限循环 :(fas fa-meteor):
 
-<center>{{< tweet 1373988320158523398 >}}</center>
+{{< tweet 1373988320158523398 >}}
 
 在直播结束后，星在推上用新声线发布了短视频再次宣布了换新声线的消息。
 
