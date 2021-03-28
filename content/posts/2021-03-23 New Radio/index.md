@@ -69,8 +69,11 @@ MUSIC SPACE的直播存档目前仍然存活。
 
 实际上除了饰演贵为IM@S新御三家之一的最上静香，田所あずさ小姐在CV和音乐方面均颇有建树。
 
-CV方面饰演过 [アイカツ!](https://www.wikiwand.com/ja/アイカツ!_(アニメ)) 的 [霧矢あおい](http://www.aikatsu.net/03/character/05.html)，或是在
- [終末なにしてますか? 忙しいですか? 救ってもらっていいですか?](https://www.wikiwand.com/ja/終末なにしてますか?_忙しいですか?_救ってもらっていいですか?) 中出演 [珂朵莉（クトリ・ノタ・セニオリス）](http://sukasuka-anime.com/chara/chtholly.html) 一角。
+CV方面：
+ - [アイカツ!](https://www.wikiwand.com/ja/アイカツ!_(アニメ))（[霧矢あおい](http://www.aikatsu.net/03/character/05.html)）
+ - [終末なにしてますか? 忙しいですか? 救ってもらっていいですか?](https://www.wikiwand.com/ja/終末なにしてますか?_忙しいですか?_救ってもらっていいですか?) （ [珂朵莉](http://sukasuka-anime.com/chara/chtholly.html) ）
+ - [明日方舟](https://www.wikiwand.com/ja/アークナイツ)（[德克萨斯](https://kokodayo.fun/details/char_102_texas)、[克洛斯](https://kokodayo.fun/details/char_124_kroos)）
+ - [ウマ娘 プリティーダービー](https://www.wikiwand.com/ja/ウマ娘_プリティーダービー)（[シンボリルドルフ](https://umamusume.jp/character/detail/?name=symbolirudolf)）
 
 ![个人音乐专辑及单曲](0007.jpg "个人音乐专辑及单曲")
 
