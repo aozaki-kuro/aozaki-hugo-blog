@@ -488,7 +488,7 @@ ignoreErrors = ["error-remote-getjson"]
   [params.analytics]
     enable = true
     [params.analytics.google]
-      id = "UA-174640290-1"
+      id = "G-LXVQD68YHE"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
