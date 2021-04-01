@@ -19,7 +19,7 @@ images: ["/about/work.jpg"]
 
 ## 关于网站 / About the website
 
-本站由[Hugo](https://gohugo.io/)驱动，主题是[CodeIT](https://github.com/sunt-programator/CodeIT)。托管于[Cloudflare Pages](https://pages.cloudflare.com/)，使用[Cloudflare CDN](https://www.cloudflare.com/cdn)。
+本站由[Hugo](https://gohugo.io/)驱动，主题是[CodeIT](https://github.com/sunt-programator/CodeIT)，托管于[netlify](https://netlify.app/)。
 
 本站有使用`Google Analytics`作为第三方统计工具收集统计基础的页面访问信息，如果你对该行为表示不认同，可以通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
 
@@ -36,3 +36,7 @@ images: ["/about/work.jpg"]
 除特殊声明外，本站遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)协议。您可以自由地**共享**以及**演绎**，但是必须**署名**并**相同方式共享**。
 
 如有特殊声明**本文保留所有权利（All Rights Reserved）**，则文章内容与资源为 **Aozaki 版权所有**。未经授权复制或者分发本站内容，意味着您侵犯了我的版权。如果您对具体内容授权存在疑问，欢迎在引用内容之前通过电子邮件联系我。
+
+---
+
+[![Hugo](https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo)](https://gohugo.io/) [![Netlify Status](https://api.netlify.com/api/v1/badges/0bcf1259-0fdb-45da-be64-a76dac743055/deploy-status)](https://app.netlify.com/sites/aozakisnote/deploys)
