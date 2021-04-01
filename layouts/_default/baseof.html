@@ -67,4 +67,32 @@
             };
         }
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/noty@3.2.0-beta/lib/noty.min.js" type="text/javascript"></script>
+    <link href="https://cdn.jsdelivr.net/npm/noty@3.2.0-beta/lib/noty.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/noty@3.2.0-beta/lib/themes/metroui.css" rel="stylesheet" type="text/css" />
+    <script>
+        // 可以这么注册 Service Worker
+        if ('serviceWorker' in navigator) {
+            // 监听 Service Worker 状态，有更新即提示
+            navigator.serviceWorker.addEventListener('controllerchange', function (ev) {
+                try {
+                    console.log("Cache Update！");
+                    new Noty({
+                        type: "info",
+                        theme: "metroui",
+                        closeWith: ['click'],
+                        callbacks: {
+                            onClick: () => {
+                                window.location.reload();
+                            }
+                        },
+                        timeout: "5000",
+                        text: "<style>#tips:link{color: #2a2a2a} #tips:visited{color: #4b0173} #tips:hover{color: #f5f5ff} #tips:active{color: #cccccc}</style><div><b>检测到站点需要更新</b></div><a id='tips' href='#' onclick='window.location.reload();'>点击刷新页面</a> 更新站点",
+                    }).show();
+                }catch (e) {
+                }
+            });
+            ...
+        }
+    </script>
 </html>
