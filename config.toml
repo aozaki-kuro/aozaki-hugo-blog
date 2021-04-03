@@ -93,7 +93,7 @@ ignoreErrors = ["error-remote-getjson"]
       [languages.zh-cn.params.search]
         enable = true
         # 搜索引擎的类型 ("lunr", "algolia")
-        type = "lunr"
+        type = "algolia"
         # 文章内容最长索引长度
         contentLength = 4000
         # 搜索框的占位提示语
@@ -108,8 +108,8 @@ ignoreErrors = ["error-remote-getjson"]
         absoluteURL = false
         [languages.zh-cn.params.search.algolia]
           index = "index.zh-cn"
-          appID = "189SC8VULE"
-          searchKey = "20a250b24a96865cf1bdc58acbc39ec4"
+          appID = "16KY5T6BBV"
+          searchKey = "9330590d0ed904a87b53637690ed0c06"
       # 主页信息设置
       [languages.zh-cn.params.home]
         # RSS 文章数目
