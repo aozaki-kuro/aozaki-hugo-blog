@@ -12,7 +12,7 @@ title = "𝘼𝙤𝙯𝙖𝙠𝙞'𝙨 𝙉𝙤𝙩𝙚"
 # whether to use robots.txt
 enableRobotsTXT = true
 # whether to use git commit log
-enableGitInfo = false
+enableGitInfo = true
 # whether to use emoji code
 enableEmoji = true
 
@@ -211,7 +211,7 @@ ignoreErrors = ["error-remote-getjson"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = ""
+  gitRepo = "https://github.com/aozaki-kuro/Aozaki"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format
