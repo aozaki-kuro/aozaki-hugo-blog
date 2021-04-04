@@ -7,7 +7,7 @@ theme = "CodeIT"
 themesDir = "themes"
 
 # website title
-title = "𝘼𝙤𝙯𝙖𝙠𝙞'𝙨 𝙉𝙤𝙩𝙚"
+title = "Aozaki's Note"
 
 # whether to use robots.txt
 enableRobotsTXT = true
