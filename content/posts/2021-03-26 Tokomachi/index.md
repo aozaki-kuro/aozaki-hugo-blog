@@ -4,9 +4,9 @@ description: "写给我最爱的星床组合。"
 slug: "suisei hoshimachi inui toko tokomachi"
 date: 2021-03-29T08:05:00+08:00
 draft: false
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/suisei-hoshimachi-inui-toko-tokomachi/0001.jpg"]
+featuredImage: "https://img.aozaki-kuro.com/20210326_0001.jpg"
+featuredImagePreview: "https://img.aozaki-kuro.com/20210326_0001.jpg"
+images: ["https://img.aozaki-kuro.com/20210326_0001.jpg"]
 categories: ["VTuber"]
 tags:
 - VTuber
