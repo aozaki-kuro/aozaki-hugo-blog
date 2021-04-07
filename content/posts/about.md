@@ -21,9 +21,9 @@ images: ["/about/work.jpg"]
 
 本站由[Hugo](https://gohugo.io/)驱动，主题是[CodeIT](https://github.com/sunt-programator/CodeIT)，托管于[netlify](https://netlify.app/)。
 
-本站有使用`Google Analytics`作为第三方统计工具收集统计基础的页面访问信息，如果你对该行为表示不认同，可以通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
+本站使用`Google Analytics`作为第三方统计工具收集统计基础的页面访问信息，如果您对该行为表示不认同，通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
 
-本站使用`Disqus`作为评论区模块，并已联去除广告，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**。此外由于各种原因`Disqus`可能无法访问，因此本站也已引入`DisqusJS`作为应对，无法打开`Disqus`的读者应当能看到`DisqusJS`提供的只读基础模式。
+本站使用`Disqus`作为评论区模块，并已去除广告，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**。此外由于各种原因`Disqus`可能无法访问，因此本站也已引入`DisqusJS`作为应对，无法打开`Disqus`的读者应当能看到`DisqusJS`提供的只读基础模式。
 
 ## 免责声明 / Disclaimer
 
@@ -33,7 +33,7 @@ images: ["/about/work.jpg"]
 
 ## 版权声明 / License
 
-除特殊声明外，本站遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)协议。您可以自由地**共享**以及**演绎**，但是必须**署名**并**相同方式共享**。
+除特殊声明外，本站遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)协议。您可以自由地**共享**以及**演绎**，但是必须**署名**并以**相同方式共享**。
 
 如有特殊声明**本文保留所有权利（All Rights Reserved）**，则文章内容与资源为 **Aozaki 版权所有**。未经授权复制或者分发本站内容，意味着您侵犯了我的版权。如果您对具体内容授权存在疑问，欢迎在引用内容之前通过电子邮件联系我。
 
