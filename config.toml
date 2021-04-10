@@ -254,7 +254,7 @@ ignoreErrors = ["error-remote-getjson"]
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license= '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>'
+    license= ""
 
   # Section (all posts) page config
   [params.section]
