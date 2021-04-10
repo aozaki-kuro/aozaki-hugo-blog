@@ -1,0 +1,25 @@
+---
+title: "The Portrait Series: Blossom"
+slug: "The Portrait Series 01"
+date: 2015-02-09T08:07:00+08:00
+draft: false
+license: "Copyright © 2015 Aozaki, All rights reserved."
+toc: false
+description: "01: Blossom in Snow"
+categories: ["Portfolio"]
+tags: 
+- 摄影
+- 人像
+---
+
+<center>
+    <img src="https://img.aozaki-kuro.com/20150209_0001.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0002.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0003.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0004.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0005.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0006.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0007.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0008.jpg">
+    <img src="https://img.aozaki-kuro.com/20150209_0009.jpg">
+</center>
