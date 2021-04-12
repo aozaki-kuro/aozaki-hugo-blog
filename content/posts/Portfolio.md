@@ -3,10 +3,12 @@ title: "Portfolio"
 slug: "portfolio"
 date: 2020-08-03T18:00:08+08:00
 draft: false
-badge: false
 comment: false
 toc: true
+description: "Portfolio of Aozaki."
 ---
+
+<!--more-->
 
 ## 2014
 
