@@ -13,11 +13,12 @@ tags:
 ---
 
 <br>
-
-{{< image src="https://img.aozaki-kuro.com/20151125_0001.jpg" caption="1" >}}
-{{< image src="https://img.aozaki-kuro.com/20151125_0002.jpg" caption="2" >}}
-{{< image src="https://img.aozaki-kuro.com/20151125_0003.jpg" caption="3" >}}
-{{< image src="https://img.aozaki-kuro.com/20151125_0004.jpg" caption="4" >}}
+<center>
+    <img src="https://img.aozaki-kuro.com/20151125_0001.jpg">
+    <img src="https://img.aozaki-kuro.com/20151125_0002.jpg">
+    <img src="https://img.aozaki-kuro.com/20151125_0003.jpg">
+    <img src="https://img.aozaki-kuro.com/20151125_0004.jpg">
+</center>
 
 <!--
     Nikon D800
