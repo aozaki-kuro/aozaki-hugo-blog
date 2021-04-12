@@ -19,3 +19,9 @@ tags:
     <img src="https://img.aozaki-kuro.com/20151125_0003.jpg">
     <img src="https://img.aozaki-kuro.com/20151125_0004.jpg">
 </center>
+
+<!--
+    Nikon D800
+    Nikon AF-S NIKKOR 28mm f/1.8G
+    Nikon AF-S NIKKOR 85mm f/1.8G
+-->

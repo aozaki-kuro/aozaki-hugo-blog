@@ -24,3 +24,9 @@ tags:
     <img src="https://img.aozaki-kuro.com/20160715_0008.jpg">
     <img src="https://img.aozaki-kuro.com/20160715_0009.jpg">
 </center>
+
+<!--
+    Hasselblad 203FE
+    Hasselblad F 110m f/2.0 Planar
+    Fujifilm Pro 400H
+-->
