@@ -6,6 +6,7 @@ draft: false
 comment: false
 toc: true
 description: "Portfolio of Aozaki."
+license: "Copyright © 2014-2021 Aozaki, All rights reserved."
 ---
 
 <!--more-->
