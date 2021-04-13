@@ -6,9 +6,9 @@ draft: false
 displayCopyright: false
 toc: false
 description: "花开堪折直须折，莫待无花空折枝。"
-featuredImage: "https://img.aozaki-kuro.com/20200823_0003.png"
-featuredImagePreview: "https://img.aozaki-kuro.com/20200823_0003.png"
-images: ["https://img.aozaki-kuro.com/20200823_0003.png"]
+featuredImage: "20200823_0003.png"
+featuredImagePreview: "20200823_0003.png"
+images: ["/watching-virtual-youtuber-vtuber/20200823_0003.png"]
 categories: ["VTuber"]
 tags: 
 - 生活

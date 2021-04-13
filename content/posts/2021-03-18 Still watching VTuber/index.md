@@ -5,9 +5,9 @@ date: 2021-03-18T21:03:00+08:00
 draft: false
 description: "没错，我还在看。"
 license: All pictures belongs to the proper Copyright holder(s)
-featuredImage: "https://img.aozaki-kuro.com/20210318_0001.jpg"
-featuredImagePreview: "https://img.aozaki-kuro.com/20210318_0001.jpg"
-images: ["https://img.aozaki-kuro.com/20210318_0001.jpg"]
+featuredImage: "20210318_0001.jpg"
+featuredImagePreview: "20210318_0001.jpg"
+images: ["/still-watching-vtuber-suisei-hoshimachi/20210318_0001.jpg"]
 categories: ["VTuber"]
 tags: 
 - 生活
