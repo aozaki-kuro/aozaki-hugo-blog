@@ -6,7 +6,7 @@ date: 2021-04-23T08:05:00+08:00
 draft: true
 featuredImage: "20210423_0001.jpg"
 featuredImagePreview: "20210423_0001.jpg"
-images: ["/suisei-hoshimachi-inui-toko-tokomachi-2/20210423_0001.jpg"   ]
+images: ["/suisei-hoshimachi-inui-toko-tokomachi-2/20210423_0001.jpg"]
 categories: ["VTuber"]
 tags:
 - VTuber
@@ -37,19 +37,15 @@ tags:
 
 ## Space for Virtual GHOST
 
-> [:(fab fa-youtube fa-fw): 演唱会原地址](https://www.youtube.com/watch?v=Ajwv4ANSSg0)
+> 演唱会原地址 [:(fab fa-youtube fa-fw): Space for Virtual GHOST](https://www.youtube.com/watch?v=Ajwv4ANSSg0)
 
-![Space for Virtual GHOST](https://img.aozaki-kuro.com/20210423_0002.jpg "Space for Virtual GHOST")
+![Space for Virtual GHOST](https://img.aozaki-kuro.com/20210423_0002.jpg "3周年纪念演唱会")
 
 今年阿星的3周年Live，之前个人的猜想是全程阿星Solo以证明自己的实力。当然各位看过演唱会后也能明白，阿星今年的Guest阵容不仅强大，也配得上她现如今的实力。
 
-除了Holoband，最最意外的恐怕就是事前丝毫没有走漏任何风声的阿床了（实际上还有是蛛丝马迹的，后续会提到）。
+除了Holoband的惊喜，最最意外的嘉宾恐怕就是事前丝毫没有走漏任何风声的阿床了（实际上还有是蛛丝马迹的，后续会提到）。
 
-<!--
-
-![阿床“突然想起”今天就是阿星演唱会](https://img.aozaki-kuro.com/20210423_0003.jpg "阿床“突然想起”今天就是阿星演唱会")
-
--->
+![阿床“突然想起”今天就是阿星演唱会](https://img.aozaki-kuro.com/20210423_0009.jpg "阿床“突然想起”今天就是阿星演唱会")
 
 当时看到这条推文时心一沉，觉得阿床确实还是来不了，或者是阿星想把阿床藏到她的1st Solo Live作为嘉宾。当然还有点淡淡的期望，希望阿床和干草开同时视听。
 
@@ -57,16 +53,42 @@ tags:
 
 当然擅长给观众惊喜、并将保密工作贯彻到底的阿星和阿床确实给了我们一个巨大的意外：第一位嘉宾就是阿床。
 
-<!--
+![In the Morning](https://img.aozaki-kuro.com/20210423_0003.jpg "In the Morning - Mrs. GREEN APPLE")
 
-![曲名](https://img.aozaki-kuro.com/20210423_0003.jpg "曲名")
+![盗作1](https://img.aozaki-kuro.com/20210423_0004.jpg "ヨルシカ - 盗作")
 
--->
+![盗作2](https://img.aozaki-kuro.com/20210423_0005.jpg "首次公开留档的舞台共演")
 
-<!--
+![盗作3](https://img.aozaki-kuro.com/20210423_0007.jpg "共同站在大舞台上的心愿再次达成")
 
-![盗作](https://img.aozaki-kuro.com/20210423_0003.jpg "ヨルシカ - 盗作")
+![盗作4](https://img.aozaki-kuro.com/20210423_0008.jpg "真的很美")
 
--->
+两人合唱了「In the Morning」以及「盗作」。前者充满活力，而另一首则是两人都擅长的来自ヨルシカ的抒情歌曲。
 
+星床二人在整体的衔接上可谓是天衣无缝，在众多切片的评论中很多人都在感叹这两人为何配合得如此顺滑。尤其是结尾「まだ足りない、まだ足りない」的那段，两人根本无需特意等待对方，非常自然地就出了下一句，把整首歌真正地推上了高潮。
 
+阿床的出现不仅令熟悉阿床的观众全部大吃一惊，也令一票只看Hololive的英文观众惊讶这是谁，为什么还存在歌力与阿星相比不相上下甚至可以更强的V。
+
+后面这个问题完全归结于英文观众除了Hololive以外就不怎么了解其他歌力坚实的V，当然这则是后话了。
+
+自从2020年12月10日，阿星以嘉宾身份作客阿床1st Solo Live以来，这还是两人首次以3D形式留下的公开大舞台影像。这也代表着两人距离梦想又靠近了一步——双方事务所多半是非常愿意大力支持这两人的组合。
+
+[前一篇文章中](/suisei-hoshimachi-inui-toko-tokomachi/)我也提到，早在2019年6月18日两人就在推上提到想要一起站在大舞台上唱歌。现在礼尚往来，都在对方的舞台上作为嘉宾出演，并给对方的观众留下了极为深刻的印象，可喜可贺。也衷心祝福两位今后的活动能够顺利开展，多多互动。
+
+## 杂谈
+
+> 相关杂谈地址 [:(fab fa-youtube fa-fw): 当日杂谈](https://www.youtube.com/watch?v=BNq4LHZRhfQ)、[:(fab fa-youtube fa-fw): 后续杂谈](https://www.youtube.com/watch?v=hKjv_Z5xjwc)
+
+![“把话题留给阿星吧，她才是主角哦”](https://img.aozaki-kuro.com/20210423_0011.jpg "“把话题留给阿星吧，她才是主角哦”")
+
+阿床由于较早结束演出任务，在演唱会结束后不久便开了杂谈。不过尽管标题是“兴奋感尚未平复”，阿床在直播中还是表示，阿星才是主角，把选歌理由和过程，还有一些趣事留给阿星说。
+
+~~说真的阿床真的懂，难怪阿星喜欢她，我也喜欢。~~
+
+### 送披萨的小女孩
+
+![送披萨的小女孩](https://img.aozaki-kuro.com/20210423_0010.jpg "“在吃披萨。”“来点？”")
+
+在正式开演前几天，阿星曾经在推上发过一句“休息吃披萨中”，阿床回复说也想要吃。
+
+### 选歌
