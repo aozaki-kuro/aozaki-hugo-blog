@@ -3,7 +3,7 @@ title: "戌亥とこ × 星街すいせい：3周年纪念演唱会"
 description: "从未令我失望的蓝发女路人和可爱地狱犬。"
 slug: "suisei hoshimachi inui toko tokomachi 2"
 date: 2021-04-23T08:05:00+08:00
-draft: true
+draft: false
 featuredImage: "20210423_0001.jpg"
 featuredImagePreview: "20210423_0001.jpg"
 images: ["/suisei-hoshimachi-inui-toko-tokomachi-2/20210423_0001.jpg"]
