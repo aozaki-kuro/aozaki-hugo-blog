@@ -11,7 +11,7 @@ license: "Do Not Repost without Permission."
 
 <br>
 
-<!--{{< image src="https://img.aozaki-kuro.com/20200803_0004.jpg" caption="© 2021 Laxy（[@laxyiii](https://twitter.com/laxyiii)）" alt= "© 2021 Laxy" width="800px" height="" >}}-->
+{{< image src="https://img.aozaki-kuro.com/20200803_0004.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii)" alt= "© 2021 Laxy" width="800px" height="" >}}
 
 {{< image src="https://img.aozaki-kuro.com/20200803_0003.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul)" alt= "© 2021 ALETH" width="800px" height="" >}}
 
