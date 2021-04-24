@@ -111,4 +111,4 @@ license: "Copyright © 2014-2021 Aozaki, All rights reserved."
 
 ***
 
-<center><i>For Art Commission Profolio, Please <a href="/art-comission-portfolio/">Click</a></i></center>
+<center><i>For Art Commission Portfolio, Please <a href="/art-comission-portfolio/">Click</a></i></center>

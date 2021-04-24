@@ -5,7 +5,8 @@ date: 2020-08-03T19:00:08+08:00
 draft: false
 comment: false
 toc: false
-description: "Art Commission portfolio of Aozaki."
+description: "Art Commission Portfolio of Aozaki."
+license: "Do Not Repost without Permission."
 ---
 
 <br>
