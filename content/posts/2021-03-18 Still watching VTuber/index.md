@@ -5,9 +5,9 @@ date: 2021-03-18T21:03:00+08:00
 draft: false
 description: "没错，我还在看。"
 license: All pictures belongs to the proper Copyright holder(s)
-featuredImage: "20210318_0001.jpg"
-featuredImagePreview: "20210318_0001.jpg"
-images: ["/still-watching-vtuber-suisei-hoshimachi/20210318_0001.jpg"]
+featuredImage: "0001.jpg"
+featuredImagePreview: "0001.jpg"
+images: ["/still-watching-vtuber-suisei-hoshimachi/0001.jpg"]
 categories: ["VTuber"]
 tags: 
 - 生活
