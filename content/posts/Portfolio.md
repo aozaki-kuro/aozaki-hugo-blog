@@ -7,6 +7,7 @@ comment: false
 toc: true
 description: "Portfolio of Aozaki."
 license: "Copyright © 2014-2021 Aozaki, All rights reserved."
+categories: ["Portfolio"]
 ---
 
 <!--more-->
@@ -111,4 +112,4 @@ license: "Copyright © 2014-2021 Aozaki, All rights reserved."
 
 ***
 
-<center><i>For Art Commission Portfolio, Please <a href="/art-comission-portfolio/">Click</a></i></center>
+<center><i>For Art Commission Collection, Please <a href="/art-comission-collection/">Click</a></i></center>

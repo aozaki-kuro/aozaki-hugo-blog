@@ -1,12 +1,13 @@
 ---
-title: "Art Commission Portfolio"
-slug: "Art Comission Portfolio"
+title: "Art Commission Collection"
+slug: "Art Comission Collection"
 date: 2020-08-03T19:00:08+08:00
 draft: false
 comment: false
 toc: false
-description: "Art Commission Portfolio of Aozaki."
+description: "Art Commission Collection of Aozaki."
 license: "Do Not Repost without Permission."
+categories: ["Portfolio"]
 ---
 
 <br>
