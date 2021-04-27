@@ -4,7 +4,7 @@ slug: "chiling out before too gachikoi"
 date: 2021-04-27T11:05:00+08:00
 draft: false
 toc: false
-comment: false
+comment: true
 categories: ["VTuber"]
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
@@ -97,7 +97,7 @@ images: ["/chiling-out-before-too-gachikoi/0001.jpg"]
 
 所以我认为我自己确实过头了，应该是要接受休克疗法，想办法走出这个自己一手造出来的阴霾了。
 
-### 观察日本观众反映
+### 观察日本观众反应
 
 其实这个梗出来后，在两边Discord服务器的核心日本观众还是英文观众，都多多少少对此表示并不那么乐见（主要是不喜欢乱刷梗的那些人）。并且我观察到较多日本观众根本拒绝参与到这场狂欢里面来，并努力克制、关注直播内容本身。这视而不见的功夫我还是很佩服的。
 
