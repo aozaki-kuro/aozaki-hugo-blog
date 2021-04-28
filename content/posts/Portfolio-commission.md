@@ -16,6 +16,8 @@ categories: ["Portfolio"]
 
 {{< image src="https://img.aozaki-kuro.com/20200803_0003.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul/status/1377187662084341760)" alt= "© 2021 ALETH" width="800px" height="" >}}
 
+{{< image src="https://img.aozaki-kuro.com/20200803_0005.jpg" caption="© 2021 [楠ハルイ](https://twitter.com/hr_x9_)" alt= "© 2021 楠ハルイ" width="" height="700" >}}
+
 {{< image src="https://img.aozaki-kuro.com/20200803_0001.jpg" caption="© 2021 [今沢](https://twitter.com/animarcat)" alt= "© 2021 今沢" width="" height="700" >}}
 
 {{< image src="https://img.aozaki-kuro.com/20200803_0002.jpg" caption="© 2021 [朱耶式](https://twitter.com/akaya_siki/status/1371584249745186817)" alt= "© 2021 朱耶式" width="" height="700" >}}
