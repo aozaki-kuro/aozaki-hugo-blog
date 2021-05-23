@@ -14,7 +14,7 @@ categories: ["Portfolio"]
 
 {{< image src="https://img.aozaki-kuro.com/commission_20210424_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/status/1385985122332155908)" alt= "© 2021 Laxy" width="800px" height="" >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission_20210523_ALETH.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul)" alt= "© 2021 ALETH" width="800px" height="" >}}
+{{< image src="https://img.aozaki-kuro.com/commission_20210523_ALETH.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul/status/1396390446390300674)" alt= "© 2021 ALETH" width="800px" height="" >}}
 
 {{< image src="https://img.aozaki-kuro.com/commission_20210331_ALETH.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul/status/1377187662084341760)" alt= "© 2021 ALETH" width="800px" height="" >}}
 
