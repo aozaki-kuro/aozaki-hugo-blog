@@ -3,7 +3,8 @@ Title: "すいちゃんのランキング"
 slug: "suisei rankings"
 date: 2021-06-24T11:05:00+08:00
 draft: false
-comment: true
+toc: false
+comment: false
 categories: ["VTuber"]
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
