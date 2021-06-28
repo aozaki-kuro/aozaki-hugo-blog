@@ -39,4 +39,4 @@ images: ["/about/work.jpg"]
 
 ---
 
-[![Hugo](https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo)](https://gohugo.io) [![CodeIT](https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github)](https://github.com/sunt-programator/CodeIT) [![netlify](https://img.shields.io/netlify/0bcf1259-0fdb-45da-be64-a76dac743055?logo=netlify&style=flat-square)](https://netlify.app)
+<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></img></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></img></a> <a href="https://netlify.app"><img src="https://img.shields.io/netlify/0bcf1259-0fdb-45da-be64-a76dac743055?logo=netlify&style=flat-square" height="20"></img></a>
