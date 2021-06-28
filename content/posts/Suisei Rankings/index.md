@@ -9,13 +9,14 @@ categories: ["VTuber"]
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
 images: ["/suisei-rankings/0001.jpg"]
+description: "こちらは星街すいせいさんのオリジナルソングランキングです。/ This is the chart for Hoshimachi Suisei's original song rankings."
 ---
 
 ## :memo: 概要 / Description
 
 <a href="https://twitter.com/suisei_hosimati"><img src="https://img.shields.io/badge/Twitter-@suisei__hosimati-0075bd?style=flat-square&logo=twitter" height="20"></img></a> <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A"><img src="https://img.shields.io/badge/YouTube-Suisei%20Channel-d40000?style=flat-square&logo=youtube" height="20"></img></a>
 
-こちらは [星街すいせい](https://twitter.com/suisei_hosimati) さんのオリジナルソングのランキングです。
+こちらは[星街すいせい](https://twitter.com/suisei_hosimati)さんのオリジナルソングランキングです。
 
 This is the chart for Hoshimachi Suisei's original song rankings.
 
@@ -29,7 +30,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 	<colgroup span="6"></colgroup>
 	<thead>
 	<tr>
-		<th rowspan=2 align="center" valign=middle width=120pt><b>タイトル</b></th>
+		<th rowspan=2 align="center" valign=middle width=140pt><b>タイトル</b></th>
 		<th rowspan=2 align="center" valign=middle width=20pt><b>年</b></th>
 		<th colspan=2 align="center" valign=middle><b>デジタル</b></th>
 		<th colspan=2 align="center" valign=middle><b>フィジカル</b></th>
@@ -91,7 +92,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 	<colgroup span="6"></colgroup>
 	<thead>
 	<tr>
-		<th rowspan=2 align="center" valign=middle width=120pt><b>タイトル</b></th>
+		<th rowspan=2 align="center" valign=middle width=140pt><b>タイトル</b></th>
 		<th rowspan=2 align="center" valign=middle width=20pt><b>年</b></th>
 		<th colspan=2 align="center" valign=middle><b>iTunes</b></th>
 		<th colspan=2 align="center" valign=middle><b>Mora</b></th>
@@ -146,7 +147,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 	<colgroup span="6"></colgroup>
 	<thead>
 	<tr>
-		<th rowspan=2 align="center" valign=middle width=120pt><b>タイトル</b></td>
+		<th rowspan=2 align="center" valign=middle width=140pt><b>タイトル</b></td>
 		<th rowspan=2 align="center" valign=middle width=20pt><b>年</b></td>
         <td colspan=2 align="center" valign=middle><b>Amazon</b></td>
 		<td colspan=2 align="center" valign=middle><b>OTOTOY</b></td>
