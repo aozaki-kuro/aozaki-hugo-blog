@@ -213,14 +213,12 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 |タイトル|YouTube|Links|
 |:----:|:--:|:----:|
 |Comet|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=3cqV5BKJHyk)|[<i class="fas fa-meteor"></i> streamlink.io](https://suisei.streamlink.to/bluerose)|
-|NEXT COLOR PLANET|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=vQHVGXdcqEQ)|N/A|
+|NEXT COLOR PLANET|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=vQHVGXdcqEQ)|<font color="grey"><i class="fas fa-link"></i> linkco.re</font>|
 |GHOST|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=IKKar5SS29E)|[<i class="fas fa-ghost"></i> streamlink.io](https://suisei.streamlink.to/GHOST)|
 |Bluerose|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=ZfDYRy17CBY)|[<i class="fas fa-meteor"></i> streamlink.io](https://suisei.streamlink.to/bluerose)|
 
 
 ## :books: 翻訳 / Translation / Legend
-
-{{< admonition type=quote title="📌 クリック / Click" open=false >}}
 
 |日本語|英語|中国語|
 |:----:|:--:|:----:|
@@ -231,7 +229,5 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 |週間|Weekly|周榜|
 |シングル|Single|单曲|
 |アルバム|Album|专辑|
-
-{{< /admonition >}}
 
 [^1]: [第2回VTuber楽曲大賞開催　楽曲部門1位はホロライブ・星街すいせい「NEXT COLOR PLANET」](https://panora.tokyo/archives/14764)
