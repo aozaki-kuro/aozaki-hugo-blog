@@ -3,7 +3,6 @@ Title: "すいちゃんのランキング"
 slug: "suisei rankings"
 date: 2021-06-24T11:05:00+08:00
 draft: false
-toc: false
 comment: true
 categories: ["VTuber"]
 featuredImage: "0001.jpg"
@@ -204,7 +203,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 
 ## :trophy: 入賞 / Awards
 
-- 2020年12月、「第2回VTuber楽曲大賞」にて楽曲部門1位を獲得[^1]
+- 2020年12月、NEXT COLOR PLANET「第2回VTuber楽曲大賞」にて楽曲部門1位を獲得[^1]
 
 ---
 
@@ -217,7 +216,10 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 |GHOST|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=IKKar5SS29E)|[<i class="fas fa-ghost"></i> streamlink.io](https://suisei.streamlink.to/GHOST)|
 |Bluerose|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=ZfDYRy17CBY)|[<i class="fas fa-meteor"></i> streamlink.io](https://suisei.streamlink.to/bluerose)|
 
-{{< admonition type=quote title="📚 翻訳 / Translation" open=false >}}
+
+## :books: 翻訳 / Translation / Legend
+
+{{< admonition type=quote title="📌 クリック / Click" open=false >}}
 
 |日本語|英語|中国語|
 |:----:|:--:|:----:|
