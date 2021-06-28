@@ -8,7 +8,7 @@ categories: ["VTuber"]
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
 images: ["/suisei-rankings/0001.jpg"]
-description: "こちらは星街すいせいさんのオリジナルソングランキングです。/ This is the chart for Hoshimachi Suisei's original song rankings."
+description: "星街すいせいさんのオリジナルソングランキングです。/ This is the chart for Hoshimachi Suisei's original song rankings."
 ---
 
 ## :memo: 概要 / Description
@@ -23,7 +23,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 
 ---
 
-## 🌟 オリコンランキング / Oricon Ranking
+## :glowing_star: オリコンランキング / Oricon Ranking
 
 <table>
 	<colgroup span="6"></colgroup>
@@ -85,7 +85,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 
 ---
 
-## 🌃 デジタルリリース / Digital Sale Ranks
+## :night_with_stars: デジタルリリース / Digital Sale Ranks
 
 <table>
 	<colgroup span="6"></colgroup>
