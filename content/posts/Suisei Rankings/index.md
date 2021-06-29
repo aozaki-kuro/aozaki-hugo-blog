@@ -268,7 +268,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 			<th style="text-align:center" width=35%>日本語</th>
 			<th style="text-align:center" width=21.67%>English</th>
 			<th style="text-align:center" width=21.67%>简体中文</th>
-			<th style="text-align:center" width=21.67%>简体中文</th>
+			<th style="text-align:center" width=21.67%>繁體中文</th>
 		</tr>
 	</thead>
 	<tbody>
