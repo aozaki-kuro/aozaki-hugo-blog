@@ -252,7 +252,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 		<tr>
 			<td style="text-align:center">3時12分</td>
 			<td style="text-align:center">TAKU INOUE</td> <!--Phy Daily-->
-			<td style="text-align:center"><a href="https://www.youtube.com/watch?v=vQHVGXdcqEQ">:(fab fa-youtube fa-fw): TAKU INOUE</a></td> <!--Phy Weekly-->
+			<td style="text-align:center"><a href="">:(fab fa-youtube fa-fw): TAKU INOUE</a></td> <!--Phy Weekly-->
 			<td style="text-align:center"><font face="monospace"></font></td> <!--Digital Weekly-->
 		</tr>
 	</tbody>
