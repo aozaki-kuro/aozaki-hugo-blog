@@ -29,17 +29,17 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 	<colgroup span="4"></colgroup>
 	<thead>
 	<tr>
-		<th align="center" valign=middle width=35%><b>オリコン / Oricon</b></th>
-		<th align="center" valign=middle width=21.67%><b>デイリー</b></th>
-		<th align="center" valign=middle width=21.67%><b>週間</b></th>
-		<th align="center" valign=middle width=21.67%><b>デジタル・週間</b></th>
+		<th align="center" valign=middle width=35%>オリコン / Oricon</th>
+		<th align="center" valign=middle width=21.67%>デイリー</th>
+		<th align="center" valign=middle width=21.67%>週間</th>
+		<th align="center" valign=middle width=21.67%>デジタル・週間</th>
 	</tr>
 	</thead>
 	<tr>
-		<td align="center" valign=middle></td>
-		<td align="center" valign=middle></td> <!--Phy Daily-->
-		<td align="center" valign=middle></td> <!--Phy Weekly-->
-		<td align="center" valign=middle></td> <!--Digital Weekly-->
+		<td align="center" valign=middle><font face="monospace"></font></td>
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Phy Daily-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Phy Weekly-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Digital Weekly-->
 	</tr>
 </table>
 
@@ -49,21 +49,21 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 	<colgroup span="4"></colgroup>
 	<thead>
 	<tr>
-		<th align="center" valign=middle width=35%><b>オリコン / Oricon</b></th>
-		<th align="center" valign=middle width=21.67%><b>デイリー</b></th>
-		<th align="center" valign=middle width=21.67%><b>週間</b></th>
-		<th align="center" valign=middle width=21.67%><b>デジタル・週間</b></th>
+		<th align="center" valign=middle width=35%>オリコン / Oricon</th>
+		<th align="center" valign=middle width=21.67%>デイリー</th>
+		<th align="center" valign=middle width=21.67%>週間</th>
+		<th align="center" valign=middle width=21.67%>デジタル・週間</th>
 	</tr>
 	</thead>
 	<tr>
 		<td align="center" valign=middle>Bluerose</td>
-		<td colspan=3 align="center" valign=middle>N/A</td>
+		<td colspan=3 align="center" valign=middle><font face="monospace">N/A</font></td>
 	</tr>
 	<tr>
-		<td align="center" valign=middle></td>
-		<td align="center" valign=middle></td> <!--Phy Daily-->
-		<td align="center" valign=middle></td> <!--Phy Weekly-->
-		<td align="center" valign=middle></td> <!--Digital Weekly-->
+		<td align="center" valign=middle><font face="monospace"></font></td>
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Phy Daily-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Phy Weekly-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Digital Weekly-->
 	</tr>
 </table>
 
@@ -73,104 +73,62 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 	<colgroup span="6"></colgroup>
 	<thead>
 	<tr>
-		<th align="center" valign=middle width=35%><b>デイリー / Daily</b></th>
-				<th align="center" valign=middle width=13%><b>Oricon</b></th>
-		<th align="center" valign=middle width=13%><b>iTunes</b></th>
-		<th align="center" valign=middle width=13%><b>Amazon</b></th>
-		<th align="center" valign=middle width=13%><b>Mora</b></th>
-		<th align="center" valign=middle width=13%><b>OTOTOY</b></th>
+		<th align="center" valign=middle width=35%>シングル / Single</th>
+		<th align="center" valign=middle width=13%>Oricon</th>
+		<th align="center" valign=middle width=13%>iTunes</th>
+		<th align="center" valign=middle width=13%>Amazon</th>
+		<th align="center" valign=middle width=13%>Mora</th>
+		<th align="center" valign=middle width=13%>OTOTOY</th>
 	</tr>
 	</thead>
 	<tr>
 		<td align="center" valign=middle>Comet</td>
-		<td align="center" valign=middle>6</td> <!--Oricon-->
-		<td align="center" valign=middle>9</td> <!--iTunes-->
-		<td align="center" valign=middle>3</td> <!--Amazon-->
-		<td align="center" valign=middle>7</td> <!--Mora-->
-		<td align="center" valign=middle>2</td> <!--OTOTOY-->
+		<td align="center" valign=middle><font face="monospace">6</font></td> <!--Oricon-->
+		<td align="center" valign=middle><font face="monospace">9</font></td> <!--iTunes-->
+		<td align="center" valign=middle><font face="monospace">3</font></td> <!--Amazon-->
+		<td align="center" valign=middle><font face="monospace">7</font></td> <!--Mora-->
+		<td align="center" valign=middle><font face="monospace">1 / 2</font></td> <!--OTOTOY-->
 	</tr>
 	<tr>
 		<td align="center" valign=middle>天球、彗星は夜を跨いで</td>
-		<td align="center" valign=middle></td> <!--Oricon-->
-		<td align="center" valign=middle></td> <!--iTunes-->
-		<td align="center" valign=middle></td> <!--Amazon-->
-		<td align="center" valign=middle></td> <!--Mora-->
-		<td align="center" valign=middle></td> <!--OTOTOY-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Oricon-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--iTunes-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Amazon-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--Mora-->
+		<td align="center" valign=middle><font face="monospace"></font></td> <!--OTOTOY-->
 	</tr>
 	<tr>
 		<td align="center" valign=middle>NEXT COLOR PLANET</td>
-		<td align="center" valign=middle>5</td> <!--Oricon-->
-		<td colspan=4 align="center" valign=middle>N/A</td>
+		<td align="center" valign=middle><font face="monospace">5</font></td> <!--Oricon-->
+		<td colspan=4 align="center" valign=middle><font face="monospace">N/A</font></td>
 	</tr>
 	<tr>
 		<td align="center" valign=middle>GHOST</td>
-		<td align="center" valign=middle>1</td> <!--Oricon-->
-		<td align="center" valign=middle>1</td> <!--iTunes-->
-		<td align="center" valign=middle>1</td> <!--Amazon-->
-		<td align="center" valign=middle>1</td> <!--Mora-->
-		<td align="center" valign=middle>1</td> <!--OTOTOY-->
+		<td align="center" valign=middle><font face="monospace">1 / 11</font></td> <!--Oricon-->
+		<td align="center" valign=middle><font face="monospace">1</font></td> <!--iTunes-->
+		<td align="center" valign=middle><font face="monospace">1</font></td> <!--Amazon-->
+		<td align="center" valign=middle><font face="monospace">1</font></td> <!--Mora-->
+		<td align="center" valign=middle><font face="monospace">1 / 1</font></td> <!--OTOTOY-->
 	</tr>
 	<tr>
 		<td align="center" valign=middle>Bluerose</td>
-		<td align="center" valign=middle>5</td> <!--Oricon-->
-		<td align="center" valign=middle>6</td> <!--iTunes-->
-		<td align="center" valign=middle>2</td> <!--Amazon-->
-		<td align="center" valign=middle>3</td> <!--Mora-->
-		<td align="center" valign=middle>2</td> <!--OTOTOY-->
+		<td align="center" valign=middle><font face="monospace">5</font></td> <!--Oricon-->
+		<td align="center" valign=middle><font face="monospace">6</font></td> <!--iTunes-->
+		<td align="center" valign=middle><font face="monospace">2</font></td> <!--Amazon-->
+		<td align="center" valign=middle><font face="monospace">3</font></td> <!--Mora-->
+		<td align="center" valign=middle><font face="monospace">1 / 2</font></td> <!--OTOTOY-->
 	</tr>
 </table>
 
-<table>
-	<colgroup span="6"></colgroup>
-	<thead>
-	<tr>
-		<th align="center" valign=middle width=35%><b>週間 / Weekly</b></th>
-		<th align="center" valign=middle width=13%><b>Oricon</b></th>
-		<th align="center" valign=middle width=13%><b>iTunes</b></th>
-		<th align="center" valign=middle width=13%><b>Amazon</b></th>
-		<th align="center" valign=middle width=13%><b>Mora</b></th>
-		<th align="center" valign=middle width=13%><b>OTOTOY</b></th>
-	</tr>
-	</thead>
-	<tr>
-		<td align="center" valign=middle>Comet</td>
-		<td align="center" valign=middle></td> <!--Oricon-->
-		<td align="center" valign=middle></td> <!--iTunes-->
-		<td align="center" valign=middle></td> <!--Amazon-->
-		<td align="center" valign=middle></td> <!--Mora-->
-		<td align="center" valign=middle></td> <!--OTOTOY-->
-	</tr>
-	<tr>
-		<td align="center" valign=middle>天球、彗星は夜を跨いで</td>
-		<td align="center" valign=middle></td> <!--Oricon-->
-		<td align="center" valign=middle></td> <!--iTunes-->
-		<td align="center" valign=middle></td> <!--Amazon-->
-		<td align="center" valign=middle></td> <!--Mora-->
-		<td align="center" valign=middle></td> <!--OTOTOY-->
-	</tr>
-	<tr>
-		<td align="center" valign=middle>NEXT COLOR PLANET</td>
-		<td colspan=5 align="center" valign=middle>N/A</td>
-	</tr>
-	<tr>
-		<td align="center" valign=middle>GHOST</td>
-		<td align="center" valign=middle>11</td> <!--Oricon-->
-		<td align="center" valign=middle></td> <!--iTunes-->
-		<td align="center" valign=middle></td> <!--Amazon-->
-		<td align="center" valign=middle></td> <!--Mora-->
-		<td align="center" valign=middle>1</td> <!--OTOTOY-->
-	</tr>
-	<tr>
-		<td align="center" valign=middle>Bluerose</td>
-		<td align="center" valign=middle></td> <!--Oricon-->
-		<td align="center" valign=middle></td> <!--iTunes-->
-		<td align="center" valign=middle></td> <!--Amazon-->
-		<td align="center" valign=middle></td> <!--Mora-->
-		<td align="center" valign=middle></td> <!--OTOTOY-->
-	</tr>
-</table>
+<font size="2">
+<i>
 
-<font size="2">*N/A: Not Ranked / No Data Found*</font>
+N/A: Not Ranked / No Data Found
+
+For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
+
+</i>
+</font>
 
 ---
 
@@ -182,24 +140,85 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 
 ## :link: リンク / Links
 
-|タイトル|YouTube|Links|
-|:----:|:--:|:----:|
-|Comet|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=3cqV5BKJHyk)|[<i class="fas fa-meteor"></i> streamlink.io](https://suisei.streamlink.to/bluerose)|
-|NEXT COLOR PLANET|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=vQHVGXdcqEQ)|<font color="grey"><i class="fas fa-link"></i> linkco.re</font>|
-|GHOST|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=IKKar5SS29E)|[<i class="fas fa-ghost"></i> streamlink.io](https://suisei.streamlink.to/GHOST)|
-|Bluerose|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=ZfDYRy17CBY)|[<i class="fas fa-meteor"></i> streamlink.io](https://suisei.streamlink.to/bluerose)|
-
+<table>
+	<thead>
+		<tr>
+			<th align="center" valign=middle width=50%>タイトル</th>
+			<th align="center" valign=middle width=25%>YouTube</th>
+			<th align="center" valign=middle width=25%>Links</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center">Comet</td>
+			<td style="text-align:center"><a href="https://www.youtube.com/watch?v=3cqV5BKJHyk">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td style="text-align:center"><a href="https://suisei.streamlink.to/bluerose"><i class="fas fa-meteor"></i> streamlink.io</a></td>
+		</tr>
+		<tr>
+			<td style="text-align:center">NEXT COLOR PLANET</td>
+			<td style="text-align:center"><a href="https://www.youtube.com/watch?v=vQHVGXdcqEQ">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td style="text-align:center"><font color="grey"><i class="fas fa-link"></i> linkco.re</font></td>
+		</tr>
+		<tr>
+			<td style="text-align:center">GHOST</td>
+			<td style="text-align:center"><a href="https://www.youtube.com/watch?v=IKKar5SS29E">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td style="text-align:center"><a href="https://suisei.streamlink.to/GHOST"><i class="fas fa-ghost"></i> streamlink.io</a></td>
+		</tr>
+		<tr>
+			<td style="text-align:center">Bluerose</td>
+			<td style="text-align:center"><a href="https://www.youtube.com/watch?v=ZfDYRy17CBY">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td style="text-align:center"><a href="https://suisei.streamlink.to/bluerose"><i class="fas fa-meteor"></i> streamlink.io</a></td>
+		</tr>
+	</tbody>
+</table>
 
 ## :books: 翻訳 / Translation / Legend
 
-|日本語|英語|中国語|
-|:----:|:--:|:----:|
-|タイトル|Title|标题|
-|デジタル|Digital|数字版|
-|フィジカル|Physical|实体版|
-|デイリー|Daily|日榜|
-|週間|Weekly|周榜|
-|シングル|Single|单曲|
-|アルバム|Album|专辑|
+<table>
+	<thead>
+		<tr>
+			<th align="center" valign=middle width=33.3%>日本語</th>
+			<th align="center" valign=middle width=33.3%>英語</th>
+			<th align="center" valign=middle width=33.3%>中国語</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center">タイトル</td>
+			<td style="text-align:center">Title</td>
+			<td style="text-align:center">标题</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">デジタル</td>
+			<td style="text-align:center">Digital</td>
+			<td style="text-align:center">数字版</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">フィジカル</td>
+			<td style="text-align:center">Physical</td>
+			<td style="text-align:center">实体版</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">デイリー</td>
+			<td style="text-align:center">Daily</td>
+			<td style="text-align:center">日榜</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">週間</td>
+			<td style="text-align:center">Weekly</td>
+			<td style="text-align:center">周榜</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">シングル</td>
+			<td style="text-align:center">Single</td>
+			<td style="text-align:center">单曲</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">アルバム</td>
+			<td style="text-align:center">Album</td>
+			<td style="text-align:center">专辑</td>
+		</tr>
+	</tbody>
+</table>
 
 [^1]: [第2回VTuber楽曲大賞開催　楽曲部門1位はホロライブ・星街すいせい「NEXT COLOR PLANET」](https://panora.tokyo/archives/14764)
