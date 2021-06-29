@@ -5,9 +5,9 @@ date: 2021-06-24T11:05:00+08:00
 draft: false
 comment: false
 categories: ["VTuber"]
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/suisei-rankings/0001.jpg"]
+featuredImage: "0002.jpg"
+featuredImagePreview: "0002.jpg"
+images: ["/suisei-rankings/0002.jpg"]
 description: "星街すいせいさんのオリジナルソングランキングです。/ This is the chart for Hoshimachi Suisei's original song rankings."
 ---
 
