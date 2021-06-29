@@ -185,13 +185,13 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 	</tbody>
 </table>
 
-<font size="2"><i>
+<font size="2">
 
-N/A: Not Ranked / No Data Found
+» N/A: Not Ranked / No Data Found
 
-For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
+» For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
 
-</i></font>
+</font>
 
 ---
 
