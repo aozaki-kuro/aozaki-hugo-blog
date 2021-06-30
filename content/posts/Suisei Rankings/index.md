@@ -3,6 +3,7 @@ Title: "すいせいランキング / Suisei Ranking"
 slug: "suisei rankings"
 date: 2021-06-24T11:05:00+08:00
 draft: false
+comment: false
 categories: ["VTuber"]
 featuredImage: "0002.jpg"
 featuredImagePreview: "0002.jpg"
@@ -19,6 +20,16 @@ description: "星街すいせいさんのオリジナルソングランキング
 This is the chart for Hoshimachi Suisei's original song rankings.
 
 <!--more-->
+
+---
+
+{{< admonition type=warning title="ご注意 / Notice" >}}
+
+このページはスマートフォン用に最適化されていないので、PCで読み込んでください。
+
+The page is not optimized for smartphones, please read on PC.
+
+{{< /admonition >}}
 
 ---
 
@@ -236,7 +247,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 
 ---
 
-## :studio_microphone: ゲスト / As featured Artist
+## :microphone: ゲスト / As featured Artist
 
 <table>
 	<thead>
