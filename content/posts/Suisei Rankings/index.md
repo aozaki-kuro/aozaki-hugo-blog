@@ -1,9 +1,8 @@
 ---
-Title: "すいちゃんのランキング"
+Title: "すいせいランキング / Suisei Ranking"
 slug: "suisei rankings"
 date: 2021-06-24T11:05:00+08:00
 draft: false
-comment: false
 categories: ["VTuber"]
 featuredImage: "0002.jpg"
 featuredImagePreview: "0002.jpg"
@@ -94,7 +93,7 @@ This is the chart for Hoshimachi Suisei's original song rankings.
 			<td style="text-align:center" colspan=3><font face="monospace">N/A</font></td>
 		</tr>
 		<tr>
-			<td style="text-align:center">TBD</td>
+			<td style="text-align:center"></td>
 			<td style="text-align:center"><font face="monospace"></font></td> <!--Phy Daily-->
 			<td style="text-align:center"><font face="monospace"></font></td> <!--Phy Weekly-->
 			<td style="text-align:center"><font face="monospace"></font></td> <!--Digital Weekly-->
