@@ -37,7 +37,7 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--Album Oricon start-->
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 	<tr>
 		<th style="width:35%">オリコン</th>
@@ -60,10 +60,10 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--Album other site start-->
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 		<tr>
-			<th style="width:35%">デジタルリリース</th>
+			<th style="width:35%">デジタル</th>
 			<th style="width:13%">Oricon</th>
 			<th style="width:13%">iTunes</th>
 			<th style="width:13%">Amazon</th>
@@ -89,13 +89,13 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--EP Oricon start-->
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">オリコン</th>
 			<th style="width:21.67%">デイリー</th>
 			<th style="width:21.67%">週間</th>
-			<th style="width:21.67%">デジタル・週間</th>
+			<th style="width:21.67%">デジタル</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -116,10 +116,10 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--EP other site start-->
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 		<tr>
-			<th style="width:35%">デジタルリリース</th>
+			<th style="width:35%">デジタル</th>
 			<th style="width:13%">Oricon</th>
 			<th style="width:13%">iTunes</th>
 			<th style="width:13%">Amazon</th>
@@ -143,10 +143,10 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :musical_note: シングル / Single
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 		<tr>
-			<th style="width:35%">デジタルリリース</th>
+			<th style="width:35%">デジタル</th>
 			<th style="width:13%">Oricon</th>
 			<th style="width:13%">iTunes</th>
 			<th style="width:13%">Amazon</th>
@@ -198,6 +198,8 @@ The page is not optimized for smartphones, please read on PC.
 <p style="font-size:0.8em">
 » N/A: Not Ranked / No Data Found
 <br>
+» TBD: Reserved slot for further editing
+<br>
 » For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
 </p>
 
@@ -211,7 +213,7 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :link: リンク / Links
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">タイトル</th>
@@ -247,7 +249,7 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :microphone: ゲスト / As featured Artist
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 	<tr>
 		<th style="width:35%">タイトル</th>
@@ -270,7 +272,7 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :books: 翻訳 / Translation / Legend
 
-<table style="text-align:center">
+<table style="text-align:center; table-layout:fixed; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">日本語</th>
