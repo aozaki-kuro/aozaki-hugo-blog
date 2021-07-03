@@ -31,6 +31,8 @@ The page is not optimized for smartphones, please read on PC.
 
 {{< /admonition >}}
 
+:artist_palette: 絵 / Art：[:(fab fa-twitter fa-fw):Laxy](https://twitter.com/laxyiii/status/1402415053567975424)
+
 ---
 
 ## :computer_disk: アルバム / Album
@@ -165,7 +167,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>天球、彗星は夜を跨いで</td> <!--Title-->
-			<td style="font-family:monospace">TBD</td> <!--Oricon-->
+			<td style="font-family:monospace"></td> <!--Oricon-->
 			<td style="font-family:monospace"></td> <!--iTunes-->
 			<td style="font-family:monospace"></td> <!--Amazon-->
 			<td style="font-family:monospace"></td> <!--Mora-->
@@ -196,11 +198,11 @@ The page is not optimized for smartphones, please read on PC.
 </table>
 
 <p style="font-size:0.8em">
-» N/A: Not Ranked / No Data Found
-<br>
-» TBD: Reserved slot for further editing
-<br>
-» For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
+	» N/A: Not Ranked / No Data Found
+	<br>
+	» TBD: Reserved slot for further editing
+	<br>
+	» For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
 </p>
 
 ---
