@@ -198,9 +198,11 @@ The page is not optimized for smartphones, please read on PC.
 </table>
 
 <p style="font-size:0.8em">
-	» N/A: Not Ranked / No Data Found
+	» N/A: 該当なし / Not Ranked / No Data Found
 	<br>
-	» TBD: Reserved slot for further editing
+	» TBD: 未定 / Reserved slot for further editing
+	<br>
+	» ランキングの表示はデイリー/ウイークリー（該当する場合のみ）形式になっています。
 	<br>
 	» For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
 </p>
