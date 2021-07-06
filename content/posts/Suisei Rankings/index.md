@@ -31,7 +31,7 @@ The page is not optimized for smartphones, please read on PC.
 
 {{< /admonition >}}
 
-:artist_palette: 絵 / Art：[:(fab fa-twitter fa-fw):Laxy](https://twitter.com/laxyiii/status/1402415053567975424)
+:artist_palette: 絵 / Art：[:(fab fa-twitter fa-fw):Laxy](https://twitter.com/laxyiii/status/1402415053567975424) 様
 
 ---
 

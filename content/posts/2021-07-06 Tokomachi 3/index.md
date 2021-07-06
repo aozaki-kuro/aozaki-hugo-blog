@@ -4,8 +4,8 @@ description: "てぇてぇ。"
 slug: "suisei hoshimachi inui toko tokomachi 3"
 date: 2021-07-06T08:05:00+08:00
 draft: true
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "0001.jpg"
+featuredImagePreview: "0001.jpg"
 images: ["/suisei-hoshimachi-inui-toko-tokomachi-3/0001.jpg"]
 categories: ["VTuber"]
 tags:
@@ -37,7 +37,7 @@ tags:
 
 这是第三篇星床贴贴记录了。
 
-而且她们还在全力输出。<font color="white">反观隔壁天星，嘻嘻。</font>
+而且她们还在全力输出。
 
 ## 音乐
 
@@ -45,7 +45,7 @@ tags:
 
 > [:(fab fa-youtube fa-fw): 阿床6月15日歌回](https://www.youtube.com/watch?v=nzM4du2xWXo)
 
-![いいよ](https://img.aozaki-kuro.com/20210706_0002.jpg "いいよ")
+![いいよ](https://img.aozaki-kuro.com/20210706_0001.jpg "いいよ")
 
 在阿床6月15日歌回中，阿床问到观众想听什么。观众回复还想听星床合唱的「翼モラトリアム」。
 
@@ -63,7 +63,7 @@ tags:
 
 > [:(fab fa-twitter fa-fw): ブイアワ通知1](https://twitter.com/VMA2020_12_28/status/1411570681041494018)、[:(fab fa-twitter fa-fw): ブイアワ通知2](https://twitter.com/VMA2020_12_28/status/1411660926135066626)
 
-![天球 by 阿床](https://img.aozaki-kuro.com/20210706_0003.jpg "天球、彗星は夜を跨いで by 戌亥とこ")
+![天球 by 阿床](https://img.aozaki-kuro.com/20210706_0002.jpg "天球、彗星は夜を跨いで by 戌亥とこ")
 
 当然没想到，歌回这一下呼唤居然是伏笔。阿床在2021年7月3日-7月4日举办的ブイアワ[^1]Day2的昼公演中出乎所有人意料地演唱了阿星的天球，并且阿床在MC中也是继续全力输出贴贴能量。
 
@@ -84,6 +84,8 @@ tags:
 ---
 
 ## あんスタ
+
+说到这两人怎么可能没有ES的内容嘛是不是。
 
 ### #おしえてとこまち
 
@@ -122,9 +124,17 @@ tags:
 
 > 马趴直播原地址：[:(fab fa-youtube fa-fw): Shiro Channel](https://www.youtube.com/watch?v=I3PJanMArGA)
 
-尽管小白不懂人心，没把星床放在一起，不过这也拦不住这两人要强行贴贴。
+尽管小白不懂人心，没把星床放在一起，不过这也拦不住这两人要强行贴贴就是了。
 
-阿床在开始前发推表示自己玩游戏太烂，所以打算看着阿星玩来，
+阿床在开始前发推表示自己玩游戏太烂，所以打算看着阿星玩来体验一下游戏氛围。
+
+然而没想开的是阿星开局的表现实在太拉胯，好几个回合一步都没走出去。
+
+阿床倒是说“我代替阿星在动哦~”，小游戏环节中阿星也号称“我赢了就是阿床赢了~”。
+
+这两人一来一回搞得小白只能阿床赢了祝贺阿星，阿星赢了祝贺阿床。
+
+有你们这么强行扔闪光弹的吗。
 
 ---
 
@@ -156,7 +166,7 @@ tags:
 
 真的是十分难得一见的害羞的阿床。
 
-{{< image src="https://pbs.twimg.com/media/E4P5FriVoAQ3I-5?format=jpg&name=orig" caption="by おはぎ (@ohagi_0909)" width="60%" >}}
+{{< image src="https://img.aozaki-kuro.com/20210706_0003.jpg" caption="by おはぎ (@ohagi_0909)" width="60%" >}}
 
 阿星成功地让一向稳重的阿床在直播时害羞，算是一大壮举了。
 
