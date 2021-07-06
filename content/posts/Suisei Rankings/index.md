@@ -202,7 +202,7 @@ The page is not optimized for smartphones, please read on PC.
 	<br>
 	» TBD: 未定 / Reserved slot for further editing
 	<br>
-	» ランキングの表示はデイリー/ウイークリー（該当する場合のみ）形式になっています。
+	» ランキングの表示は デイリー/ウイークリー（該当する場合のみ）形式になっています。
 	<br>
 	» For the site with Weekly rank available, the ranking was shown in Daily / Weekly style
 </p>
