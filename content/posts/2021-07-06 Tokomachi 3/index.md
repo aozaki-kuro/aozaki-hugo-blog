@@ -81,7 +81,7 @@ tags:
 
 > 阿床的VMA2021感想：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=bxK7WHO5Y7k)
 
-![3D阿床真可爱]( "3D阿床真可爱")
+![3D阿床真可爱](https://img.aozaki-kuro.com/20210706_0005.jpg "3D阿床真可爱")
 
 演唱会后自然要谈及选曲理由。好多人都非常在意为什么选了天球和GHOST。
 
@@ -117,11 +117,15 @@ tags:
 
 > [:(fab fa-youtube fa-fw): とこまちラジオ(仮) #7 特別編](https://www.youtube.com/watch?v=kR9mSvUyfkY)
 
+![两个人终于能一起动啦！](https://img.aozaki-kuro.com/20210706_0006.jpg "两个人终于能一起动啦！")
+
 这期是非常难得的线下回，两人花了不少时间让L2D形象同时动起来了。
 
 同时也回顾了一下4月13日阿星的三周年纪念Live [:(fab fa-youtube fa-fw): SPACE for Virtual GHOST](https://www.youtube.com/watch?v=Ajwv4ANSSg0) 的后台趣事。
 
 部分已经在 [:(fas fa-link): 戌亥とこ × 星街すいせい：3周年纪念演唱会](/suisei-hoshimachi-inui-toko-tokomachi-2/) 中提过，不再赘述。
+
+这次新提到的是，她们同样属于
 
 ### 第八期
 
