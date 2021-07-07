@@ -81,7 +81,7 @@ tags:
 
 > 阿床的VMA2021感想：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=bxK7WHO5Y7k)
 
-![]("3D阿床真可爱")
+![3D阿床真可爱]( "3D阿床真可爱")
 
 演唱会后自然要谈及选曲理由。好多人都非常在意为什么选了天球和GHOST。
 
@@ -123,11 +123,9 @@ tags:
 
 部分已经在 [:(fas fa-link): 戌亥とこ × 星街すいせい：3周年纪念演唱会](/suisei-hoshimachi-inui-toko-tokomachi-2/) 中提过，不再赘述。
 
-
-
 ### 第八期
 
-https://www.youtube.com/watch?v=8sqE4VgaT0w
+> [:(fab fa-youtube fa-fw): とこまちラジオ(仮) #8](https://www.youtube.com/watch?v=8sqE4VgaT0w)
 
 刨萝卜泥（大根おろし）的小姑娘
 
@@ -205,6 +203,8 @@ https://www.youtube.com/watch?v=8sqE4VgaT0w
 
 ### #おしえてとこまち
 
+> 原直播地址：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=QQB79VAyWAw)
+
 ![太能说了，熬死观众。](https://img.aozaki-kuro.com/20210706_0004.jpg "太能说了，熬死观众。")
 
 简而言之：4小时高强度聊ES，熬死观众。
@@ -217,6 +217,8 @@ https://www.youtube.com/watch?v=8sqE4VgaT0w
 
 ### 翻唱更新
 
+> 同时视听：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=gtzc_rIp7lg)
+
 {{< youtube edp420amW1s >}}
 
 |日期|曲名|地址|本家|
@@ -224,9 +226,13 @@ https://www.youtube.com/watch?v=8sqE4VgaT0w
 |2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
 |2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
 |2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
-|2021-06-30|イースター・カーニバル|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA?t=75)|
+|2021-06-30|イースター・カーニバル|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA&t=74s)|
 
 翻唱方面则是更新了姗姗来迟的复活节[^3]翻唱。
+
+因故延期之后这一复活节主题的翻唱足足迟到了2个月有余，加之复活节本身在日本不算什么特别重要的节日，于是总体来说反响平平。截止本文成稿时将将过10万回放。
+
+至于“同时视听”可能比
 
 ---
 
