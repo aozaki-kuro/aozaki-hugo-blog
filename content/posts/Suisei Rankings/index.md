@@ -46,7 +46,7 @@ The page is not optimized for smartphones, please read on PC.
 		<th style="width:21.67%">デイリー</th>
 		<th style="width:21.67%">週間</th>
 		<th style="width:21.67%">デジタル・週間</th>
-	</tr>
+	</tr>	
 	</thead>
 	<tbody>
 		<tr>
