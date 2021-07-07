@@ -283,10 +283,10 @@ tags:
 
 |日期|曲名|地址|本家|
 |----|----|----|----|
-|2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
-|2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
-|2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
-|2021-06-30|イースター・カーニバル|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA&t=74s)|
+|2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
+|2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
+|2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
+|2021-06-30|イースター・カーニバル|[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA&t=74s)|
 
 翻唱方面则是更新了姗姗来迟的复活节[^3]翻唱。
 
@@ -296,7 +296,35 @@ tags:
 
 至于杂谈可能比同时视听还有乐子。
 
+一个是提到想要テレビ朝日的节目，愿意花好多好多周时间去介绍每一首ES的曲子。
+
+其中谈到了阿星百万订阅“耐久”的事情。阿床当时因为有事情，没有看，不过棉花糖之类的地方接到了各种消息告诉她，阿星在耐久歌回开唱前达成百万。
+
+阿星提到了原来想在`19:00 JST`搞耐久，先被评论说了之后提到了`18:00 JST`，第二天醒来后发现只剩下100来人了，于是又急急匆匆把时间提到`15:00 JST`开始。
+
+好不容易赶在`14:57 JST`开了直播，2分钟后立马就达成了百万订阅。
+
+被阿床疯狂吐槽说“你倒是早点起来啊”，阿星回答说“我有设闹钟啊？”
+
+于是再次被吐槽「馬鹿の逆算」[^6]，既然又是3D卡拉OK，又是新曲[^7]，你这肯定增长速度比之前快啊！
+
+不过提到之后连续三个月的单曲发布以及其他重大发表，阿床以非常棒读的语气说「いぬいも全然知らなんな～！な～んにすいちゃんから聞いていないから！」
+
+得了吧你们早就全都透底看过了吧！
+
+当然最后还是惯例的向各位权力者喊话“赶紧让我们圆梦啦！”
+
 ---
+
+## 结语
+
+写到这里我自己也发现，阿星这里输出的内容少得可怜，阿床这里疯狂各种输出闪光弹。
+
+~~尽管我觉得阿床才是攻就是了~~
+
+结果上话总体还是一个佛系阿床陪着雄心勃勃的阿星各种玩各种闯，两个人也有共同的目标和梦想。
+
+希望两位可以顺利圆梦。
 
 [^1]: [:(fab fa-twitter fa-fw): VirtualMusicAward 2021 SUMMER](https://twitter.com/VMA2020_12_28)
 
@@ -307,3 +335,7 @@ tags:
 [^4]: [:(fab fa-twitter fa-fw): 尾丸ポルカ](https://twitter.com/omarupolka)，作为HoloBand的成员出演。
 
 [^5]: [:(fab fa-steam): Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/)
+
+[^6]: 我觉得可以翻作：聪明反被聪明误。
+
+[^7]: Bluerose - [:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=ZfDYRy17CBY)

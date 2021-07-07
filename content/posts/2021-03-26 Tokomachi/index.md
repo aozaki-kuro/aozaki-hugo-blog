@@ -37,7 +37,7 @@ tags:
 
 ![都怪Nova老师](https://img.aozaki-kuro.com/20210329_0003.jpg "怪我咯？")
 
-本文是 [:(fab fa-twitter fa-fw):NovaDNG老师](https://twitter.com/NovaDNG) 在2021年3月26日晚看完 [:(fab fa-youtube fa-fw):星床电台#6](https://www.youtube.com/watch?v=nlkJdUZU5Ws) 后一时兴起，向我约的稿。本身我也有将星床组合的历史进行梳理的打算，于是便有了这篇文章。话是这么说，我还是会尽量压制私货数量并尽量集中到最后。如果读者觉得私货还是太多，那只能怪Nova老师这么约的了。
+本文是 [:(fab fa-twitter fa-fw): NovaDNG老师](https://twitter.com/NovaDNG) 在2021年3月26日晚看完 [:(fab fa-youtube fa-fw): 星床电台#6](https://www.youtube.com/watch?v=nlkJdUZU5Ws) 后一时兴起，向我约的稿。本身我也有将星床组合的历史进行梳理的打算，于是便有了这篇文章。话是这么说，我还是会尽量压制私货数量并尽量集中到最后。如果读者觉得私货还是太多，那只能怪Nova老师这么约的了。
 
 不过还是要重申那个问题，**嗑真人CP死路一条**，请勿上头。
 
@@ -83,7 +83,7 @@ tags:
 
 2019年5月19日，星正式加入INNK（イノナかミュージック）。随即获得了众多VTuber和熟人的祝贺，其中包括刚刚**出道不足3月**[^1]的[阿床](https://twitter.com/suisei_hosimati/status/1130054368886050816)。这时已经能看出阿床非常喜欢阿星的歌声了（尽管阿床的歌声也非常吸引人，和阿星相性相当不错，这则是后话了）。
 
-> 凸待完整对话请见[:(fab fa-youtube fa-fw):阿床生日凸待](https://www.youtube.com/watch?v=RWeFaZK1PfE&t=4305s)。
+> 凸待完整对话请见[:(fab fa-youtube fa-fw): 阿床生日凸待](https://www.youtube.com/watch?v=RWeFaZK1PfE&t=4305s)。
 
 ![「和風な女！」](https://img.aozaki-kuro.com/20210329_0006.jpg "「歌うめぇ女！」")
 
@@ -139,7 +139,7 @@ tags:
 
 两人不仅以稳健又极具穿透力的歌声演唱，并且完整复刻了原MV中的舞蹈。不仅以超高质量迷倒了大批观众，也让尊妈[^3]和其他参演人员惊叹。
 
-> 原曲MV地址：[:(fab fa-youtube fa-fw):BREAKTHROUGH!](https://www.youtube.com/watch?v=IR7JEJUcM4w)、[:(fab fa-youtube fa-fw):翼モラトリアム](https://www.youtube.com/watch?v=CrVIEFM791Y)
+> 原曲MV地址：[:(fab fa-youtube fa-fw): BREAKTHROUGH!](https://www.youtube.com/watch?v=IR7JEJUcM4w)、[:(fab fa-youtube fa-fw): 翼モラトリアム](https://www.youtube.com/watch?v=CrVIEFM791Y)
 
 <!--感想会-->
 
@@ -181,7 +181,7 @@ tags:
 
 `#5`时由于配色和三笨蛋[^5]非常相似，评论区很早就有开玩笑说这是さんばか亜種・さんばかオルタ（亚种/Alter）的，也猜想会不会在`#6`邀请安洁凑成又一组三笨蛋。不知道是不是为了满足观众，阿星果不其然邀请了安洁作为`#6`的嘉宾。不过这里不一样的是，阿星上来就对安洁展开了“追求”，捏造了各种记忆，例如一起去吃饭，一起去唱歌，一起去宾馆（开纯洁的ES女子会）…（这些分明是你跟阿床做过的事情啊喂！）还引得阿床在那边狂笑并假装妒忌安洁居然跟阿星去过宾馆了。
 
-> 切片及手書き来源请点这里[:(fab fa-twitter fa-fw):S (@starbowhalo)](https://twitter.com/starbowhalo/status/1376459668902440960)
+> 切片及手書き来源请点这里[:(fab fa-twitter fa-fw): S (@starbowhalo)](https://twitter.com/starbowhalo/status/1376459668902440960)
 
 <!--{{< tweet 1376459668902440960 >}}-->
 
@@ -201,9 +201,9 @@ tags:
 
 |日期|曲名|地址|本家|
 |---|---|---|---|
-|2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
-|2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
-|2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
+|2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
+|2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
+|2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
 
 目前为止两人投了三个翻唱，当然无一例外都是ES的歌曲。
 
@@ -263,7 +263,7 @@ tags:
 
 ### 日常生活
 
-> 星床年末夜钓：[:(fab fa-youtube fa-fw):阿星视角:comet:](https://www.youtube.com/watch?v=U5YCqWyIY6Q)、[:(fab fa-youtube fa-fw):阿床视角:tropical_drink:](https://www.youtube.com/watch?v=SyiZD22NVeY)
+> 星床年末夜钓：[:(fab fa-youtube fa-fw): 阿星视角:comet:](https://www.youtube.com/watch?v=U5YCqWyIY6Q)、[:(fab fa-youtube fa-fw): 阿床视角:tropical_drink:](https://www.youtube.com/watch?v=SyiZD22NVeY)
 
 ![两人夜钓](https://img.aozaki-kuro.com/20210329_0010.jpg "久违的星床夜钓。")
 
@@ -305,7 +305,7 @@ tags:
 
 {{< /admonition >}}
 
-> 原视频地址：[:(fab fa-youtube fa-fw):第17回 #ひまっしゃい​​​](https://www.youtube.com/watch?v=Amko2amkaWM)
+> 原视频地址：[:(fab fa-youtube fa-fw): 第17回 #ひまっしゃい​​​](https://www.youtube.com/watch?v=Amko2amkaWM)
 
 <!--ひま食堂3D联动-->
 
@@ -397,14 +397,14 @@ tags:
 
 [^2]: 即：あんさんぶるスターズ！！，简称あんスタ。
 
-[^3]: 即：竜胆尊 - [:(fab fa-twitter fa-fw):Twitter](https://twitter.com/rindoumikoto)
+[^3]: 即：竜胆尊 - [:(fab fa-twitter fa-fw): Twitter](https://twitter.com/rindoumikoto)
 
-[^4]: 即：しゃぶしゃぶ - [:(fab fa-wikipedia-w fa-fw):涮涮鍋](https://www.wikiwand.com/zh/涮涮鍋)
+[^4]: 即：しゃぶしゃぶ - [:(fab fa-wikipedia-w fa-fw): 涮涮鍋](https://www.wikiwand.com/zh/涮涮鍋)
 
 [^5]: さんばか，即阿床和她的同期安洁和莉泽。三人的印象色分别是棕红、天蓝、正红。
 
 [^6]: 指 白銀ノエル & 不知火フレア，两人百合营业太著名了…甚至订了刻名字的对戒。
 
-[^7]: 即：西園チグサ - [:(fab fa-twitter fa-fw):Twitter](https://twitter.com/Chigusa_24zono)
+[^7]: 即：西園チグサ - [:(fab fa-twitter fa-fw): Twitter](https://twitter.com/Chigusa_24zono)
 
 [^8]: 作为百合爱好者当然是指变成妹子被她们夹在中间啦。
