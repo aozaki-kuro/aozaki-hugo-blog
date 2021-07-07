@@ -43,7 +43,7 @@ tags:
 
 ### 歌回呼唤
 
-> [:(fab fa-youtube fa-fw): 阿床6月15日歌回](https://www.youtube.com/watch?v=nzM4du2xWXo)
+> 阿床6月15日歌回：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=nzM4du2xWXo)
 
 ![いいよ](https://img.aozaki-kuro.com/20210706_0001.jpg "いいよ")
 
@@ -53,7 +53,7 @@ tags:
 
 原本休播的阿星则突然出现在chat里并回复「いいよ」惹得阿床大笑不止。
 
-后续的点歌环节里也有大量观众要求阿床热唱[:(fas fa-meteor): 天球](https://www.youtube.com/watch?v=zLak0dxBKpM) 。
+后续的点歌环节里也有大量观众要求阿床热唱 [:(fas fa-meteor): 天球](https://www.youtube.com/watch?v=zLak0dxBKpM) 。
 
 阿床回复说“嗯，因为阿星在所以想点天球是吗？”并清唱了几句。
 
@@ -77,50 +77,71 @@ tags:
 
 随后夜公演中，阿床和咩咩咩[^2]则是共同演唱了阿星的 [:(fas fa-ghost): GHOST](https://www.youtube.com/watch?v=IKKar5SS29E) 。
 
-演唱结束后两人一起向着镜头大喊“阿星你在看嘛？” 不过遗憾的是阿星当时正在参演Holo的官方节目。
+### 关于选曲
 
-此外非常引人注目的一点，就是阿床演唱两首歌的完成度非常之高，她有多喜欢阿星的歌可见一斑。
+> 阿床的VMA2021感想：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=bxK7WHO5Y7k)
 
----
+![]("3D阿床真可爱")
 
-## あんスタ
+演唱会后自然要谈及选曲理由。好多人都非常在意为什么选了天球和GHOST。
 
-说到这两人怎么可能没有ES的内容嘛是不是。
+可想而知，又是星床贴贴能量大放出。
 
-### #おしえてとこまち
+#### 天球
 
-![太能说了，熬死观众。](https://img.aozaki-kuro.com/20210706_0004.jpg "太能说了，熬死观众。")
+> 2020年1月25日杂谈：[:(fab fa-youtube fa-fw): 戌亥とこ](https://youtu.be/CJD2mkpSkJs?t=4119)
 
-简而言之：4小时高强度聊ES，熬死观众。
+这次VMA2021在选曲时，阿床反复要求、坚持自己想在Solo的时候唱天球。运营方答应后阿床向阿星汇报，阿星也是非常干脆地表示「いいよ〜」
 
-一开始还有不少捧哏的，到后来`2:00 JST`后只剩下没几个人在听了。
+不过关于阿床为什么会选天球，其实要追溯到2019年底。
 
-不过非常有意思的就是者直播仿佛两个人平时煲Discord粥一样，充满了生活感，同时也非常好地说明了这两人对ES这一最大的共同语言有多热爱。
+当时阿星看了阿床在VtL両国的表演非常感动，于是临时把NSS的表演曲目改为天球，这个决定堪称是她职业生涯中最重要的决定之一。同样的，阿床在杂谈中提到自己也看了阿星在NSS的演出，大受感动。
 
-~~我啥都听不懂不过听到了最后。~~
+这次杂谈中阿床也提到了这件事，并且直言“天球对我来说也是非常喜欢、非常重要的一首歌”。
 
-### 翻唱更新
+#### GHOST
 
-{{< youtube edp420amW1s >}}
+这首选曲其实更多来自于咩咩咩。由于咩咩咩也非常喜欢阿星（虽然合作机会不算太多）所以选了这首。
 
-|日期|曲名|地址|本家|
-|----|----|----|----|
-|2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
-|2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
-|2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
-|2021-06-30|イースター・カーニバル|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA?t=75)|
+两人的配合以及完成度也是相当不错，演唱结束后两个人情绪高涨还对这镜头喊“阿星你在看吗~”
 
-翻唱方面则是更新了姗姗来迟的复活节[^3]翻唱。
+事后也跟阿星进行了汇报，阿星也表示非常高兴。
+
+这也是阿床首次在非彩虹官方活动/Live出演，其中更是选择了两首阿星的歌，阿床有多喜欢阿星可见一斑了。
 
 ---
 
 ## 星床电台
 
+### 第七期
+
+> [:(fab fa-youtube fa-fw): とこまちラジオ(仮) #7 特別編](https://www.youtube.com/watch?v=kR9mSvUyfkY)
+
+这期是非常难得的线下回，两人花了不少时间让L2D形象同时动起来了。
+
+同时也回顾了一下4月13日阿星的三周年纪念Live [:(fab fa-youtube fa-fw): SPACE for Virtual GHOST](https://www.youtube.com/watch?v=Ajwv4ANSSg0) 的后台趣事。
+
+部分已经在 [:(fas fa-link): 戌亥とこ × 星街すいせい：3周年纪念演唱会](/suisei-hoshimachi-inui-toko-tokomachi-2/) 中提过，不再赘述。
+
+
+
+### 第八期
+
+https://www.youtube.com/watch?v=8sqE4VgaT0w
+
+刨萝卜泥（大根おろし）的小姑娘
+
+### 第九期
+
+金泽竞马
+
+原本很多人以为只是随便玩玩
+
 谈到同步率
 
 谈到游戏
 
-## 游戏也要贴贴！
+## 所以游戏也要贴贴！
 
 > 马趴直播原地址：[:(fab fa-youtube fa-fw): Shiro Channel](https://www.youtube.com/watch?v=I3PJanMArGA)
 
@@ -166,15 +187,48 @@ tags:
 
 真的是十分难得一见的害羞的阿床。
 
-{{< image src="https://img.aozaki-kuro.com/20210706_0003.jpg" caption="by おはぎ (@ohagi_0909)" width="60%" >}}
-
 阿星成功地让一向稳重的阿床在直播时害羞，算是一大壮举了。
+
+{{< image src="https://img.aozaki-kuro.com/20210706_0003.jpg" caption="by おはぎ (@ohagi_0909)" width="60%" >}}
 
 阿床随后也表示“哦~原来是这感觉吗…”
 
 并说到之前阿星的切片其实被她看到了，而且还去跟阿星跳脸说“其实…我看到切片了。”
 
 可以看出平时这两人经常互相伤害的 ~~（aka调情）~~ 。
+
+---
+
+## あんスタ
+
+说到这两人怎么可能没有ES的内容嘛是不是。
+
+### #おしえてとこまち
+
+![太能说了，熬死观众。](https://img.aozaki-kuro.com/20210706_0004.jpg "太能说了，熬死观众。")
+
+简而言之：4小时高强度聊ES，熬死观众。
+
+原本的企划是通过观众发来的棉花糖来解释ES相关的知识，不过最后变成了借棉花糖发挥，大说特说两个人对ES里喜欢的人物的看法和人物关系的见解。由于ES本身人物和组合众多，加上两人可能因为收益化原因没有展示任何游戏画面或截图，导致整体内容极其枯燥。评论里一开始还有不少捧哏的，到后来`2:00 JST`后只剩下没几个人在听了。
+
+不过有意思的就是这直播仿佛两个人平时煲Discord粥一样，充满了生活感，同时也非常好地说明了这两人对ES这一最大的共同语言有多热爱。
+
+~~我啥都听不懂不过听到了最后。~~
+
+### 翻唱更新
+
+{{< youtube edp420amW1s >}}
+
+|日期|曲名|地址|本家|
+|----|----|----|----|
+|2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
+|2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
+|2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw):Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
+|2021-06-30|イースター・カーニバル|[:(fab fa-youtube fa-fw):戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|[:(fab fa-youtube fa-fw):Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA?t=75)|
+
+翻唱方面则是更新了姗姗来迟的复活节[^3]翻唱。
+
+---
 
 [^1]: [:(fab fa-twitter fa-fw): VirtualMusicAward 2021 SUMMER](https://twitter.com/VMA2020_12_28)
 
