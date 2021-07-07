@@ -2,8 +2,8 @@
 title: "戌亥とこ × 星街すいせい：日常琐碎"
 description: "てぇてぇ。"
 slug: "suisei hoshimachi inui toko tokomachi 3"
-date: 2021-07-06T08:05:00+08:00
-draft: true
+date: 2021-07-07T08:05:00+08:00
+draft: false
 featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
 images: ["/suisei-hoshimachi-inui-toko-tokomachi-3/0001.jpg"]
