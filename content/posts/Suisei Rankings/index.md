@@ -138,6 +138,14 @@ The page is not optimized for smartphones, please read on PC.
 			<td style="font-family:monospace">3</td> <!--Mora-->
 			<td style="font-family:monospace">1 / 2</td> <!--OTOTOY-->
 		</tr>
+		<tr>
+			<td>駆けろ</td> <!--Title-->
+			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">1</td> <!--iTunes-->
+			<td style="font-family:monospace"></td> <!--Amazon-->
+			<td style="font-family:monospace"></td> <!--Mora-->
+			<td style="font-family:monospace"></td> <!--OTOTOY-->
+		</tr>
 	</tbody>
 </table>
 
@@ -168,7 +176,7 @@ The page is not optimized for smartphones, please read on PC.
 		<tr>
 			<td>天球、彗星は夜を跨いで</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
-			<td style="font-family:monospace"></td> <!--iTunes-->
+			<td style="font-family:monospace">3</td> <!--iTunes-->
 			<td style="font-family:monospace"></td> <!--Amazon-->
 			<td style="font-family:monospace"></td> <!--Mora-->
 			<td style="font-family:monospace"></td> <!--OTOTOY-->
@@ -197,7 +205,7 @@ The page is not optimized for smartphones, please read on PC.
 		<tr>
 			<td>駆けろ</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
-			<td style="font-family:monospace"></td> <!--iTunes-->
+			<td style="font-family:monospace">2</td> <!--iTunes-->
 			<td style="font-family:monospace"></td> <!--Amazon-->
 			<td style="font-family:monospace"></td> <!--Mora-->
 			<td style="font-family:monospace"></td> <!--OTOTOY-->
@@ -238,6 +246,11 @@ The page is not optimized for smartphones, please read on PC.
 			<td>Comet</td> <!--Title-->
 			<td><a href="https://www.youtube.com/watch?v=3cqV5BKJHyk">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td><a href="https://suisei.streamlink.to/bluerose">:(fas fa-meteor): streamlink.io</a></td>
+		</tr>
+		<tr>
+			<td>天球、彗星は夜を跨いで</td> <!--Title-->
+			<td><a href="https://www.youtube.com/watch?v=zLak0dxBKpM">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://suisei.streamlink.to/run">:(fas fa-meteor): streamlink.io</a></td>
 		</tr>
 		<tr>
 			<td>NEXT COLOR PLANET</td> <!--Title-->
