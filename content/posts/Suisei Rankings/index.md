@@ -50,7 +50,7 @@ The page is not optimized for smartphones, please read on PC.
 	</thead>
 	<tbody>
 		<tr>
-			<td>TBD</td> <!--Title-->
+			<td>Still Still Stellar</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Phy Daily-->
 			<td style="font-family:monospace"></td> <!--Phy Weekly-->
 			<td style="font-family:monospace"></td> <!--Digital Weekly-->
@@ -75,7 +75,7 @@ The page is not optimized for smartphones, please read on PC.
 	</thead>
 	<tbody>
 		<tr>
-			<td>TBD</td> <!--Title-->
+			<td>Still Still Stellar</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
 			<td style="font-family:monospace"></td> <!--iTunes-->
 			<td style="font-family:monospace"></td> <!--Amazon-->
@@ -106,7 +106,7 @@ The page is not optimized for smartphones, please read on PC.
 			<td style="font-family:monospace" colspan=3>N/A</td>
 		</tr>
 		<tr>
-			<td></td> <!--Title-->
+			<td>駆けろ</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Phy Daily-->
 			<td style="font-family:monospace"></td> <!--Phy Weekly-->
 			<td style="font-family:monospace"></td> <!--Digital Weekly-->
@@ -194,6 +194,14 @@ The page is not optimized for smartphones, please read on PC.
 			<td style="font-family:monospace">3</td> <!--Mora-->
 			<td style="font-family:monospace">1 / 2</td> <!--OTOTOY-->
 		</tr>
+		<tr>
+			<td>駆けろ</td> <!--Title-->
+			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace"></td> <!--iTunes-->
+			<td style="font-family:monospace"></td> <!--Amazon-->
+			<td style="font-family:monospace"></td> <!--Mora-->
+			<td style="font-family:monospace"></td> <!--OTOTOY-->
+		</tr>
 	</tbody>
 </table>
 
@@ -245,6 +253,11 @@ The page is not optimized for smartphones, please read on PC.
 			<td>Bluerose</td> <!--Title-->
 			<td><a href="https://www.youtube.com/watch?v=ZfDYRy17CBY">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td><a href="https://suisei.streamlink.to/bluerose">:(fas fa-meteor): streamlink.io</a></td>
+		</tr>
+		<tr>
+			<td>駆けろ</td> <!--Title-->
+			<td style="color:grey">:(fab fa-youtube fa-fw): Suisei Channel</td>
+			<td><a href="https://suisei.streamlink.to/run">:(fas fa-running): streamlink.io</a></td>
 		</tr>
 	</tbody>
 </table>
