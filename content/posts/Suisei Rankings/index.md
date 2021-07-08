@@ -257,7 +257,7 @@ The page is not optimized for smartphones, please read on PC.
 		<tr>
 			<td>駆けろ</td> <!--Title-->
 			<td style="color:grey">:(fab fa-youtube fa-fw): Suisei Channel</td>
-			<td><a href="https://suisei.streamlink.to/run">:(fas fa-running): streamlink.io</a></td>
+			<td><a href="https://suisei.streamlink.to/run">:(fas fa-meteor): streamlink.io</a></td>
 		</tr>
 	</tbody>
 </table>
