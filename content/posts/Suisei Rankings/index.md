@@ -3,7 +3,6 @@ Title: "すいせいランキング / Suisei Ranking"
 slug: "suisei rankings"
 date: 2021-06-24T11:05:00+08:00
 draft: false
-comment: false
 categories: ["VTuber"]
 featuredImage: "0002.jpg"
 featuredImagePreview: "0002.jpg"
