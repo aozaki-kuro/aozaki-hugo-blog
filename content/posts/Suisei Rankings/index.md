@@ -30,6 +30,8 @@ The page is not optimized for smartphones, please read on PC.
 
 {{< /admonition >}}
 
+:memo: チェック / QA：[:(fab fa-reddit): Estel Ciryandor](https://www.reddit.com/user/kyoumokawaii) 様
+
 :artist_palette: 絵 / Art：[:(fab fa-twitter fa-fw):Laxy](https://twitter.com/laxyiii/status/1402415053567975424) 様
 
 ---
