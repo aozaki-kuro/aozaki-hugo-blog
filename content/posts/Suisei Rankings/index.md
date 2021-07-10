@@ -142,9 +142,9 @@ The page is not optimized for smartphones, please read on PC.
 			<td>駆けろ</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
 			<td style="font-family:monospace">1</td> <!--iTunes-->
-			<td style="font-family:monospace"></td> <!--Amazon-->
-			<td style="font-family:monospace"></td> <!--Mora-->
-			<td style="font-family:monospace"></td> <!--OTOTOY-->
+			<td style="font-family:monospace">1</td> <!--Amazon-->
+			<td style="font-family:monospace">1</td> <!--Mora-->
+			<td style="font-family:monospace">1</td> <!--OTOTOY-->
 		</tr>
 	</tbody>
 </table>
@@ -177,9 +177,9 @@ The page is not optimized for smartphones, please read on PC.
 			<td>天球、彗星は夜を跨いで</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
 			<td style="font-family:monospace">3</td> <!--iTunes-->
-			<td style="font-family:monospace"></td> <!--Amazon-->
-			<td style="font-family:monospace"></td> <!--Mora-->
-			<td style="font-family:monospace"></td> <!--OTOTOY-->
+			<td style="font-family:monospace">2</td> <!--Amazon-->
+			<td style="font-family:monospace">4</td> <!--Mora-->
+			<td style="font-family:monospace">1</td> <!--OTOTOY-->
 		</tr>
 		<tr>
 			<td>NEXT COLOR PLANET</td> <!--Title-->
@@ -206,9 +206,9 @@ The page is not optimized for smartphones, please read on PC.
 			<td>駆けろ</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
 			<td style="font-family:monospace">2</td> <!--iTunes-->
-			<td style="font-family:monospace"></td> <!--Amazon-->
-			<td style="font-family:monospace"></td> <!--Mora-->
-			<td style="font-family:monospace"></td> <!--OTOTOY-->
+			<td style="font-family:monospace">1</td> <!--Amazon-->
+			<td style="font-family:monospace">3</td> <!--Mora-->
+			<td style="font-family:monospace">1</td> <!--OTOTOY-->
 		</tr>
 	</tbody>
 </table>
