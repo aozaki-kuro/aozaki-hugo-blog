@@ -176,7 +176,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>天球、彗星は夜を跨いで</td> <!--Title-->
-			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">3</td> <!--Oricon-->
 			<td style="font-family:monospace">3</td> <!--iTunes-->
 			<td style="font-family:monospace">2</td> <!--Amazon-->
 			<td style="font-family:monospace">4</td> <!--Mora-->
@@ -205,7 +205,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>駆けろ</td> <!--Title-->
-			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">4</td> <!--Oricon-->
 			<td style="font-family:monospace">2</td> <!--iTunes-->
 			<td style="font-family:monospace">1</td> <!--Amazon-->
 			<td style="font-family:monospace">3</td> <!--Mora-->
