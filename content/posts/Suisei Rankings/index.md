@@ -108,9 +108,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>駆けろ</td> <!--Title-->
-			<td style="font-family:monospace"></td> <!--Phy Daily-->
-			<td style="font-family:monospace"></td> <!--Phy Weekly-->
-			<td style="font-family:monospace"></td> <!--Digital Weekly-->
+			<td style="font-family:monospace" colspan=3>N/A</td>
 		</tr>
 	</tbody>
 </table>
@@ -141,7 +139,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>駆けろ</td> <!--Title-->
-			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">N/A</td> <!--Oricon-->
 			<td style="font-family:monospace">1</td> <!--iTunes-->
 			<td style="font-family:monospace">1</td> <!--Amazon-->
 			<td style="font-family:monospace">1</td> <!--Mora-->
