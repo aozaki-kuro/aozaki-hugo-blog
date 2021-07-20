@@ -6,8 +6,8 @@ draft: false
 comment: false
 toc: false
 description: "Art Commission Collection of Aozaki."
-license: "Do Not Repost."
-categories: ["Portfolio"]
+license: "DO NOT REPOST"
+categories: ["Portfolio Index"]
 ---
 
 ## Laxy
