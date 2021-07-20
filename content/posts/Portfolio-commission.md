@@ -4,6 +4,7 @@ slug: "Art Comission Collection"
 date: 2020-08-03T19:00:08+08:00
 draft: false
 comment: false
+toc: false
 description: "Art Commission Collection of Aozaki."
 license: "Do Not Repost."
 categories: ["Portfolio"]
@@ -54,3 +55,11 @@ categories: ["Portfolio"]
 {{< image src="https://img.aozaki-kuro.com/commission/1200/20210217_金沢.jpg" src_l="https://img.aozaki-kuro.com/commission/2048/20210217_金沢.jpg" caption="© 2021 [今沢](https://twitter.com/animarcat)" alt= "© 2021 今沢" width="500px" height="" >}}
 
 {{< image src="https://img.aozaki-kuro.com/commission/1200/20210316_朱耶式.jpg" src_l="https://img.aozaki-kuro.com/commission/2048/20210316_朱耶式.jpg" caption="© 2021 [朱耶式](https://twitter.com/akaya_siki/status/1371584249745186817)" alt= "© 2021 朱耶式" width="500px" height="" >}}
+
+---
+
+<p style="font-size: 0.8rem; color: #a9a9b2">
+Skebの規約による、Skebでやり取りされた作品のすべての権利はクリエイターと版権元に帰属する。
+<br>
+The copyright of all art works commissioned on Skeb belongs to the artist and the proper copyright holders.
+</p>
