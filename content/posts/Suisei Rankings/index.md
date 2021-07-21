@@ -292,7 +292,7 @@ The page is not optimized for smartphones, please read on PC.
 			<td>3時12分</td> <!--Title-->
 			<td>TAKU INOUE</td> <!--Producer-->
 			<td><a href="https://www.youtube.com/watch?v=LYFciXBcXIQ">:(fab fa-youtube fa-fw): TAKU INOUE</a></td> <!--Link-->
-			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">N/A</td> <!--Oricon-->
 		</tr>
 	</tbody>
 </table>

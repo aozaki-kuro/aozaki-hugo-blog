@@ -27,9 +27,9 @@ categories: ["Portfolio Index"]
 <a href="https://twitter.com/sinosino141"><img src="https://img.shields.io/badge/Twitter-@sinosino141-0075bd?style=flat-square&logo=twitter" height="20"></img></a> <a href="https://www.pixiv.net/users/57822910"><img src="https://img.shields.io/badge/Pixiv-四ノ宮しの-0096FA?style=flat-square&logo=pixiv" height="20"></img></a> <a href="https://skeb.jp/@sinosino141"><img src="https://img.aozaki-kuro.com/commission/skeb-四ノ宮しの.svg" height="20"></img></a> <a href="https://www.youtube.com/channel/UCVSo57Qzt2JtuTqE-pLBHCA"><img src="https://img.shields.io/badge/YouTube-Shinomiya%20Channel-d40000?style=flat-square&logo=youtube" height="20"></img></a>
 </p>
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210708_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1413111074363113475)" alt= "© 2021 四ノ宮しの" width="800px" height="" linked=false >}}
+{{< image src="https://img.aozaki-kuro.com/commission/20210708_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1413111074363113475)" alt= "© 2021 四ノ宮しの" width="600px" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210516_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1393899030342782977)" alt= "© 2021 四ノ宮しの" width="800px" height="" linked=false >}}
+{{< image src="https://img.aozaki-kuro.com/commission/20210516_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1393899030342782977)" alt= "© 2021 四ノ宮しの" width="600px" height="" linked=false >}}
 
 ## のんびり
 
