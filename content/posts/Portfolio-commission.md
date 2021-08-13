@@ -83,7 +83,7 @@ categories: ["Portfolio Index"]
 
 {{< image src="https://img.aozaki-kuro.com/commission/20210525_のんびり.jpg" caption="© 2021 [のんびり](https://twitter.com/nonbi_re/status/1397497316060270600)" alt= "DO NOT REPOST © 2021 のんびり" width="100%" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210815_のんびり.jpg" caption="© 2021 [のんびり]()" alt= "DO NOT REPOST © 2021 のんびり" width="" height="600rem" linked=false >}}
+{{< image src="https://img.aozaki-kuro.com/commission/20210815_のんびり.jpg" caption="© 2021 [のんびり]()" alt= "DO NOT REPOST © 2021 のんびり" width="600rem" height="" linked=false >}}
 
 ## 𝘼𝙇𝙀𝙏𝙃
 
