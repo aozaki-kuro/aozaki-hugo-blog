@@ -121,5 +121,6 @@ Skebの規約による、Skebでやり取りされた作品のすべての権利
 <br>
 The copyright of all art works commissioned on Skeb belongs to the artist and the proper copyright holders.
 <br>
+<br>
 © Copyright COVER corp. & ANYCOLOR Inc.
 </p>
