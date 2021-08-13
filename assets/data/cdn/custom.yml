@@ -1,0 +1,5 @@
+prefix:
+  libFiles: https://cdn.jsdelivr.net/npm/
+libFiles:
+  disqusjsCSS: disqusjs@1.3/dist/disqusjs.css
+  disqusjsJS: disqusjs@1.3/dist/disqus.js

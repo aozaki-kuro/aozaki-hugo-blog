@@ -525,8 +525,6 @@ ignoreErrors = ["error-remote-getjson"]
     # you can store your own data files in the same path under your project:
     # "assets/data/cdn/"
     data = "jsdelivr.yml"
-    disqusjsCSS = "https://cdn.jsdelivr.net/npm/disqusjs@1.3/dist/disqusjs.css"
-    disqusjsJS = "https://cdn.jsdelivr.net/npm/disqusjs@1.3/dist/disqus.js"
 
   # Compatibility config
   [params.compatibility]
