@@ -9,6 +9,9 @@ lightgallery: false
 description: "Art Commission Collection of Aozaki."
 license: "DO NOT REPOST"
 categories: ["Portfolio Index"]
+featuredImage: "0001.jpg"
+featuredImagePreview: "0001.jpg"
+images: ["/art-comission-collection/0001.jpg"]
 ---
 
 ## Laxy
@@ -115,6 +118,8 @@ categories: ["Portfolio Index"]
 {{< image src="https://img.aozaki-kuro.com/commission/20210316_朱耶式.jpg" caption="© 2021 [朱耶式](https://twitter.com/akaya_siki/status/1371584249745186817)" alt= "DO NOT REPOST © 2021 朱耶式" width="500rem" height="" linked=false >}}
 
 ---
+
+<!--Copyright-->
 
 <p style="font-size: 0.8rem; color: #a9a9b2">
 Skebの規約による、Skebでやり取りされた作品のすべての権利はクリエイターと版権元に帰属する。
