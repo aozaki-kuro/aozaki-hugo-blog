@@ -8,10 +8,9 @@ toc: false
 lightgallery: false
 description: "Art Commission Collection of Aozaki."
 license: "DO NOT REPOST"
-categories: ["Portfolio Index"]
-featuredImage: "0001.jpg"
 featuredImagePreview: "0001.jpg"
 images: ["/art-comission-collection/0001.jpg"]
+categories: ["Portfolio Index"]
 ---
 
 ## Laxy
