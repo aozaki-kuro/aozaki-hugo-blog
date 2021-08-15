@@ -6,7 +6,7 @@ draft: false
 comment: false
 toc: false
 lightgallery: false
-description: "Art Commission Collection of Aozaki."
+description: "The record of Aozaki's art commissions. DO NOT REPOST."
 license: "DO NOT REPOST"
 featuredImagePreview: "0001.jpg"
 images: ["/art-comission-collection/0001.jpg"]
@@ -85,7 +85,7 @@ categories: ["Portfolio Index"]
 
 {{< image src="https://img.aozaki-kuro.com/commission/20210525_のんびり.jpg" caption="© 2021 [のんびり](https://twitter.com/nonbi_re/status/1397497316060270600)" alt= "DO NOT REPOST © 2021 のんびり" width="100%" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210815_のんびり.jpg" caption="© 2021 [のんびり]()" alt= "DO NOT REPOST © 2021 のんびり" width="600rem" height="" linked=false >}}
+{{< image src="https://img.aozaki-kuro.com/commission/20210815_のんびり.jpg" caption="© 2021 [のんびり](https://twitter.com/nonbi_re/status/1426826402473517059)" alt= "DO NOT REPOST © 2021 のんびり" width="600rem" height="" linked=false >}}
 
 ## 𝘼𝙇𝙀𝙏𝙃
 
