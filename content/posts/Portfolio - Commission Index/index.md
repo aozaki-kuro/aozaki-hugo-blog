@@ -6,7 +6,7 @@ draft: false
 comment: false
 toc: false
 lightgallery: false
-description: "The record of Aozaki's art commissions. DO NOT REPOST."
+description: "Record of the art commissioned by Aozaki. DO NOT REPOST."
 license: "DO NOT REPOST"
 featuredImagePreview: "0001.jpg"
 images: ["/art-comission-collection/0001.jpg"]
