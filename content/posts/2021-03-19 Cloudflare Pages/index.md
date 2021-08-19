@@ -62,7 +62,7 @@ slug: "migrating from github pages to cloudflare pages"
 
 ### 绑定域名
 
-点击上图界面中的“自定义域”，如果该域名已经托管在Cloudflare，仅需输入域名（例如`aozaki-kuro.com`），则可以让Cloudflare自动更新`CNAME`并部署。
+点击上图界面中的“自定义域”，如果该域名已经托管在Cloudflare，仅需输入域名（例如`aozaki.cc`），则可以让Cloudflare自动更新`CNAME`并部署。
 
 极度傻瓜化的操作，比起需要自己编写`yaml`的Github Actions不知道高到哪里去了。
 

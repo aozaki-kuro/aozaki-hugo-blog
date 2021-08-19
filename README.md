@@ -1,6 +1,6 @@
-## Aozaki-Kuro.com
+## aozaki.cc
 
-Source files of Aozaki-Kuro.com.
+Source files of aozaki.cc.
 
 The personal blog of Aozaki Kuro.
 

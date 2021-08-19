@@ -45,7 +45,7 @@ tags:
 
 > 阿床6月15日歌回：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=nzM4du2xWXo)
 
-![いいよ](https://img.aozaki-kuro.com/20210706_0001.jpg "いいよ")
+![いいよ](https://img.aozaki.cc/20210706_0001.jpg "いいよ")
 
 在阿床6月15日歌回中，阿床问到观众想听什么。观众回复还想听星床合唱的「翼モラトリアム」。
 
@@ -63,7 +63,7 @@ tags:
 
 > [:(fab fa-twitter fa-fw): ブイアワ通知1](https://twitter.com/VMA2020_12_28/status/1411570681041494018)、[:(fab fa-twitter fa-fw): ブイアワ通知2](https://twitter.com/VMA2020_12_28/status/1411660926135066626)
 
-![天球 by 阿床](https://img.aozaki-kuro.com/20210706_0002.jpg "天球、彗星は夜を跨いで by 戌亥とこ")
+![天球 by 阿床](https://img.aozaki.cc/20210706_0002.jpg "天球、彗星は夜を跨いで by 戌亥とこ")
 
 当然没想到，歌回这一下呼唤居然是伏笔。阿床在2021年7月3日-7月4日举办的ブイアワ[^1]Day2的昼公演中出乎所有人意料地演唱了阿星的天球，并且阿床在MC中也是继续全力输出贴贴能量。
 
@@ -81,7 +81,7 @@ tags:
 
 > 阿床的VMA2021感想：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=bxK7WHO5Y7k)
 
-![3D阿床真可爱](https://img.aozaki-kuro.com/20210706_0005.jpg "3D阿床真可爱")
+![3D阿床真可爱](https://img.aozaki.cc/20210706_0005.jpg "3D阿床真可爱")
 
 演唱会后自然要谈及选曲理由。好多人都非常在意为什么选了天球和GHOST。
 
@@ -119,7 +119,7 @@ tags:
 
 > [:(fab fa-youtube fa-fw): とこまちラジオ(仮) #7 特別編](https://www.youtube.com/watch?v=kR9mSvUyfkY)
 
-![两个人终于能一起动啦！](https://img.aozaki-kuro.com/20210706_0006.jpg "两个人终于能一起动啦！")
+![两个人终于能一起动啦！](https://img.aozaki.cc/20210706_0006.jpg "两个人终于能一起动啦！")
 
 这期是非常难得的**线下回**，两人花了不少时间让L2D形象同时动起来了。
 
@@ -151,7 +151,7 @@ tags:
 
 当时阿星下厨给阿床做饭，阿床路过厨房时瞥见阿星非常有气势地在刨萝卜泥（大根おろし）。
 
-![大根おろし by S (@starbowhalo)](https://img.aozaki-kuro.com/20210706_0008.jpg "大根おろし by S (@starbowhalo)")
+![大根おろし by S (@starbowhalo)](https://img.aozaki.cc/20210706_0008.jpg "大根おろし by S (@starbowhalo)")
 
 [:(fab fa-twitter fa-fw): S (@starbowhalo)](https://twitter.com/starbowhalo/status/1398964304083255298) 老师的同人图和切片很好地再现了当时的场景，非常爆笑。
 
@@ -165,7 +165,7 @@ tags:
 
 > [:(fab fa-youtube fa-fw): とこまちラジオ(仮) #9](https://www.youtube.com/watch?v=RrX2uuMeAW8)
 
-![星床电台第9期啦](https://img.aozaki-kuro.com/20210706_0010.jpg "星床电台第9期啦")
+![星床电台第9期啦](https://img.aozaki.cc/20210706_0010.jpg "星床电台第9期啦")
 
 两人开场提到了这都已经是第9期了，过半年的时候感觉已经很不可思议了。
 
@@ -175,7 +175,7 @@ tags:
 
 > 赛程录像：[:(fas fa-horse): 金沢競馬LIVE中継（2021年6月20日）](https://youtu.be/6K2aMBBdZgI?t=16586)
 
-![とこまち真ん中バースデー](https://img.aozaki-kuro.com/20210706_0007.jpg "金沢競馬・とこまち真ん中バースデーレース")
+![とこまち真ん中バースデー](https://img.aozaki.cc/20210706_0007.jpg "金沢競馬・とこまち真ん中バースデーレース")
 
 第八期提到「とこまち真ん中バースデー」时我就跟日服服主等人开玩笑说：她们既然都提了，那就搞上呗。
 
@@ -199,7 +199,7 @@ tags:
 
 > 马趴直播原地址：[:(fab fa-youtube fa-fw): Shiro Channel](https://www.youtube.com/watch?v=I3PJanMArGA)
 
-![小白你不懂人心啊.jpg](https://img.aozaki-kuro.com/20210706_0009.jpg "小白你不懂人心啊.jpg")
+![小白你不懂人心啊.jpg](https://img.aozaki.cc/20210706_0009.jpg "小白你不懂人心啊.jpg")
 
 嗯……星床两人一起参加了小白组织的马趴联动。
 
@@ -247,7 +247,7 @@ tags:
 
 阿星成功地让一向稳重的阿床在直播时害羞，算是一大壮举了。
 
-{{< image src="https://img.aozaki-kuro.com/20210706_0003.jpg" caption="by おはぎ (@ohagi_0909)" width="60%" >}}
+{{< image src="https://img.aozaki.cc/20210706_0003.jpg" caption="by おはぎ (@ohagi_0909)" width="60%" >}}
 
 阿床随后也表示“哦~原来是这感觉吗…”
 
@@ -265,7 +265,7 @@ tags:
 
 > 原直播地址：[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=QQB79VAyWAw)
 
-![太能说了，熬死观众。](https://img.aozaki-kuro.com/20210706_0004.jpg "太能说了，熬死观众。")
+![太能说了，熬死观众。](https://img.aozaki.cc/20210706_0004.jpg "太能说了，熬死观众。")
 
 简而言之：4小时高强度聊ES，熬死观众。
 
@@ -292,7 +292,7 @@ tags:
 
 因故延期之后这一复活节主题的翻唱足足迟到了2个月有余，加之复活节本身在日本不算什么特别重要的节日，于是总体来说反响平平。截止本文成稿时将将过10万回放。
 
-![实质上是星床电台番外篇](https://img.aozaki-kuro.com/20210706_0011.jpg "实质上是星床电台番外篇")
+![实质上是星床电台番外篇](https://img.aozaki.cc/20210706_0011.jpg "实质上是星床电台番外篇")
 
 至于杂谈可能比同时视听还有乐子。
 

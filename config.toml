@@ -1,4 +1,4 @@
-baseURL = "https://aozaki-kuro.com"
+baseURL = "https://aozaki.cc"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "zh-cn"
 # theme
@@ -210,7 +210,7 @@ ignoreErrors = ["error-remote-getjson"]
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "i@aozaki-kuro.com"
+        Email = "i@aozaki.cc"
         RSS = true
 
 [params]
@@ -385,7 +385,7 @@ ignoreErrors = ["error-remote-getjson"]
         shortname = "aozaki-note"
         siteName = ''
         apikey = '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p'
-        api = 'https://disqus.aozaki-kuro.com/api/'
+        api = 'https://disqus.aozaki.cc/api/'
         admin = 'Aozaki'
         adminLabel = '☄'
       # Gitalk comment config (https://github.com/gitalk/gitalk)
@@ -564,8 +564,8 @@ ignoreErrors = ["error-remote-getjson"]
 # Author config
 [author]
   name = "Aozaki"
-  email = "i@aozaki-kuro.com"
-  link = "https://aozaki-kuro.com"
+  email = "i@aozaki.cc"
+  link = "https://aozaki.cc"
 
 # Sitemap config
 [sitemap]

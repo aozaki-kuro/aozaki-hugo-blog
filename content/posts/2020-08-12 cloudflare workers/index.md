@@ -63,7 +63,7 @@ jobs:
 
 这一点是个坑，几乎所有的教程都没有提到这里该怎么填。最后是从Cloudflare Community上翻到的答案（[具体讨论点这里](https://community.cloudflare.com/t/setup-workers-on-personal-domain/88012/7)）。
 
-在指定router后（例如我的是指向`dev.aozaki-kuro.com/*`），只需要在DNS记录内添加一个`A`记录，指向一个空IP即可。
+在指定router后（例如我的是指向`dev.aozaki.cc/*`），只需要在DNS记录内添加一个`A`记录，指向一个空IP即可。
 
 这个空IP可以是`192.0.2.1`以及类似的空IP。
 
@@ -79,7 +79,7 @@ Cloudflare Workers仅仅是部署就已经出现了这样那样的坑，官方�
 
 目前保留了指向Cloudflare Workers的链接，但是不再CI上去，可以参观一下：
 
-https://dev.aozaki-kuro.com/
+https://dev.aozaki.cc/
 
 `Expire date: 2020-09-11`
 

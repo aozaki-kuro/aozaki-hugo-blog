@@ -30,7 +30,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-blossom/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20150209_0001.jpg">
+        <img src="https://img.aozaki.cc/20150209_0001.jpg">
     </center>
 </a>
 
@@ -38,7 +38,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-regret/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20150329_0005.jpg">
+        <img src="https://img.aozaki.cc/20150329_0005.jpg">
     </center>
 </a>
 
@@ -46,7 +46,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-funernal/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20150809_0002.jpg">
+        <img src="https://img.aozaki.cc/20150809_0002.jpg">
     </center>
 </a>
 
@@ -54,7 +54,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-refusal/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20150726_0003.jpg">
+        <img src="https://img.aozaki.cc/20150726_0003.jpg">
     </center>
 </a>
 
@@ -62,7 +62,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-awareness/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20151125_0002.jpg">
+        <img src="https://img.aozaki.cc/20151125_0002.jpg">
     </center>
 </a>
 
@@ -74,7 +74,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-origami/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20160505_0001.jpg">
+        <img src="https://img.aozaki.cc/20160505_0001.jpg">
     </center>
 </a>
 
@@ -82,7 +82,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-unbalance/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20160715_0005.jpg">
+        <img src="https://img.aozaki.cc/20160715_0005.jpg">
     </center>
 </a>
 
@@ -94,7 +94,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-wander/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20170720_0001.jpg">
+        <img src="https://img.aozaki.cc/20170720_0001.jpg">
     </center>
 </a>
 
@@ -106,7 +106,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-dreamer/">
     <center>
-        <img src="https://img.aozaki-kuro.com/20190214_0001.jpg">
+        <img src="https://img.aozaki.cc/20190214_0001.jpg">
     </center>
 </a>
 

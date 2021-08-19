@@ -53,7 +53,7 @@ tags:
 
 ## *STARt IN THE SCREEN !*
 
-*![STARt IN THE SCREEN !](https://img.aozaki-kuro.com/20210318_0002.jpg "STARt IN THE SCREEN !")*
+*![STARt IN THE SCREEN !](https://img.aozaki.cc/20210318_0002.jpg "STARt IN THE SCREEN !")*
 
 2020年6月以来星进入了一个Event Rush的状态（相关活动[点这里](#演唱会不断)）。
 
@@ -65,7 +65,7 @@ tags:
 
 不过无论如何，恭喜阿星。截至本文发表时，距离100万只有20万的距离了。
 
-![いのち](https://img.aozaki-kuro.com/20210318_0007.jpg "真情流露。")
+![いのち](https://img.aozaki.cc/20210318_0007.jpg "真情流露。")
 
 这场演唱会中我最推荐的是`いのち`。
 
@@ -85,7 +85,7 @@ tags:
 
 {{< /admonition >}}
 
-![今宵月の館にて](https://img.aozaki-kuro.com/20210318_0003.jpg "啊这，但是星床真的很香。")
+![今宵月の館にて](https://img.aozaki.cc/20210318_0003.jpg "啊这，但是星床真的很香。")
 
 但是我上头了，对不起。星床[^1]太香了。:tropical_drink::comet:
 
@@ -93,7 +93,7 @@ tags:
 
 尽管星床早在2019年就以`#とこまち`的名义进行过数次联动，如[星床Minecraft](https://www.youtube.com/watch?v=Kr1jxq0ms00)，或是[Vあんスタ部](https://www.youtube.com/playlist?list=PLRGzS-dvI7ZwynlS-Mpf8u1HlOWaBW2wx)等活动，不过基本都是进行几次后草草收场。因此尽管不少人非常喜欢这一对唱歌超强，又是一冷一热的组合，但是因为她们一起活动的频率着实是非常低，一时间竟是天天跌停状态，能有点互相提到的机会就感觉很不错了。
 
-![偶尔一起活动](https://img.aozaki-kuro.com/20210318_0006.jpg "如彗星般突然出现！")
+![偶尔一起活动](https://img.aozaki.cc/20210318_0006.jpg "如彗星般突然出现！")
 
 此外阿床在2020年1月25日的[直播中曾经提到过星](https://youtu.be/CJD2mkpSkJs?t=4119)，彼时`Hololive 1st fes. ノンストップ・ストーリー`刚结束。当时阿星首秀选择了`天球、彗星は夜を跨いで`恐怕是至今为止最最重要的一步——她靠着NSS上的极佳表现，为她铺平了进入Hololive的道路。阿床也表示**非常尊敬、非常喜欢**阿星。
 
@@ -129,7 +129,7 @@ tags:
 
 <br>
 
-![ハニー](https://img.aozaki-kuro.com/20210318_0005.jpg "我不嗑CP了，我…卧槽真香。")
+![ハニー](https://img.aozaki.cc/20210318_0005.jpg "我不嗑CP了，我…卧槽真香。")
 
 这两人的Twitter互动也是非常密切，应该是开了通知吧，互相之间回复的时间经常短于1分钟。
 
@@ -204,7 +204,7 @@ tags:
 
 <br>
 
-![@akaya_siki](https://img.aozaki-kuro.com/20210318_0004.jpg "但是能得到那么挑剔的星的转推，一切都值得了。")
+![@akaya_siki](https://img.aozaki.cc/20210318_0004.jpg "但是能得到那么挑剔的星的转推，一切都值得了。")
 
 > 上图Twitter原文[点此](https://twitter.com/akaya_siki/status/1371584249745186817?s=20)。
 
@@ -216,7 +216,7 @@ tags:
 
 好吧这女人根本就不是说这种话的料嘛。但是她真的很可爱。
 
-![！？](https://img.aozaki-kuro.com/20210318_0008.jpg "「ボロボロ英語でも大好きだよすいちゃん！」")
+![！？](https://img.aozaki.cc/20210318_0008.jpg "「ボロボロ英語でも大好きだよすいちゃん！」")
 
 然后她对我我说了*Wow thank you, I love you!* [^4]
 
@@ -242,7 +242,7 @@ tags:
 
 #### 新年大喜利大会
 
-![ゆくホロ、くるホロ](https://img.aozaki-kuro.com/20210318_0009.jpg "#明智光秀Live 直接笑飞")
+![ゆくホロ、くるホロ](https://img.aozaki.cc/20210318_0009.jpg "#明智光秀Live 直接笑飞")
 
 2021年新年的大喜利[^5]大会我万万没想到星会出席。一直以为她并不是特别擅长这些活动，没想到一鸣惊人，在整场活动中表现出了极佳的语言天赋以及想象力。其中以`#明智光秀Live`最令人捧腹。最后以一骑绝尘的优势拿下大喜利女王的称号，为今年的首个地狱企划画上了圆满的句号。:party_popper::party_popper::party_popper:
 
@@ -250,7 +250,7 @@ tags:
 
 > [原视频点此](https://www.youtube.com/watch?v=A7k0vVogPbE)，非常推荐看完全场。
 
-![ホロお正月CUP](https://img.aozaki-kuro.com/20210318_0010.jpg "1分之差险胜夺冠")
+![ホロお正月CUP](https://img.aozaki.cc/20210318_0010.jpg "1分之差险胜夺冠")
 
 作为2020年马车大会杂鱼组第一，星今年其实并没有被普遍看好夺冠。星给自己定的目标也只是突破预选赛进入上半区。但是万万没想到，在众多变数的影响下，冷静跑完全程的星最后力压群芳，以1分之差击败夺冠大热门阿夸（当然更大的黑马是第三位的船长）。
 
@@ -274,7 +274,7 @@ Suisei Channel的收益化已于2021年2月26日恢复。
 
 总之在进行了收益化剥夺祭杂谈后，她开始了各种地狱企划……
 
-![ホロライブSP(スペース)00期生](https://img.aozaki-kuro.com/20210318_0011.jpg "【初配信✨】ホロライブSP(スペース)00期生です！:comet:")
+![ホロライブSP(スペース)00期生](https://img.aozaki.cc/20210318_0011.jpg "【初配信✨】ホロライブSP(スペース)00期生です！:comet:")
 
 [SP00期生出道](https://www.youtube.com/watch?v=7KTDR2frhLk)应该是其中最出彩的，她非常令人意外地启用了翻新过的旧皮肤，从开场到声线均复刻了2018年5月10日的首次直播[^7]，但同时也引入了较为“现代”的新人自我介绍方式。当然还有两位同期`佐多アン`和`木せいこ`因为语言问题尚未出道。
 
@@ -294,7 +294,7 @@ Suisei Channel的收益化已于2021年2月26日恢复。
 
 {{< /admonition >}}
 
-![喉の経過報告](https://img.aozaki-kuro.com/20210318_0012.jpg "现在知道痛了。")
+![喉の経過報告](https://img.aozaki.cc/20210318_0012.jpg "现在知道痛了。")
 
 在经历数日的休养后，星于3月9日至3月11日进行了连续3日的收录，于3月10日收录后至医院接受治疗，并于[直播中](https://www.youtube.com/watch?v=ta5_6p3fQtY)详细描述了治疗经过与医生的建议，声音也是非常明显的沙哑。
 

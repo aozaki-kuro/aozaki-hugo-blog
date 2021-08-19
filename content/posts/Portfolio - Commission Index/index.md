@@ -33,9 +33,9 @@ categories: ["Portfolio Index"]
 
 <!--Artworks-->
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210424_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/status/1385985122332155908)" alt= "DO NOT REPOST © 2021 Laxy" width="100%" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210424_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/status/1385985122332155908)" alt= "DO NOT REPOST © 2021 Laxy" width="100%" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210531_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/status/1402415053567975424)" alt= "DO NOT REPOST © 2021 Laxy" width="100%" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210531_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/status/1402415053567975424)" alt= "DO NOT REPOST © 2021 Laxy" width="100%" height="" linked=false >}}
 
 ## 四ノ宮しの:bread::dog_face:
 
@@ -52,7 +52,7 @@ categories: ["Portfolio Index"]
     </a>
     <!--Skeb-->
     <a href="https://skeb.jp/@sinosino141" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.aozaki-kuro.com/commission/skeb-四ノ宮しの.svg" height="20">
+        <img src="https://img.aozaki.cc/commission/skeb-四ノ宮しの.svg" height="20">
     </a>
     <!--YouTube-->
     <a href="https://www.youtube.com/channel/UCVSo57Qzt2JtuTqE-pLBHCA" target="_blank" rel="noopener noreferrer">
@@ -62,9 +62,9 @@ categories: ["Portfolio Index"]
 
 <!--Artworks-->
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210708_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1413111074363113475)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="600rem" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210708_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1413111074363113475)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="600rem" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210516_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1393899030342782977)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="600rem" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210516_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1393899030342782977)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="600rem" height="" linked=false >}}
 
 ## のんびり
 
@@ -83,9 +83,9 @@ categories: ["Portfolio Index"]
 
 <!--Artworks-->
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210525_のんびり.jpg" caption="© 2021 [のんびり](https://twitter.com/nonbi_re/status/1397497316060270600)" alt= "DO NOT REPOST © 2021 のんびり" width="100%" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210525_のんびり.jpg" caption="© 2021 [のんびり](https://twitter.com/nonbi_re/status/1397497316060270600)" alt= "DO NOT REPOST © 2021 のんびり" width="100%" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210815_のんびり.jpg" caption="© 2021 [のんびり](https://twitter.com/nonbi_re/status/1426826402473517059)" alt= "DO NOT REPOST © 2021 のんびり" width="600rem" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210815_のんびり.jpg" caption="© 2021 [のんびり](https://twitter.com/nonbi_re/status/1426826402473517059)" alt= "DO NOT REPOST © 2021 のんびり" width="600rem" height="" linked=false >}}
 
 ## 𝘼𝙇𝙀𝙏𝙃
 
@@ -104,17 +104,17 @@ categories: ["Portfolio Index"]
 
 <!--Artworks-->
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210331_ALETH.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul/status/1377187662084341760)" alt= "DO NOT REPOST © 2021 ALETH" width="100%" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210331_ALETH.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul/status/1377187662084341760)" alt= "DO NOT REPOST © 2021 ALETH" width="100%" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210523_ALETH.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul/status/1396390446390300674)" alt= "DO NOT REPOST © 2021 ALETH" width="100%" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210523_ALETH.jpg" caption="© 2021 [ALETH](https://twitter.com/riva_poul/status/1396390446390300674)" alt= "DO NOT REPOST © 2021 ALETH" width="100%" height="" linked=false >}}
 
 ## ほか
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210428_楠ハルイ.jpg" caption="© 2021 [楠ハルイ](https://twitter.com/hr_x9_/status/1387324035655036930)" alt= "DO NOT REPOST © 2021 楠ハルイ" width="500rem" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210428_楠ハルイ.jpg" caption="© 2021 [楠ハルイ](https://twitter.com/hr_x9_/status/1387324035655036930)" alt= "DO NOT REPOST © 2021 楠ハルイ" width="500rem" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210217_金沢.jpg" caption="© 2021 [今沢](https://twitter.com/animarcat)" alt= "DO NOT REPOST © 2021 今沢" width="500rem" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210217_金沢.jpg" caption="© 2021 [今沢](https://twitter.com/animarcat)" alt= "DO NOT REPOST © 2021 今沢" width="500rem" height="" linked=false >}}
 
-{{< image src="https://img.aozaki-kuro.com/commission/20210316_朱耶式.jpg" caption="© 2021 [朱耶式](https://twitter.com/akaya_siki/status/1371584249745186817)" alt= "DO NOT REPOST © 2021 朱耶式" width="500rem" height="" linked=false >}}
+{{< image src="https://img.aozaki.cc/commission/20210316_朱耶式.jpg" caption="© 2021 [朱耶式](https://twitter.com/akaya_siki/status/1371584249745186817)" alt= "DO NOT REPOST © 2021 朱耶式" width="500rem" height="" linked=false >}}
 
 ---
 

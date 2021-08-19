@@ -4,7 +4,7 @@ slug: "Leica M10-R"
 date: 2020-10-27T13:10:00+08:00
 draft: false
 author: "Aozaki"
-authorLink: "https://aozaki-kuro.com/"
+authorLink: "https://aozaki.cc/"
 description: "当个器材党真开心"
 featuredImage: "0003.jpg"
 featuredImagePreview: "0003.jpg"

@@ -39,13 +39,13 @@ tags:
 
 > 演唱会原地址 [:(fab fa-youtube fa-fw): Space for Virtual GHOST](https://www.youtube.com/watch?v=Ajwv4ANSSg0)
 
-![Space for Virtual GHOST](https://img.aozaki-kuro.com/20210423_0002.jpg "3周年纪念演唱会")
+![Space for Virtual GHOST](https://img.aozaki.cc/20210423_0002.jpg "3周年纪念演唱会")
 
 今年阿星的3周年Live，之前个人的猜想是全程阿星Solo以证明自己的实力。当然各位看过演唱会后也能明白，阿星今年的Guest阵容不仅强大，也配得上她现如今的实力。
 
 除了Holoband的惊喜，最最意外的嘉宾恐怕就是事前丝毫没有走漏任何风声的阿床了（实际上还有是蛛丝马迹的，后续会提到）。
 
-![阿床“突然想起”今天就是阿星演唱会](https://img.aozaki-kuro.com/20210423_0009.jpg "阿床“突然想起”今天就是阿星演唱会")
+![阿床“突然想起”今天就是阿星演唱会](https://img.aozaki.cc/20210423_0009.jpg "阿床“突然想起”今天就是阿星演唱会")
 
 当时看到这条推文时心一沉，觉得阿床确实还是来不了，或者是阿星想把阿床藏到她的1st Solo Live作为嘉宾。当然还有点淡淡的期望，希望阿床和干草开同时视听。
 
@@ -53,15 +53,15 @@ tags:
 
 当然擅长给观众惊喜、并将保密工作贯彻到底的阿星和阿床确实给了我们一个巨大的意外：第一位嘉宾就是阿床。
 
-![In the Morning](https://img.aozaki-kuro.com/20210423_0003.jpg "In the Morning - Mrs. GREEN APPLE")
+![In the Morning](https://img.aozaki.cc/20210423_0003.jpg "In the Morning - Mrs. GREEN APPLE")
 
-![盗作1](https://img.aozaki-kuro.com/20210423_0004.jpg "ヨルシカ - 盗作")
+![盗作1](https://img.aozaki.cc/20210423_0004.jpg "ヨルシカ - 盗作")
 
-![盗作2](https://img.aozaki-kuro.com/20210423_0005.jpg "首次公开留档的舞台共演")
+![盗作2](https://img.aozaki.cc/20210423_0005.jpg "首次公开留档的舞台共演")
 
-![盗作3](https://img.aozaki-kuro.com/20210423_0007.jpg "共同站在大舞台上的心愿再次达成")
+![盗作3](https://img.aozaki.cc/20210423_0007.jpg "共同站在大舞台上的心愿再次达成")
 
-![盗作4](https://img.aozaki-kuro.com/20210423_0008.jpg "真的很美")
+![盗作4](https://img.aozaki.cc/20210423_0008.jpg "真的很美")
 
 两人合唱了「In the Morning」以及「盗作」。前者充满活力，而另一首则是两人都擅长的来自ヨルシカ的抒情歌曲。
 
@@ -79,7 +79,7 @@ tags:
 
 > 相关杂谈地址 [:(fab fa-youtube fa-fw): 当日杂谈](https://www.youtube.com/watch?v=BNq4LHZRhfQ)、[:(fab fa-youtube fa-fw): 后续杂谈](https://www.youtube.com/watch?v=hKjv_Z5xjwc)
 
-![“把话题留给阿星吧，她才是主角哦”](https://img.aozaki-kuro.com/20210423_0011.jpg "“把话题留给阿星吧，她才是主角哦”")
+![“把话题留给阿星吧，她才是主角哦”](https://img.aozaki.cc/20210423_0011.jpg "“把话题留给阿星吧，她才是主角哦”")
 
 阿床由于较早结束演出任务，在演唱会结束后不久便开了杂谈。不过尽管标题是“兴奋感尚未平复”，阿床在直播中还是表示，阿星才是主角，把选歌理由和过程，还有一些趣事留给阿星说。以下记录的内容多来自数日后的杂谈。
 
@@ -87,7 +87,7 @@ tags:
 
 ### 送披萨的小女孩
 
-![送披萨的小女孩](https://img.aozaki-kuro.com/20210423_0010.jpg "“在吃披萨。”“来点？”")
+![送披萨的小女孩](https://img.aozaki.cc/20210423_0010.jpg "“在吃披萨。”“来点？”")
 
 在正式开演前几天，阿星曾经在推上发过一句“休息吃披萨中”，阿床回复说也想要吃。
 
@@ -99,7 +99,7 @@ tags:
 
 ### 选歌
 
-![选歌](https://img.aozaki-kuro.com/20210423_0012.jpg "“选歌？选得很快的呀”")
+![选歌](https://img.aozaki.cc/20210423_0012.jpg "“选歌？选得很快的呀”")
 
 选歌部分更是简单得吓人。
 
