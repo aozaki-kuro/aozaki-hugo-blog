@@ -110,6 +110,12 @@ The page is not optimized for smartphones, please read on PC.
 			<td>駆けろ</td> <!--Title-->
 			<td style="font-family:monospace" colspan=3>N/A</td>
 		</tr>
+		<tr>
+			<td>自分勝手Dazzling</td> <!--Title-->
+			<td style="font-family:monospace"></td>
+			<td style="font-family:monospace"></td>
+			<td style="font-family:monospace"></td>
+		</tr>
 	</tbody>
 </table>
 
@@ -143,6 +149,14 @@ The page is not optimized for smartphones, please read on PC.
 			<td style="font-family:monospace">1</td> <!--iTunes-->
 			<td style="font-family:monospace">1</td> <!--Amazon-->
 			<td style="font-family:monospace">1</td> <!--Mora-->
+			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
+		</tr>
+		<tr>
+			<td>自分勝手Dazzling</td> <!--Title-->
+			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">2</td> <!--iTunes-->
+			<td style="font-family:monospace"></td> <!--Amazon-->
+			<td style="font-family:monospace">2</td> <!--Mora-->
 			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
 		</tr>
 	</tbody>
@@ -209,10 +223,26 @@ The page is not optimized for smartphones, please read on PC.
 			<td style="font-family:monospace">3</td> <!--Mora-->
 			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
 		</tr>
+		<tr>
+			<td>自分勝手Dazzling</td> <!--Title-->
+			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">15</td> <!--iTunes-->
+			<td style="font-family:monospace"></td> <!--Amazon-->
+			<td style="font-family:monospace"></td> <!--Mora-->
+			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
+		</tr>
+		<tr>
+			<td>バイバイレイニー</td> <!--Title-->
+			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">17</td> <!--iTunes-->
+			<td style="font-family:monospace"></td> <!--Amazon-->
+			<td style="font-family:monospace"></td> <!--Mora-->
+			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
+		</tr>
 	</tbody>
 </table>
 
-<p style="font-size:0.8em">
+<p style="font-size:0.8em; color:grey">
 	» N/A: 該当なし / Not Ranked / No Data Found
 	<br>
 	» TBD: 未定 / Reserved slot for further editing
@@ -243,33 +273,43 @@ The page is not optimized for smartphones, please read on PC.
 	<tbody>
 		<tr>
 			<td>Comet</td> <!--Title-->
-			<td><a href="https://www.youtube.com/watch?v=3cqV5BKJHyk">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://www.youtube.com/watch?v=3cqV5BKJHyk" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td><a href="https://suisei.streamlink.to/bluerose">:(fas fa-meteor): streamlink.io</a></td>
 		</tr>
 		<tr>
 			<td>天球、彗星は夜を跨いで</td> <!--Title-->
-			<td><a href="https://www.youtube.com/watch?v=zLak0dxBKpM">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://www.youtube.com/watch?v=zLak0dxBKpM" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td><a href="https://suisei.streamlink.to/run">:(fas fa-meteor): streamlink.io</a></td>
 		</tr>
 		<tr>
 			<td>NEXT COLOR PLANET</td> <!--Title-->
-			<td><a href="https://www.youtube.com/watch?v=vQHVGXdcqEQ">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://www.youtube.com/watch?v=vQHVGXdcqEQ" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td style="color:grey">:(fas fa-link): linkco.re</td>
 		</tr>
 		<tr>
 			<td>GHOST</td> <!--Title-->
-			<td><a href="https://www.youtube.com/watch?v=IKKar5SS29E">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://www.youtube.com/watch?v=IKKar5SS29E" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td><a href="https://suisei.streamlink.to/GHOST">:(fas fa-ghost): streamlink.io</a></td>
 		</tr>
 		<tr>
 			<td>Bluerose</td> <!--Title-->
-			<td><a href="https://www.youtube.com/watch?v=ZfDYRy17CBY">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://www.youtube.com/watch?v=ZfDYRy17CBY" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td><a href="https://suisei.streamlink.to/bluerose">:(fas fa-meteor): streamlink.io</a></td>
 		</tr>
 		<tr>
 			<td>駆けろ</td> <!--Title-->
-			<td style="color:grey">:(fab fa-youtube fa-fw): Suisei Channel</td>
+			<td><a href="https://www.youtube.com/watch?v=IqT6cHCT1TE" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
 			<td><a href="https://suisei.streamlink.to/run">:(fas fa-meteor): streamlink.io</a></td>
+		</tr>
+		<tr>
+			<td>自分勝手Dazzling</td> <!--Title-->
+			<td><a href="https://www.youtube.com/watch?v=Mm87JgTx2Ao" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://suisei.streamlink.to/dazzling">:(far fa-gem): streamlink.io</a></td>
+		</tr>
+		<tr>
+			<td>バイバイレイニー</td> <!--Title-->
+			<td style="color:grey">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://suisei.streamlink.to/dazzling">:(fas fa-meteor): streamlink.io</a></td>
 		</tr>
 	</tbody>
 </table>
