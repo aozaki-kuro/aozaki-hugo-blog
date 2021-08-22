@@ -4,4 +4,4 @@
 
 Source files of aozaki.cc.
 
-The personal blog of Aozaki Kuro.
+The personal blog of Aozaki.
