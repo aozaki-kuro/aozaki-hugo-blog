@@ -385,7 +385,7 @@ ignoreErrors = ["error-remote-getjson"]
         shortname = "aozaki-note"
         siteName = ''
         apikey = '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p'
-        api = 'https://comment.aozaki.cc/api/'
+        api = 'https://disqus.aozaki.cc/api/'
         admin = 'Aozaki'
         adminLabel = '☄'
       # Gitalk comment config (https://github.com/gitalk/gitalk)
