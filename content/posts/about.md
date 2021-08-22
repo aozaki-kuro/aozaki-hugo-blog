@@ -39,4 +39,4 @@ images: ["/about/work.jpg"]
 
 ---
 
-<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></img></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></img></a> <a href="https://vercel.com"><img src="https://therealsujitk-vercel-badge.vercel.app/?app=aozaki-blog-aozaki&style=flat-square" height="20"></img></a>
+<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></img></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></img></a>
