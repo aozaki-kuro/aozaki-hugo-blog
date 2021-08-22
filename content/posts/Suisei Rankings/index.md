@@ -40,7 +40,7 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--Album Oricon start-->
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 	<tr>
 		<th style="width:35%">オリコン</th>
@@ -63,7 +63,7 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--Album other site start-->
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">デジタル</th>
@@ -92,7 +92,7 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--EP Oricon start-->
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">オリコン</th>
@@ -123,7 +123,7 @@ The page is not optimized for smartphones, please read on PC.
 
 <!--EP other site start-->
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">デジタル</th>
@@ -166,7 +166,7 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :musical_note: シングル / Single
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">デジタル</th>
@@ -226,7 +226,7 @@ The page is not optimized for smartphones, please read on PC.
 		<tr>
 			<td>自分勝手Dazzling</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
-			<td style="font-family:monospace">15</td> <!--iTunes-->
+			<td style="font-family:monospace">10</td> <!--iTunes-->
 			<td style="font-family:monospace"></td> <!--Amazon-->
 			<td style="font-family:monospace"></td> <!--Mora-->
 			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
@@ -234,7 +234,7 @@ The page is not optimized for smartphones, please read on PC.
 		<tr>
 			<td>バイバイレイニー</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
-			<td style="font-family:monospace">17</td> <!--iTunes-->
+			<td style="font-family:monospace">13</td> <!--iTunes-->
 			<td style="font-family:monospace"></td> <!--Amazon-->
 			<td style="font-family:monospace"></td> <!--Mora-->
 			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
@@ -262,10 +262,27 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :link: リンク / Links
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 		<tr>
-			<th style="width:35%">タイトル</th>
+			<th style="width:35%">アルバム</th>
+			<th style="width:32.5%">YouTube</th>
+			<th style="width:32.5%">リンク</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Still Still Stellar</td> <!--Title-->
+			<td><a href="https://www.youtube.com/watch?v=H_08cZT_PrE" target="_blank" rel="noopener noreferrer">:(fab fa-youtube fa-fw): Suisei Channel</a></td>
+			<td><a href="https://suisei.streamlink.to/sss">:(fas fa-meteor): streamlink.io</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="text-align:center; width:100%">
+	<thead>
+		<tr>
+			<th style="width:35%">シングル</th>
 			<th style="width:32.5%">YouTube</th>
 			<th style="width:32.5%">リンク</th>
 		</tr>
@@ -318,7 +335,7 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :microphone: ゲスト / As featured Artist
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 	<tr>
 		<th style="width:35%">タイトル</th>
@@ -341,7 +358,7 @@ The page is not optimized for smartphones, please read on PC.
 
 ## :books: 翻訳 / Translation / Legend
 
-<table style="text-align:center; table-layout:fixed; width:100%">
+<table style="text-align:center; width:100%">
 	<thead>
 		<tr>
 			<th style="width:35%">日本語</th>
