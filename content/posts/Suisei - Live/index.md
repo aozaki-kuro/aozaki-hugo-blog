@@ -12,7 +12,7 @@ description: "星街すいせいさんのライブまとめです。/ This is th
 
 ## :memo: 概要 / Description
 
-<a href="https://twitter.com/suisei_hosimati"><img src="https://img.shields.io/badge/Twitter-@suisei__hosimati-0075bd?style=flat-square&logo=twitter" height="20"></img></a> <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A"><img src="https://img.shields.io/badge/YouTube-Suisei%20Channel-d40000?style=flat-square&logo=youtube" height="20"></img></a>
+<a href="https://twitter.com/suisei_hosimati"  target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-@suisei__hosimati-0075bd?style=flat-square&logo=twitter" height="20"></img></a> <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A"  target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-Suisei%20Channel-d40000?style=flat-square&logo=youtube" height="20"></img></a>
 
 こちらは[星街すいせい](https://twitter.com/suisei_hosimati)さんのライブまとめです。
 
@@ -50,7 +50,7 @@ The page is not optimized for smartphones, please read on PC.
             <td style="text-align:center; font-family:monospace">01-24</td>
             <td>hololive 1st fes. ノンストップ・ストーリー</td>
             <td style="text-align:center"><a href="https://www.nonstop.hololive.tv/" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">03-01</td>
@@ -86,13 +86,13 @@ The page is not optimized for smartphones, please read on PC.
             <td style="text-align:center; font-family:monospace">07-03</td>
             <td>『It's a Virtual Pop World!』</td>
             <td style="text-align:center"><a href="https://spwn.jp/events/200703-virtual-pop-world" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">07-19</td>
             <td>Virtual Unit Fes. VILLS vol.1</td>
             <td style="text-align:center"><a href="https://spwn.jp/events/200719-vills" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">07-25</td>
@@ -110,13 +110,13 @@ The page is not optimized for smartphones, please read on PC.
             <td style="text-align:center; font-family:monospace">09-06</td>
             <td>東京タワー花火大会XR  〜COSMIC FLOWER〜</td>
             <td style="text-align:center"><a href="https://live.nicovideo.jp/watch/lv327828022" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">10-04</td>
             <td>TOKYO IDOL FESTIVAL オンライン 2020 Day3</td>
             <td style="text-align:center"><a href="https://tif.spwn.jp/events/20100410-tif2020-day3" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">10-19</td>
@@ -128,19 +128,19 @@ The page is not optimized for smartphones, please read on PC.
             <td style="text-align:center; font-family:monospace">11-22</td>
             <td>SUISEI MUSIC “POWER” LIVE</td>
             <td style="text-align:center"><a href="https://nissin-ps.com/" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">12-10</td>
             <td>Inui Toko 1st Solo Live “who i am”</td>
             <td style="text-align:center"><a href="https://event.nijisanji.app/inui_whoiam/" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">12-21</td>
             <td>hololive 2nd fes. Beyond the Stage Day2</td>
             <td style="text-align:center"><a href="https://beyondthestage.hololive.tv/" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
     </tbody>
 </table>
@@ -167,13 +167,13 @@ The page is not optimized for smartphones, please read on PC.
             <td style="text-align:center; font-family:monospace">03-21</td>
             <td>Virtual Unit Fes. VILLS vol.2</td>
             <td style="text-align:center"><a href="https://v-clan.spwn.jp/events/21032114-vills" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">04-03</td>
             <td>V-Carnival Day1</td>
             <td style="text-align:center"><a href="https://virtual.spwn.jp/events/21040304-v-carnival" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">04-13</td>
@@ -188,16 +188,16 @@ The page is not optimized for smartphones, please read on PC.
             <td style="text-align:center"></td>
         </tr>
         <tr>
-            <td style="text-align:center; font-family:monospace">07-30</td>
+            <td style="text-align:center; font-family:monospace">07-31</td>
             <td>TUBEOUT! Vol.10 花鋏キョウ/星街すいせい</td>
             <td style="text-align:center"><a href="https://virtual.spwn.jp/events/21073118-TO10" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">10-21</td>
             <td><b>Hoshimachi Suisei 1st Solo Live "STELLAR into the GALAXY"</b></td>
             <td style="text-align:center"><a href="https://virtual.spwn.jp/_events/21102101-jpsuisei" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
     </tbody>
 </table>
@@ -232,7 +232,7 @@ The page is not optimized for smartphones, please read on PC.
             <td style="text-align:center; font-family:monospace">12-10</td>
             <td>Inui Toko 1st Solo Live “who i am”</td>
             <td style="text-align:center"><a href="https://event.nijisanji.app/inui_whoiam/" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
-            <td style="text-align:center">✔</td>
+            <td style="text-align:center"><i class="fas fa-check"></i></td>
         </tr>
     </tbody>
 </table>
