@@ -19,7 +19,7 @@ images: ["/about/work.jpg"]
 
 ## 关于网站 / About the website
 
-本站由[Hugo](https://gohugo.io/)驱动，主题是[CodeIT](https://github.com/sunt-programator/CodeIT)，托管于[netlify](https://netlify.app/)。
+本站由[Hugo](https://gohugo.io/)驱动，主题是[CodeIT](https://github.com/sunt-programator/CodeIT)，托管于[Vercel](https://vercel.com/)。
 
 本站使用`Google Analytics`作为第三方统计工具收集统计基础的页面访问信息，如果您对该行为表示不认同，通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
 
@@ -39,4 +39,4 @@ images: ["/about/work.jpg"]
 
 ---
 
-<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></img></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></img></a> <a href="https://netlify.app"><img src="https://img.shields.io/netlify/0bcf1259-0fdb-45da-be64-a76dac743055?logo=netlify&style=flat-square" height="20"></img></a>
+<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></img></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></img></a> <a href="https://vercel.com"><img src="https://therealsujitk-vercel-badge.vercel.app/?app=aozaki-blog-aozaki&style=flat-square" height="20"></img></a>
