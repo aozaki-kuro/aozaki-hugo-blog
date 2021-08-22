@@ -6,7 +6,7 @@ draft: false
 categories: ["VTuber"]
 featuredImage: "1st_live.jpg"
 featuredImagePreview: "1st_live.jpg"
-images: ["/suisei-rankings/1st_live.jpg"]
+images: ["/suisei-live-list/1st_live.jpg"]
 description: "星街すいせいさんのライブまとめです。/ This is the record for Hoshimachi Suisei's Live."
 ---
 
