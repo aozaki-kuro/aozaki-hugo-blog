@@ -36,13 +36,13 @@ The page is not optimized for smartphones, please read on PC.
 
 ### 2020
 
-<table style="width:100%">
+<table>
     <thead>
         <tr>
-            <th style="text-align:center">Date</th>
-            <th><div style="width: 50%">Title</th>
-            <th style="text-align:center">Link</th>
-            <th style="text-align:center">Paid</th>
+            <th style="text-align:center; width: 10%">Date</th>
+            <th style="width: 70%">Title</th>
+            <th style="text-align:center; width: 10%">Link</th>
+            <th style="text-align:center; width: 10%">Paid</th>
         </tr>
     </thead>
     <tbody>
@@ -85,13 +85,13 @@ The page is not optimized for smartphones, please read on PC.
         <tr>
             <td style="text-align:center; font-family:monospace">07-03</td>
             <td>『It's a Virtual Pop World!』</td>
-            <td style="text-align:center"><a href="https://spwn.jp/events/200703-virtual-pop-world" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://spwn.jp/events/200703-virtual-pop-world" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">07-19</td>
             <td>Virtual Unit Fes. VILLS vol.1</td>
-            <td style="text-align:center"><a href="https://spwn.jp/events/200719-vills" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://spwn.jp/events/200719-vills" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@ The page is not optimized for smartphones, please read on PC.
         <tr>
             <td style="text-align:center; font-family:monospace">10-04</td>
             <td>TOKYO IDOL FESTIVAL オンライン 2020 Day3</td>
-            <td style="text-align:center"><a href="https://tif.spwn.jp/events/20100410-tif2020-day3" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://tif.spwn.jp/events/20100410-tif2020-day3" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
         <tr>
@@ -127,7 +127,7 @@ The page is not optimized for smartphones, please read on PC.
         <tr>
             <td style="text-align:center; font-family:monospace">11-22</td>
             <td>SUISEI MUSIC “POWER” LIVE</td>
-            <td style="text-align:center"><a href="https://nissin-ps.com/" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://nissin-ps.com/" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
         <tr>
@@ -150,10 +150,10 @@ The page is not optimized for smartphones, please read on PC.
 <table>
     <thead>
         <tr>
-            <th style="text-align:center">Date</th>
-            <th><div style="width: 30rem">Title</th>
-            <th style="text-align:center">Link</th>
-            <th style="text-align:center">Paid</th>
+            <th style="text-align:center; width: 10%">Date</th>
+            <th style="width: 70%">Title</th>
+            <th style="text-align:center; width: 10%">Link</th>
+            <th style="text-align:center; width: 10%">Paid</th>
         </tr>
     </thead>
     <tbody>
@@ -166,13 +166,13 @@ The page is not optimized for smartphones, please read on PC.
         <tr>
             <td style="text-align:center; font-family:monospace">03-21</td>
             <td>Virtual Unit Fes. VILLS vol.2</td>
-            <td style="text-align:center"><a href="https://v-clan.spwn.jp/events/21032114-vills" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://v-clan.spwn.jp/events/21032114-vills" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">04-03</td>
             <td>V-Carnival Day1</td>
-            <td style="text-align:center"><a href="https://virtual.spwn.jp/events/21040304-v-carnival" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://virtual.spwn.jp/events/21040304-v-carnival" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
         <tr>
@@ -190,13 +190,13 @@ The page is not optimized for smartphones, please read on PC.
         <tr>
             <td style="text-align:center; font-family:monospace">07-30</td>
             <td>TUBEOUT! Vol.10 花鋏キョウ/星街すいせい</td>
-            <td style="text-align:center"><a href="https://virtual.spwn.jp/events/21073118-TO10" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://virtual.spwn.jp/events/21073118-TO10" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
         <tr>
             <td style="text-align:center; font-family:monospace">10-21</td>
             <td><b>Hoshimachi Suisei 1st Solo Live "STELLAR into the GALAXY"</b></td>
-            <td style="text-align:center"><a href="https://virtual.spwn.jp/_events/21102101-jpsuisei" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></i></a></td>
+            <td style="text-align:center"><a href="https://virtual.spwn.jp/_events/21102101-jpsuisei" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a></td>
             <td style="text-align:center">✔</td>
         </tr>
     </tbody>
@@ -215,10 +215,10 @@ The page is not optimized for smartphones, please read on PC.
 <table>
     <thead>
         <tr>
-            <th style="text-align:center">Date</th>
-            <th><div style="width: 30rem">Title</th>
-            <th style="text-align:center">Link</th>
-            <th style="text-align:center">Paid</th>
+            <th style="text-align:center; width: 10%">Date</th>
+            <th style="width: 70%">Title</th>
+            <th style="text-align:center; width: 10%">Link</th>
+            <th style="text-align:center; width: 10%">Paid</th>
         </tr>
     </thead>
     <tbody>
@@ -242,10 +242,10 @@ The page is not optimized for smartphones, please read on PC.
 <table>
     <thead>
         <tr>
-            <th style="text-align:center">Date</th>
-            <th><div style="width: 30rem">Title</th>
-            <th style="text-align:center">Link</th>
-            <th style="text-align:center">Paid</th>
+            <th style="text-align:center; width: 10%">Date</th>
+            <th style="width: 70%">Title</th>
+            <th style="text-align:center; width: 10%">Link</th>
+            <th style="text-align:center; width: 10%">Paid</th>
         </tr>
     </thead>
     <tbody>
