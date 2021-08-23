@@ -80,7 +80,7 @@ ignoreErrors = ["error-remote-getjson"]
         weight = 5
     [languages.zh-cn.params]
       # 网站描述
-      description = "Aozaki的个人博客，偶尔写点东西。"
+      description = "Aozaki的个人博客，偶尔写点东西。 / Aozaki's personal blog, may write something from time to time."
       # 网站关键词
       keywords = ["Tech", "Life", "VTuber"]
       # 应用图标配置
@@ -225,7 +225,7 @@ ignoreErrors = ["error-remote-getjson"]
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/android-chrome-192x192.png"]
+  images = ["/media/logo.jpg"]
 
   # Header config
   [params.header]
@@ -460,11 +460,11 @@ ignoreErrors = ["error-remote-getjson"]
     # Page SEO config
     [params.page.seo]
       # image URL
-      images = ["https://aozaki.cc/android-chrome-192x192.png"]
+      images = ["https://aozaki.cc/media/logo.jpg"]
       # Publisher info
       [params.page.seo.publisher]
         name = "Aozaki"
-        logoUrl = "/android-chrome-192x192.png"
+        logoUrl = "/media/logo.jpg"
 
   # TypeIt config
   [params.typeit]
