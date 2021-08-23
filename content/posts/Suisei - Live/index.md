@@ -206,6 +206,8 @@ The page is not optimized for smartphones, please read on PC.
 
 <a href="" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a>
 
+<a href="" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+
 -->
 
 ## :microphone: List of Live with Suisei as Guest
