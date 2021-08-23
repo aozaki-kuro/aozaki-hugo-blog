@@ -225,7 +225,7 @@ ignoreErrors = ["error-remote-getjson"]
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/media/logo.jpg"]
+  images = ["/android-chrome-192x192.png"]
 
   # Header config
   [params.header]
@@ -240,7 +240,7 @@ ignoreErrors = ["error-remote-getjson"]
       # title name
       name = "Aozaki"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='fas fa-heartbeat fa-fw'></i>"
+      pre = '<i class="fas fa-book"></i>'
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
@@ -355,7 +355,7 @@ ignoreErrors = ["error-remote-getjson"]
       Pinterest = false
       Tumblr = false
       HackerNews = false
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
@@ -387,7 +387,7 @@ ignoreErrors = ["error-remote-getjson"]
         apikey = '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p'
         api = 'https://comment.aozaki.cc/api/'
         admin = 'Aozaki'
-        adminLabel = '☄'
+        adminLabel = 'Author'
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
@@ -460,11 +460,11 @@ ignoreErrors = ["error-remote-getjson"]
     # Page SEO config
     [params.page.seo]
       # image URL
-      images = []
+      images = ["https://aozaki.cc/android-chrome-192x192.png"]
       # Publisher info
       [params.page.seo.publisher]
         name = "Aozaki"
-        logoUrl = ""
+        logoUrl = "/android-chrome-192x192.png"
 
   # TypeIt config
   [params.typeit]

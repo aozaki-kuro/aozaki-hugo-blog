@@ -10,6 +10,8 @@ images: ["/suisei-live-list/1st_live.jpg"]
 description: "星街すいせいさんのライブまとめです。/ This is the record for Hoshimachi Suisei's Live."
 ---
 
+<!--more-->
+
 ## :memo: 概要 / Description
 
 <a href="https://twitter.com/suisei_hosimati"  target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-@suisei__hosimati-0075bd?style=flat-square&logo=twitter" height="20"></img></a> <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A"  target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-Suisei%20Channel-d40000?style=flat-square&logo=youtube" height="20"></img></a>
@@ -17,8 +19,6 @@ description: "星街すいせいさんのライブまとめです。/ This is th
 こちらは[星街すいせい](https://twitter.com/suisei_hosimati)さんのライブまとめです。
 
 This is the record for Hoshimachi Suisei's Live.
-
-<!--more-->
 
 ---
 
