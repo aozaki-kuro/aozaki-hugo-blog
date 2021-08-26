@@ -225,7 +225,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>自分勝手Dazzling</td> <!--Title-->
-			<td style="font-family:monospace">N/A</td> <!--Oricon-->
+			<td style="font-family:monospace">5</td> <!--Oricon-->
 			<td style="font-family:monospace">10</td> <!--iTunes-->
 			<td style="font-family:monospace">1</td> <!--Amazon-->
 			<td style="font-family:monospace">N/A</td> <!--Mora-->
@@ -233,7 +233,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>バイバイレイニー</td> <!--Title-->
-			<td style="font-family:monospace">N/A</td> <!--Oricon-->
+			<td style="font-family:monospace">9</td> <!--Oricon-->
 			<td style="font-family:monospace">13</td> <!--iTunes-->
 			<td style="font-family:monospace">3</td> <!--Amazon-->
 			<td style="font-family:monospace">N/A</td> <!--Mora-->
