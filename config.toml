@@ -380,14 +380,31 @@ ignoreErrors = ["error-remote-getjson"]
       enable = true
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqusjs]
-        enable = true
+        enable = false
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = "aozaki-note"
         siteName = ''
         apikey = '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p'
         api = 'https://comment.aozaki.cc/api/'
         admin = 'Aozaki'
-        adminLabel = '☄'
+        adminLabel = 'Author'
+      # Waline comment config (https://waline.js.org/)
+      # Waline 评论系统设置 (https://waline.js.org/)
+      [params.page.comment.waline]
+        enable = true
+        #js = "https://cdn.jsdelivr.net/npm/@waline/client@latest"
+        js = "https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"
+        meta = ['nick','mail','link']                           # 评论者相关属性
+        requiredFields = ['nick','mail']                        # 设置必填项，默认匿名
+        placeholder = "Please leave your comment ~"             # 评论框占位提示符
+        serverURL = "https://waline.aozaki.cc"	            		# Waline的服务端地址（必填） 
+        #imageHosting =                                         # 图床api，如果允许评论框上传图片
+        avatar = "retro"                                        # Gravatar头像
+        avatarCDN = "https://www.gravatar.com/avatar/"          # Gravatar头像CDN地址，不建议使用loli源
+        pageSize = 10                                           # 评论列表分页，每页条数
+        lang = "zh-CN"                                          # 多语言支持
+        visitor = true                                          # 文章访问量统计
+        highlight = true                                        # 代码高亮
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
