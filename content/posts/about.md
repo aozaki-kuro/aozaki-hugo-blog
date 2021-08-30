@@ -5,8 +5,8 @@ description: "关于博主"
 date: 2020-08-04T18:00:08+08:00
 draft: false
 badge: false
-comment: false
 toc: false
+comment: false
 featuredImage: "/media/work.jpg"
 featuredImagePreview: "/media/work.jpg"
 images: ["/about/work.jpg"]
@@ -26,7 +26,7 @@ images: ["/about/work.jpg"]
 
 本站使用`Google Analytics`作为第三方统计工具收集统计基础的页面访问信息，如果您对该行为表示不认同，通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
 
-本站使用`Disqus`作为评论区模块，并已去除广告，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**。此外由于各种原因`Disqus`可能无法访问，因此本站也已引入`DisqusJS`作为应对，无法打开`Disqus`的读者应当能看到`DisqusJS`提供的只读基础模式。
+本站使用`twikoo`作为评论区模块，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**，且已引入`Akismet`防止垃圾评论。
 
 ## 免责声明 / Disclaimer
 
