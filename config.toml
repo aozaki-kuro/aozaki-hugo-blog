@@ -394,6 +394,8 @@ ignoreErrors = ["error-remote-getjson"]
         serverURL = "https://waline.aozaki.cc/"
         visitor = true
         dark = 'auto'
+        requiredMeta= "['nick', 'mail']"
+        uploadImage= 'false'
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
