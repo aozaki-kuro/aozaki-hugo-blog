@@ -390,11 +390,15 @@ ignoreErrors = ["error-remote-getjson"]
         adminLabel = 'Author'
       # {{< version 0.2.0 >}} {{< link "https://waline.js.org/en/" "Waline" >}} comment config
       [params.page.comment.waline]
-        enable = true
+        enable = false
         serverURL = "https://waline.aozaki.cc/"
         visitor = true
         dark = 'auto'
-        requiredFields = ['nick', 'mail']
+        requiredFields = ["nick", "mail"]
+      # {{< version 0.2.0 >}} {{< link "https://twikoo.js.org" "Twikoo" >}} 评论系统设置
+      [params.page.comment.twikoo]
+        enable = true
+        evnId = "https://twikoo.aozaki.cc"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
