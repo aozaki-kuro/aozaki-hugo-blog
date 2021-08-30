@@ -112,9 +112,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>自分勝手Dazzling</td> <!--Title-->
-			<td style="font-family:monospace"></td>
-			<td style="font-family:monospace"></td>
-			<td style="font-family:monospace"></td>
+			<td style="font-family:monospace" colspan=3>N/A</td>
 		</tr>
 	</tbody>
 </table>

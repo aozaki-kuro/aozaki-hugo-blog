@@ -380,7 +380,7 @@ ignoreErrors = ["error-remote-getjson"]
       enable = true
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqusjs]
-        enable = true
+        enable = false
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = "aozaki-note"
         siteName = ''
@@ -388,6 +388,12 @@ ignoreErrors = ["error-remote-getjson"]
         api = 'https://comment.aozaki.cc/api/'
         admin = 'Aozaki'
         adminLabel = 'Author'
+      # {{< version 0.2.0 >}} {{< link "https://waline.js.org/en/" "Waline" >}} comment config
+      [params.page.comment.waline]
+        enable = true
+        serverURL = "https://waline.aozaki.cc/"
+        visitor = true
+        dark = 'auto'
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
