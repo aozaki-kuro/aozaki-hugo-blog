@@ -138,8 +138,8 @@
               serverURL: '{{ $waline.serverURL }}',
               visitor: '{{ $waline.visitor }}',
               dark: '{{ $waline.dark }}',
-              requiredMeta: "['nick', 'mail']",
-              uploadImage: 'false',
+              requiredMeta: '{{ $waline.requiredMeta }}',
+              uploadImage: '{{ $waline.uploadImage }}',
             });
             </script>
             <noscript>
