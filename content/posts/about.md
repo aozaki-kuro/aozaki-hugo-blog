@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 slug: "about"
+description: "关于博主"
 date: 2020-08-04T18:00:08+08:00
 draft: false
 badge: false
@@ -10,6 +11,8 @@ featuredImage: "/media/work.jpg"
 featuredImagePreview: "/media/work.jpg"
 images: ["/about/work.jpg"]
 ---
+
+<!--more-->
 
 ## 关于我 / About Me
 

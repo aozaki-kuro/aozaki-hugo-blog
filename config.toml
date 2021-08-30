@@ -80,7 +80,7 @@ ignoreErrors = ["error-remote-getjson"]
         weight = 5
     [languages.zh-cn.params]
       # 网站描述
-      description = "Aozaki的个人博客，偶尔写点东西。"
+      description = "Aozaki的个人博客，偶尔写点东西。 / Aozaki's personal blog, may write something from time to time."
       # 网站关键词
       keywords = ["Tech", "Life", "VTuber"]
       # 应用图标配置
@@ -240,7 +240,7 @@ ignoreErrors = ["error-remote-getjson"]
       # title name
       name = "Aozaki"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='fas fa-heartbeat fa-fw'></i>"
+      pre = '<i class="fas fa-book"></i>'
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
@@ -355,7 +355,7 @@ ignoreErrors = ["error-remote-getjson"]
       Pinterest = false
       Tumblr = false
       HackerNews = false
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
@@ -466,11 +466,11 @@ ignoreErrors = ["error-remote-getjson"]
     # Page SEO config
     [params.page.seo]
       # image URL
-      images = []
+      images = ["https://aozaki.cc/media/logo.jpg"]
       # Publisher info
       [params.page.seo.publisher]
         name = "Aozaki"
-        logoUrl = ""
+        logoUrl = "/media/logo.jpg"
 
   # TypeIt config
   [params.typeit]

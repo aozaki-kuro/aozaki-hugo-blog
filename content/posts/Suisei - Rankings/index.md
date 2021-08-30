@@ -10,6 +10,8 @@ images: ["/suisei-rankings/0002.jpg"]
 description: "星街すいせいさんのオリジナルソングランキングです。/ This is the chart for Hoshimachi Suisei's original song rankings."
 ---
 
+<!--more-->
+
 ## :memo: 概要 / Description
 
 <a href="https://twitter.com/suisei_hosimati"><img src="https://img.shields.io/badge/Twitter-@suisei__hosimati-0075bd?style=flat-square&logo=twitter" height="20"></img></a> <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A"><img src="https://img.shields.io/badge/YouTube-Suisei%20Channel-d40000?style=flat-square&logo=youtube" height="20"></img></a>
@@ -17,8 +19,6 @@ description: "星街すいせいさんのオリジナルソングランキング
 こちらは[星街すいせい](https://twitter.com/suisei_hosimati)さんのオリジナルソングランキングです。
 
 This is the chart for Hoshimachi Suisei's original song rankings.
-
-<!--more-->
 
 ---
 
@@ -153,7 +153,7 @@ The page is not optimized for smartphones, please read on PC.
 			<td>自分勝手Dazzling</td> <!--Title-->
 			<td style="font-family:monospace"></td> <!--Oricon-->
 			<td style="font-family:monospace">2</td> <!--iTunes-->
-			<td style="font-family:monospace"></td> <!--Amazon-->
+			<td style="font-family:monospace">2</td> <!--Amazon-->
 			<td style="font-family:monospace">2</td> <!--Mora-->
 			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
 		</tr>
@@ -223,18 +223,18 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>自分勝手Dazzling</td> <!--Title-->
-			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">5</td> <!--Oricon-->
 			<td style="font-family:monospace">10</td> <!--iTunes-->
-			<td style="font-family:monospace"></td> <!--Amazon-->
-			<td style="font-family:monospace"></td> <!--Mora-->
+			<td style="font-family:monospace">1</td> <!--Amazon-->
+			<td style="font-family:monospace">N/A</td> <!--Mora-->
 			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
 		</tr>
 		<tr>
 			<td>バイバイレイニー</td> <!--Title-->
-			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">9</td> <!--Oricon-->
 			<td style="font-family:monospace">13</td> <!--iTunes-->
-			<td style="font-family:monospace"></td> <!--Amazon-->
-			<td style="font-family:monospace"></td> <!--Mora-->
+			<td style="font-family:monospace">3</td> <!--Amazon-->
+			<td style="font-family:monospace">N/A</td> <!--Mora-->
 			<td style="font-family:monospace">1 / 1</td> <!--OTOTOY-->
 		</tr>
 	</tbody>
