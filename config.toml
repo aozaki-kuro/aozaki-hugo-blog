@@ -116,8 +116,8 @@ ignoreErrors = ["error-remote-getjson"]
         absoluteURL = false
         [languages.zh-cn.params.search.algolia]
           index = "index.zh-cn"
-          appID = "C2LUBP92XW"
-          searchKey = "b68f09a37c09a125a2c3e42e0fcc9351"
+          appID = "0QS3P0MNYA"
+          searchKey = "738f22998c2e0f12d9b4ac32a648d6b6"
       # 主页信息设置
       [languages.zh-cn.params.home]
         # RSS 文章数目
