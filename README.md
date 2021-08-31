@@ -4,4 +4,4 @@
 
 Source code of `aozaki.cc`
 
-The personal blog of Aozaki, what are you looking at?
+The personal blog of Aozaki.
