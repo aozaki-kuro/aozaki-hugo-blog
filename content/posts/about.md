@@ -24,9 +24,9 @@ images: ["/about/work.jpg"]
 
 本站由[Hugo](https://gohugo.io/)驱动，主题是[CodeIT](https://github.com/sunt-programator/CodeIT)，托管于[Vercel](https://vercel.com/)。
 
-本站使用`Google Analytics`作为第三方统计工具收集统计基础的页面访问信息，如果您对该行为表示不认同，通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
+本站使用 Google Analytics 作为第三方统计工具收集统计基础的页面访问信息，如果您对该行为表示不认同，通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
 
-本站使用`twikoo`作为评论区模块，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**。评论系统要求填写昵称与电子邮件地址，仅供通知使用以及调用`Gravatar`，建议用户[设置自己的Gravatar头像](https://cn.gravatar.com/)。此外，评论系统已引入`Akismet`防止垃圾评论。
+本站使用 [Twikoo](https://twikoo.js.org/) 作为评论区模块，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**。评论系统要求填写昵称与电子邮件地址，仅供通知使用以及调用 Gravatar ，建议用户[设置自己的Gravatar头像](https://cn.gravatar.com/)。此外，评论系统已引入 [Akismet](https://akismet.com/) 防止垃圾评论。
 
 ## 免责声明 / Disclaimer
 
