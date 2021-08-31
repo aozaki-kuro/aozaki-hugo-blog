@@ -22,11 +22,11 @@ images: ["/about/work.jpg"]
 
 ## 关于网站 / About the website
 
-本站由[Hugo](https://gohugo.io/)驱动，主题是[CodeIT](https://github.com/sunt-programator/CodeIT)，托管于[Vercel](https://vercel.com/)。
+本站由 [Hugo](https://gohugo.io/) 驱动，主题是 [CodeIT](https://github.com/sunt-programator/CodeIT) ，托管于 [Vercel](https://vercel.com/) 。
 
 本站使用 Google Analytics 作为第三方统计工具收集统计基础的页面访问信息，如果您对该行为表示不认同，通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
 
-本站使用 [Twikoo](https://twikoo.js.org/) 作为评论区模块，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**。评论系统要求填写昵称与电子邮件地址，仅供通知使用以及调用 Gravatar ，建议用户[设置自己的Gravatar头像](https://cn.gravatar.com/)。此外，评论系统已引入 [Akismet](https://akismet.com/) 防止垃圾评论。
+本站使用 [Twikoo](https://twikoo.js.org/) 作为评论区模块，欢迎各位读者进行留言和讨论，但是**无关及不友善的留言会被删除**。评论系统要求填写昵称与电子邮件地址，仅供通知使用以及调用 Gravatar ，建议用户[设置自己的 Gravatar 头像](https://cn.gravatar.com/)。此外，评论系统已引入 [Akismet](https://akismet.com/) 防止垃圾评论。
 
 ## 免责声明 / Disclaimer
 
@@ -36,10 +36,10 @@ images: ["/about/work.jpg"]
 
 ## 版权声明 / License
 
-除特殊声明外，本站遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)协议。您可以自由地**共享**以及**演绎**，但是必须**署名**并以**相同方式共享**。
+除特殊声明外，本站遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) 协议。您可以自由地**共享**以及**演绎**，但是必须**署名**并以**相同方式共享**。
 
 如有特殊声明**本文保留所有权利（All Rights Reserved）**，则文章内容与资源为 **Aozaki 版权所有**。未经授权复制或者分发本站内容，意味着您侵犯了我的版权。如果您对具体内容授权存在疑问，欢迎在引用内容之前通过电子邮件联系我。
 
 ---
 
-<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></img></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></img></a>
+<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></a> <a href="http://vercel.com/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" height="20"></a>

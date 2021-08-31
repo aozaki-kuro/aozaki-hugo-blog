@@ -151,7 +151,7 @@ The page is not optimized for smartphones, please read on PC.
 		</tr>
 		<tr>
 			<td>自分勝手Dazzling</td> <!--Title-->
-			<td style="font-family:monospace"></td> <!--Oricon-->
+			<td style="font-family:monospace">N / A</td> <!--Oricon-->
 			<td style="font-family:monospace">2</td> <!--iTunes-->
 			<td style="font-family:monospace">2</td> <!--Amazon-->
 			<td style="font-family:monospace">2</td> <!--Mora-->
