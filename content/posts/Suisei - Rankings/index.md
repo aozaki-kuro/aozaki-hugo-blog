@@ -10,6 +10,12 @@ images: ["/suisei-rankings/0002.jpg"]
 description: "星街すいせいさんのオリジナルソングランキングです。/ This is the chart for Hoshimachi Suisei's original song rankings."
 ---
 
+{{< admonition type=danger title="ご注意 / Notice" >}}
+
+This page is deprecated and moved to [:link: Suisei Music](https://music.suisei.cc/)
+
+{{< /admonition >}}
+
 <!--more-->
 
 ## :memo: 概要 / Description

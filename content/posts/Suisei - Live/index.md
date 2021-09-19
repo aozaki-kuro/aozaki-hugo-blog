@@ -10,6 +10,12 @@ images: ["/suisei-live-list/1st_live.jpg"]
 description: "星街すいせいさんのライブまとめです。/ This is the record for Hoshimachi Suisei's Live."
 ---
 
+{{< admonition type=danger title="ご注意 / Notice" >}}
+
+This page is deprecated and moved to [:link: Suisei Music](https://music.suisei.cc/)
+
+{{< /admonition >}}
+
 <!--more-->
 
 ## :memo: 概要 / Description
