@@ -3,20 +3,23 @@ Title: "すいせいランキング / Suisei Ranking"
 slug: "suisei rankings"
 date: 2021-06-24T11:05:00+08:00
 draft: false
+toc: false
 categories: ["VTuber"]
 featuredImage: "0002.jpg"
 featuredImagePreview: "0002.jpg"
 images: ["/suisei-rankings/0002.jpg"]
-description: "星街すいせいさんのオリジナルソングランキングです。/ This is the chart for Hoshimachi Suisei's original song rankings."
+description: "This page is deprecated and moved to music.suisei.cc"
 ---
 
 {{< admonition type=danger title="ご注意 / Notice" >}}
 
-This page is deprecated and moved to [:link: Suisei Music](https://music.suisei.cc/)
+This page is deprecated and moved to [:(fas fa-link): Suisei Music](https://music.suisei.cc/)
 
 {{< /admonition >}}
 
 <!--more-->
+
+{{< admonition type="" title="已过期内容" open=false >}}
 
 ## :memo: 概要 / Description
 
@@ -418,3 +421,5 @@ The page is not optimized for smartphones, please read on PC.
 </table>
 
 [^1]: [第2回VTuber楽曲大賞開催　楽曲部門1位はホロライブ・星街すいせい「NEXT COLOR PLANET」](https://panora.tokyo/archives/14764)
+
+{{< /admonition >}}

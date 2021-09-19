@@ -3,20 +3,23 @@ Title: "すいせいライブ / Suisei Live List"
 slug: "suisei live list"
 date: 2021-08-22T11:05:00+08:00
 draft: false
+toc: false
 categories: ["VTuber"]
 featuredImage: "1st_live.jpg"
 featuredImagePreview: "1st_live.jpg"
 images: ["/suisei-live-list/1st_live.jpg"]
-description: "星街すいせいさんのライブまとめです。/ This is the record for Hoshimachi Suisei's Live."
+description: "This page is deprecated and moved to music.suisei.cc"
 ---
 
 {{< admonition type=danger title="ご注意 / Notice" >}}
 
-This page is deprecated and moved to [:link: Suisei Music](https://music.suisei.cc/)
+This page is deprecated and moved to [:(fas fa-link): Suisei Music](https://music.suisei.cc/)
 
 {{< /admonition >}}
 
 <!--more-->
+
+{{< admonition type="" title="已过期内容" open=false >}}
 
 ## :memo: 概要 / Description
 
@@ -277,3 +280,5 @@ The page is not optimized for smartphones, please read on PC.
         </tr>
     </tbody>
 </table>
+
+{{< /admonition >}}

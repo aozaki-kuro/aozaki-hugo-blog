@@ -32,7 +32,7 @@ tags:
 
 我的“追星”历也即将迎来一周年的纪念日。
 
-在此也非常感谢[:(fab fa-twitter fa-fw):すいせいこーど](https://twitter.com/suiseicord)主催的一系列活动！不仅有幸参加了去年12月10日Inui Toko 1st Solo Live “who i am”的[床星花篮活动](https://twitter.com/suiseicord/status/1337005187123224576?s=20)，同时也参加了今年的生日留言册的活动。
+在此也非常感谢[:(fab fa-twitter fa-fw):すいせいこーど](https://twitter.com/suiseicord)主催的一系列活动！不仅有幸参加了去年12月10日Inui Toko 1st Solo Live “who i am”的[星床花篮活动](https://twitter.com/suiseicord/status/1337005187123224576?s=20)，同时也参加了今年的生日留言册的活动。
 
 ![誕生日寄せ書き](0002.jpg "由Suiseicord主催的生日留言册")
 
