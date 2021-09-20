@@ -1,6 +1,0 @@
-{
-    "schedule": "weekly",
-    "ignoredFiles": [
-        "static/*"
-    ]
-}
