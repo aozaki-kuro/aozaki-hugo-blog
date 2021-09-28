@@ -73,7 +73,7 @@ ignoreErrors = ["error-remote-getjson"]
         pre = ""
         post = ""
         name = "Portfolio"
-        url = "/categories/portfolio-index/"
+        url = "/portfolio-index/"
         title = ""
         weight = 4
       [[languages.zh-cn.menu.main]]
