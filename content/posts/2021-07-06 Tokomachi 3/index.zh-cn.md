@@ -63,7 +63,7 @@ tags:
 
 > [:(fab fa-twitter fa-fw): ブイアワ通知1](https://twitter.com/VMA2020_12_28/status/1411570681041494018)、[:(fab fa-twitter fa-fw): ブイアワ通知2](https://twitter.com/VMA2020_12_28/status/1411660926135066626)
 
-{{< image src="https://img.aozaki.cc/20210706_0000.jpg" caption="天球、彗星は夜を跨いで by 戌亥とこ" alt= "天球、彗星は夜を跨いで by 戌亥とこ" linked=false >}}
+{{< image src="https://img.aozaki.cc/20210706_0002.jpg" caption="天球、彗星は夜を跨いで by 戌亥とこ" alt= "天球、彗星は夜を跨いで by 戌亥とこ" linked=false >}}
 
 当然没想到，歌回这一下呼唤居然是伏笔。阿床在2021年7月3日-7月4日举办的ブイアワ[^1]Day2的昼公演中出乎所有人意料地演唱了阿星的天球，并且阿床在MC中也是继续全力输出贴贴能量。
 
@@ -151,7 +151,7 @@ tags:
 
 当时阿星下厨给阿床做饭，阿床路过厨房时瞥见阿星非常有气势地在刨萝卜泥（大根おろし）。
 
-{{< image src="https://img.aozaki.cc/20210706_0000.jpg" caption="大根おろし by S (@starbowhalo)" alt= "大根おろし by S (@starbowhalo)" linked=false >}}
+{{< image src="https://img.aozaki.cc/20210706_0008.jpg" caption="大根おろし by S (@starbowhalo)" alt= "大根おろし by S (@starbowhalo)" linked=false >}}
 
 [:(fab fa-twitter fa-fw): S (@starbowhalo)](https://twitter.com/starbowhalo/status/1398964304083255298) 老师的同人图和切片很好地再现了当时的场景，非常爆笑。
 
@@ -165,7 +165,7 @@ tags:
 
 > [:(fab fa-youtube fa-fw): とこまちラジオ(仮) #9](https://www.youtube.com/watch?v=RrX2uuMeAW8)
 
-{{< image src="https://img.aozaki.cc/20210706_0000.jpg" caption="星床电台第9期啦" alt= "星床电台第9期啦" linked=false >}}
+{{< image src="https://img.aozaki.cc/20210706_0010.jpg" caption="星床电台第9期啦" alt= "星床电台第9期啦" linked=false >}}
 
 两人开场提到了这都已经是第9期了，过半年的时候感觉已经很不可思议了。
 
@@ -183,7 +183,7 @@ tags:
 
 两人因此笑个没停，并表示自己粉丝愿意为她们做这样的事情非常高兴。
 
-{{< image src="https://img.aozaki.cc/20210706_0000.jpg" caption="" alt= "" linked=false >}}
+{{< image src="https://img.aozaki.cc/20210706_0007.jpg" caption="" alt= "" linked=false >}}
 
 读来信时谈到两人都玩了 [:(fab fa-steam): 例外配達](https://store.steampowered.com/app/1611490/) 时两个人反应完全不同。
 
