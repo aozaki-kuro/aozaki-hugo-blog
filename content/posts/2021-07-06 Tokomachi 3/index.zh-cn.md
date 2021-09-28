@@ -183,8 +183,6 @@ tags:
 
 两人因此笑个没停，并表示自己粉丝愿意为她们做这样的事情非常高兴。
 
-{{< image src="https://img.aozaki.cc/20210706_0007.jpg" caption="" alt= "" linked=false >}}
-
 读来信时谈到两人都玩了 [:(fab fa-steam): 例外配達](https://store.steampowered.com/app/1611490/) 时两个人反应完全不同。
 
 阿星各种被吓和尖叫，阿床基本没什么反应，反而会被一起玩的安洁吓到。
