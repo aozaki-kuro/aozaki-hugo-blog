@@ -656,10 +656,10 @@ ignoreErrors = ["error-remote-getjson"]
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = "G-LXVQD68YHE"
+      id = ""
       # whether to anonymize IP
       # 是否匿名化用户 IP
       anonymizeIP = true
@@ -672,6 +672,15 @@ ignoreErrors = ["error-remote-getjson"]
     # Baidu Analytics
     [params.analytics.baidu]
       id = ""
+    # Umami Analytics
+    [params.analytics.umami]
+      data_website_id = "dcbe5206-db4e-4e41-8ca6-2ef8539c0c02"
+      src = "https://insight.aozaki.cc/umami.js"
+      data_domains = "aozaki.cc"
+    # Plausible Analytics
+    [params.analytics.plausible]
+      data_domain = ""
+      src = ""
 
   # Cookie consent config
   # Cookie 许可配置
