@@ -675,7 +675,7 @@ ignoreErrors = ["error-remote-getjson"]
     # Umami Analytics
     [params.analytics.umami]
       data_website_id = "dcbe5206-db4e-4e41-8ca6-2ef8539c0c02"
-      src = "https://insight.aozaki.cc/umami.js"
+      src = "https://insight.aozaki.cc/app.js"
       data_domains = "aozaki.cc"
     # Plausible Analytics
     [params.analytics.plausible]
