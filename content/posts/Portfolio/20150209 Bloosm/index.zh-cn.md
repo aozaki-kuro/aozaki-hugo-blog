@@ -13,7 +13,7 @@ tags:
 ---
 
 <br>
-<center>
+<div align="center">
     <img src="https://img.aozaki.cc/20150209_0001.jpg">
     <img src="https://img.aozaki.cc/20150209_0002.jpg">
     <img src="https://img.aozaki.cc/20150209_0003.jpg">
@@ -23,7 +23,7 @@ tags:
     <img src="https://img.aozaki.cc/20150209_0007.jpg">
     <img src="https://img.aozaki.cc/20150209_0008.jpg">
     <img src="https://img.aozaki.cc/20150209_0009.jpg">
-</center>
+</div>
 
 <!--
     Nikon D800

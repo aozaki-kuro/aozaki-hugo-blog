@@ -17,10 +17,10 @@ tags:
 
 <!--
 <br>
-<center>
+<div align="center">
     <img src="https://img.aozaki.cc/20160505_0001.jpg">
     <img src="https://img.aozaki.cc/20160505_0002.jpg">
-</center>
+</div>
 -->
 
 <!--

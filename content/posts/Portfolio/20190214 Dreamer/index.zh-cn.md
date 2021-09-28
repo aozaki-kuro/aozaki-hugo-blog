@@ -13,14 +13,14 @@ tags:
 ---
 
 <br>
-<center>
+<div align="center">
     <img src="https://img.aozaki.cc/20190214_0001.jpg">
     <img src="https://img.aozaki.cc/20190214_0002.jpg">
     <img src="https://img.aozaki.cc/20190214_0003.jpg">
     <img src="https://img.aozaki.cc/20190214_0004.jpg">
     <img src="https://img.aozaki.cc/20190214_0005.jpg">
     <img src="https://img.aozaki.cc/20190214_0006.jpg">
-</center>
+</div>
 
 <!--
     Sony a7R III

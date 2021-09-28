@@ -42,4 +42,4 @@ images: ["/about/work.jpg"]
 
 ---
 
-<a href="https://gohugo.io"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></a> <a href="https://github.com/sunt-programator/CodeIT"><img src="https://img.shields.io/badge/Theme-CodeIT-999999?style=flat-square&logo=Github" height="20"></a>
+<a href="https://gohugo.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Generator-Hugo-ff69b4?style=flat-square&logo=hugo" height="20"></a> <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Theme-DoIt-999999?style=flat-square&logo=Github" height="20"></a>

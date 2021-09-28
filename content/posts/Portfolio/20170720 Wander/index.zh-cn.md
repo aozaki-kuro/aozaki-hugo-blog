@@ -13,7 +13,7 @@ tags:
 ---
 
 <br>
-<center>
+<div align="center">
     <img src="https://img.aozaki.cc/20170720_0001.jpg">
     <img src="https://img.aozaki.cc/20170720_0002.jpg">
     <img src="https://img.aozaki.cc/20170720_0003.jpg">
@@ -29,7 +29,7 @@ tags:
     <img src="https://img.aozaki.cc/20170720_0013.jpg">
     <img src="https://img.aozaki.cc/20170720_0014.jpg">
     <img src="https://img.aozaki.cc/20170720_0015.jpg">
-</center>
+</div>
 
 <!--
     Sony Cyber-shot RX1R II

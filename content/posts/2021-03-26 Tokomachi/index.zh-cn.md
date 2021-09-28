@@ -35,7 +35,11 @@ tags:
 
 ## 前言
 
-![都怪Nova老师](https://img.aozaki.cc/20210329_0003.jpg "怪我咯？")
+<!--
+{{< image src="https://img.aozaki.cc/" caption="" alt= "" width="" height="" linked=false >}}
+-->
+
+{{< image src="https://img.aozaki.cc/20210329_0003.jpg" caption="都怪Nova老师" alt= "怪我咯？" width="" height="" linked=false >}}
 
 本文是 [:(fab fa-twitter fa-fw): NovaDNG老师](https://twitter.com/NovaDNG) 在2021年3月26日晚看完 [:(fab fa-youtube fa-fw): 星床电台#6](https://www.youtube.com/watch?v=nlkJdUZU5Ws) 后一时兴起，向我约的稿。本身我也有将星床组合的历史进行梳理的打算，于是便有了这篇文章。话是这么说，我还是会尽量压制私货数量并尽量集中到最后。如果读者觉得私货还是太多，那只能怪Nova老师这么约的了。
 
@@ -52,14 +56,14 @@ tags:
 星床（とこまち）这个组合名来自于两人的名字，即：
 
 <br>
-<center><font size="4">いぬい<font color="red"><b>とこ</b></font> + ほし<font color=#00b8ed><b>まち</b></font>すいせい = <font color="red"><b>とこ</b></font><font color=#00b8ed><b>まち</b></font></font></center>
+<div align="center"><font size="4">いぬい<font color="red"><b>とこ</b></font> + ほし<font color=#00b8ed><b>まち</b></font>すいせい = <font color="red"><b>とこ</b></font><font color=#00b8ed><b>まち</b></font></font></div>
 <br>
 
 由于 戌亥とこ 的官方中文译名为“戌亥床”，按照顺序应该译作“床星”，亦有部分社区称之为“病床”（即 精神**病** + 戌亥**床**）。但是以往社区约定俗成的译名以及个人偏好，本文仍翻作“星床”。
 
 <!--{{< tweet 1143854072665034759 >}}-->
 
-![首次出现 #とこまち](https://img.aozaki.cc/20210329_0002.jpg "首次出现 #とこまち")
+{{< image src="https://img.aozaki.cc/20210329_0002.jpg" caption="首次出现 #とこまち" alt= "首次出现 #とこまち" width="" height="" linked=false >}}
 
 目前可以在[Twitter上搜索到的](https://twitter.com/search?q=とこまち(from:suisei_hosimati)&src=typed_query&f=live)、第一次出现`#とこまち`的时间点是2019年6月26日[首次Minecraft联动](https://www.youtube.com/watch?v=Kr1jxq0ms00)。（当然阿星把推しマーク打错了，不是:dog:是:tropical_drink:啊喂！）
 
@@ -79,13 +83,13 @@ tags:
 
 <!--{{< tweet 1130054368886050816 >}}-->
 
-![来自阿床的祝贺](https://img.aozaki.cc/20210329_0018.jpg "来自阿床的祝贺")
+{{< image src="https://img.aozaki.cc/20210329_0018.jpg" caption="来自阿床的祝贺" alt= "来自阿床的祝贺" width="" height="" linked=false >}}
 
 2019年5月19日，星正式加入INNK（イノナかミュージック）。随即获得了众多VTuber和熟人的祝贺，其中包括刚刚**出道不足3月**[^1]的[阿床](https://twitter.com/suisei_hosimati/status/1130054368886050816)。这时已经能看出阿床非常喜欢阿星的歌声了（尽管阿床的歌声也非常吸引人，和阿星相性相当不错，这则是后话了）。
 
 > 凸待完整对话请见[:(fab fa-youtube fa-fw): 阿床生日凸待](https://www.youtube.com/watch?v=RWeFaZK1PfE&t=4305s)。
 
-![「和風な女！」](https://img.aozaki.cc/20210329_0006.jpg "「歌うめぇ女！」")
+{{< image src="https://img.aozaki.cc/20210329_0006.jpg" caption="「歌うめぇ女！」" alt= "「歌うめぇ女！」" width="" height="" linked=false >}}
 
 2020年9月9日，在阿床生日凸待上，阿星打进了电话。
 
@@ -99,7 +103,7 @@ tags:
 
 <!--{{< tweet 1137099042087849984 >}}-->
 
-![2019年6月18日就在说了](https://img.aozaki.cc/20210329_0014.jpg "2019年6月18日就在说了")
+{{< image src="https://img.aozaki.cc/20210329_0014.jpg" caption="2019年6月18日就在说了" alt= "2019年6月18日就在说了" width="" height="" linked=false >}}
 
 其实她们从[2019年6月](https://twitter.com/inui_toko/status/1137099042087849984)开始就在念叨着想要一起开演唱会。只是这一说便是等了好久，一直沉寂到10月底，两人的梦想逐渐开始成真。
 
@@ -115,7 +119,7 @@ tags:
 
 ### 演唱会
 
-![阿床演唱会](https://img.aozaki.cc/20210329_0007.jpg "Inui Toko 1st Solo Live “who i am”")
+{{< image src="https://img.aozaki.cc/20210329_0007.jpg" caption="Inui Toko 1st Solo Live “who i am”" alt= "Inui Toko 1st Solo Live “who i am”" width="" height="" linked=false >}}
 
 阿床在[2020年10月26日的直播中](https://youtu.be/Q1t_vUj-fJQ?t=2364)宣布了`Inui Toko 1st Solo Live “who i am”`的消息，但是迟迟没等来星那天一直在说的“嬉しい告知”。但是在告知环节的最后，阿床终于揭晓谜底：
 
@@ -127,7 +131,7 @@ tags:
 
 <!--演唱会点评-->
 
-![跨过事务所间看似不可能的距离](https://img.aozaki.cc/20210329_0008.jpg "「BREAKTHROUGH」")
+{{< image src="https://img.aozaki.cc/20210329_0008.jpg" caption="「BREAKTHROUGH」" alt= "「BREAKTHROUGH」" width="" height="" linked=false >}}
 
 2020年12月10日，阿床的1st个人演唱会在 Zepp Yokohama 拉开帷幕。
 
@@ -143,7 +147,7 @@ tags:
 
 <!--感想会-->
 
-![感想会](https://img.aozaki.cc/20210329_0009.jpg "闪光弹闪瞎了。")
+{{< image src="https://img.aozaki.cc/20210329_0009.jpg" caption="闪光弹闪瞎了。" alt= "闪光弹闪瞎了。" width="" height="" linked=false >}}
 
 在感想会中，尊妈问及两人是如何选曲的，两人当即答道是一起去卡拉OK实际唱过决定的，引得莉泽也不禁感叹。（难道大部分人都是没唱过就选曲了吗…）至于尝试完整复刻MV的舞蹈，两人则承认低估了难度。两人花了相当长的时间一起训练才达到了舞台上呈现出来的结果。
 
@@ -153,7 +157,7 @@ tags:
 
 ### 星床电台
 
-![とこまちラジオ（仮）](https://img.aozaki.cc/20210329_0001.jpg "とこまちラジオ（仮）")
+{{< image src="https://img.aozaki.cc/20210329_0001.jpg" caption="とこまちラジオ（仮）" alt= "とこまちラジオ（仮）" width="" height="" linked=false >}}
 
 <!--电台概况与趣事-->
 
@@ -163,7 +167,7 @@ tags:
 
 <!--{{< tweet 1334523722347151362 >}}-->
 
-![音割れロミオ](https://img.aozaki.cc/20210329_0005.jpg "「音割れロミオ」by S (@starbowhalo)")
+{{< image src="https://img.aozaki.cc/20210329_0005.jpg" caption="「音割れロミオ」by S (@starbowhalo)" alt= "「音割れロミオ」by S (@starbowhalo)" width="" height="" linked=false >}}
 
 两人也是通过节目中的环节不停地尝试证明自己特别了解对方（当然也有强行说答对的情况）。总的来说就是看这两人嬉笑打闹，每月定期派糖的节目。~~天晓得她们在私底下煲了多少Discord粥。~~
 
@@ -173,7 +177,7 @@ tags:
 
 在`#5`中，星床电台终于迎来了第一位嘉宾。嘉宾是阿床选择的“感兴趣的Hololive成员”，但是大家都没有想到竟然是船长。船长自然也是在节目中发挥了Horny本质，对阿床展开了各种追求~~和骚扰~~。然而星床两人却始终对船长进行混合双打…阿床一边巧妙回避各种奇怪话题，负责主持的阿星则是努力维持话题正常继续。
 
-![能说会道的船长一样惨遭暴击](https://img.aozaki.cc/20210329_0013.jpg "能说会道的船长一样惨遭暴击")
+{{< image src="https://img.aozaki.cc/20210329_0013.jpg" caption="能说会道的船长一样惨遭暴击" alt= "能说会道的船长一样惨遭暴击" width="" height="" linked=false >}}
 
 在最后一个环节即兴剧中，她们抽到的题目是“星街王子 vs 魔王玛琳”。当演到一半僵持不下时，阿床公主突然跳出来一句“我非王子不嫁！”对船长造成了114514点伤害，船长直接哑口无言。~~所以到底谁才是王子啊喂！~~
 
@@ -185,7 +189,7 @@ tags:
 
 <!--{{< tweet 1376459668902440960 >}}-->
 
-![ジュパー](https://img.aozaki.cc/20210329_0004.jpg "「ジュパー」by S (@starbowhalo)")
+{{< image src="https://img.aozaki.cc/20210329_0004.jpg" caption="「ジュパー」by S (@starbowhalo)" alt= "「ジュパー」by S (@starbowhalo)" width="" height="" linked=false >}}
 
 高攻纸防的安洁自然是顶不住攻防兼备的星床混合双打，当星被来信问及如果另两位是家人，另两位分别是什么位置？阿星~~看起来就很懂~~，秒答安洁是爸爸，特别好说话的那种；随后立刻补了一句莉泽是妈妈（您也太懂了リゼアン）。而阿床则是几乎异口同声地回答说是**双胞胎姐妹**。
 
@@ -227,7 +231,7 @@ tags:
 
 <!--{{< tweet 1236644020660527104 >}}-->
 
-![卡拉OK疗伤](https://img.aozaki.cc/20210329_0015.jpg "卡拉OK疗伤")
+{{< image src="https://img.aozaki.cc/20210329_0015.jpg" caption="8小时卡拉OK疗伤" alt= "8小时卡拉OK疗伤" width="" height="" linked=false >}}
 
 且不说这两人第一次在演唱会上联唱就全部选的ES曲子，平时也是重氪金一把好手。两人曾经约定在2020年3月9日把直播翘掉，只为了能够第一时间玩上当日开始运营的`あんさんぶるスターズ！！`。只可惜因为新冠的原因（大概），开始运营时间延期，两人过于伤心于是一起去了[卡拉OK**热唱8小时**](https://twitter.com/inui_toko/status/1236644020660527104)（无直播无存档）。
 
@@ -251,7 +255,7 @@ tags:
 
 <!--{{< tweet 1315194434552623104 >}}-->
 
-![“好便宜啊！”](https://img.aozaki.cc/20210329_0016.jpg "“好便宜啊！”")
+{{< image src="https://img.aozaki.cc/20210329_0016.jpg" caption="“好便宜啊！”" alt= "“好便宜啊！”" width="" height="" linked=false >}}
 
 星在[20201年10月10日的杂谈中](https://www.youtube.com/watch?v=tkDqWV1KhAc&t=2428s)提到她和阿床以及千草[^7]一起出门逛街时，因为太冷想买外套，结果一不留神误入了巴宝莉。星在那边试了衣服，大家都觉得很适合。然而问到价格时发现是**29万日元**。
 
@@ -265,7 +269,7 @@ tags:
 
 > 星床年末夜钓：[:(fab fa-youtube fa-fw): 阿星视角:comet:](https://www.youtube.com/watch?v=U5YCqWyIY6Q)、[:(fab fa-youtube fa-fw): 阿床视角:tropical_drink:](https://www.youtube.com/watch?v=SyiZD22NVeY)
 
-![两人夜钓](https://img.aozaki.cc/20210329_0010.jpg "久违的星床夜钓。")
+{{< image src="https://img.aozaki.cc/20210329_0010.jpg" caption="久违的星床夜钓。" alt= "久违的星床夜钓。" width="" height="" linked=false >}}
 
 在2020年12月31日，两人选择一起MC夜钓度过这不平凡的一年的最后一天。
 
@@ -289,7 +293,7 @@ tags:
 
 两句歌词的旋律和意义也很相似，甚至MC里的天气也非常配合地转晴了。
 
-![阿床习惯性地一直看着阿星](https://img.aozaki.cc/20210329_0011.jpg "阿床习惯性地一直看着阿星")
+{{< image src="https://img.aozaki.cc/20210329_0011.jpg" caption="阿床习惯性地一直看着阿星" alt= "阿床习惯性地一直看着阿星" width="" height="" linked=false >}}
 
 夜钓中两人的视角也印证了上文第四点：阿星上蹿下跳地钓鱼，而阿床一直在看着阿星一边聊天。
 
@@ -309,7 +313,7 @@ tags:
 
 <!--ひま食堂3D联动-->
 
-![玩疯了。](https://img.aozaki.cc/20210329_0012.jpg "玩疯了。")
+{{< image src="https://img.aozaki.cc/20210329_0012.jpg" caption="玩疯了。" alt= "玩疯了。" width="" height="" linked=false >}}
 
 3月最大的一个惊喜是星床到ひま食堂进行**3D联动**。两人也是发挥了高攻高防的综艺才能，将两位主持人玩得晕头转向。~~当然有男人能拒绝那么可爱的两个人吗？~~
 
@@ -359,7 +363,7 @@ tags:
 
 <!--{{< tweet 1374370784920018954 >}}-->
 
-![独一无二！](https://img.aozaki.cc/20210329_0017.jpg "“独一无二！”")
+{{< image src="https://img.aozaki.cc/20210329_0017.jpg" caption="“独一无二！”" alt= "“独一无二！”" width="" height="" linked=false >}}
 
 ~~什么，说真的读到这里你还要问我为什么喜欢星床？~~
 

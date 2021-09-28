@@ -1,6 +1,6 @@
 ---
 title: "Photograpy Portfolio"
-slug: "portfolio"
+slug: "portfolio-photo"
 date: 2020-08-03T18:00:08+08:00
 draft: false
 comment: false
@@ -17,9 +17,9 @@ categories: ["Portfolio Index"]
 ### Memorial
 
 <a href="/portrait-memorial/">
-    <center>
+    <div align="center">
         <img src="/media/work.jpg">
-    </center>
+    </div>
 </a>
 
 ***
@@ -29,41 +29,41 @@ categories: ["Portfolio Index"]
 ### Blossom
 
 <a href="/portrait-blossom/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20150209_0001.jpg">
-    </center>
+    </div>
 </a>
 
 ### Regret
 
 <a href="/portrait-regret/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20150329_0005.jpg">
-    </center>
+    </div>
 </a>
 
 ### Funernal
 
 <a href="/portrait-funernal/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20150809_0002.jpg">
-    </center>
+    </div>
 </a>
 
 ### Refusal
 
 <a href="/portrait-refusal/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20150726_0003.jpg">
-    </center>
+    </div>
 </a>
 
 ### Awareness
 
 <a href="/portrait-awareness/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20151125_0002.jpg">
-    </center>
+    </div>
 </a>
 
 ***
@@ -73,17 +73,17 @@ categories: ["Portfolio Index"]
 ### Origami
 
 <a href="/portrait-origami/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20160505_0001.jpg">
-    </center>
+    </div>
 </a>
 
 ### Unbalance
 
 <a href="/portrait-unbalance/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20160715_0005.jpg">
-    </center>
+    </div>
 </a>
 
 ***
@@ -93,9 +93,9 @@ categories: ["Portfolio Index"]
 ### Wander
 
 <a href="/portrait-wander/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20170720_0001.jpg">
-    </center>
+    </div>
 </a>
 
 ***
@@ -105,11 +105,11 @@ categories: ["Portfolio Index"]
 ### Dreamer
 
 <a href="/portrait-dreamer/">
-    <center>
+    <div align="center">
         <img src="https://img.aozaki.cc/20190214_0001.jpg">
-    </center>
+    </div>
 </a>
 
 ***
 
-<center><i>For Art Commission Collection, Please <a href="/art-comission-collection/">Click</a></i></center>
+<div align="center"><i>For Art Commission Collection, Please <a href="/art-comission-collection/">Click</a></i></div>
