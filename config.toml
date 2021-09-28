@@ -100,9 +100,9 @@ ignoreErrors = ["error-remote-getjson"]
         # Android 浏览器主题色
         themeColor = "#6fa8dc"
         # Safari 图标颜色
-        iconColor = "#5bbad5"
+        iconColor = "#6fa8dc"
         # Windows v8-10 磁贴颜色
-        tileColor = "#da532c"
+        tileColor = "#6fa8dc"
       # 搜索配置
       [languages.zh-cn.params.search]
         enable = true
@@ -227,8 +227,8 @@ ignoreErrors = ["error-remote-getjson"]
         Bilibili = ""
         ORCID = ""
         Liberapay = ""
-        Ko-Fi = ""
-        BuyMeACoffee = "Project_Stargazer"
+        Ko-Fi = "Project_Stargazer"
+        BuyMeACoffee = ""
         Linktree = ""
         Email = "i@aozaki.cc"
         RSS = true
