@@ -55,9 +55,11 @@ tags:
 
 星床（とこまち）这个组合名来自于两人的名字，即：
 
+<p style="text-align: center;">
 <br>
-<div align="center"><font size="4">いぬい<font color="red"><b>とこ</b></font> + ほし<font color=#00b8ed><b>まち</b></font>すいせい = <font color="red"><b>とこ</b></font><font color=#00b8ed><b>まち</b></font></font></div>
-<br>
+いぬい<span style="color:#e93320; font-weight:bold;">とこ</span> + ほし<span style="color:#00b8ed; font-weight:bold; text-align: center;">まち</span>すいせい = <span style="color:#e93320; font-weight:bold;">とこ</span><span style="color:#00b8ed; font-weight:bold;">まち</span>
+<br><br>
+</p>
 
 由于 戌亥とこ 的官方中文译名为“戌亥床”，按照顺序应该译作“床星”，亦有部分社区称之为“病床”（即 精神**病** + 戌亥**床**）。但是以往社区约定俗成的译名以及个人偏好，本文仍翻作“星床”。
 
