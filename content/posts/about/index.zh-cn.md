@@ -22,7 +22,7 @@ images: ["/about/work.jpg"]
 
 ## 关于网站 / About the website
 
-本站由 [Hugo](https://gohugo.io/) 驱动，主题是 [CodeIT](https://github.com/sunt-programator/CodeIT) ，托管于 [Vercel](https://vercel.com/) 。
+本站由 [Hugo](https://gohugo.io/) 驱动，主题是 [DoIt](https://github.com/HEIGE-PCloud/DoIt) ，托管于 [Vercel](https://vercel.com/) 。
 
 本站使用 Google Analytics 作为第三方统计工具收集统计基础的页面访问信息，如果您对该行为表示不认同，通过设置浏览器开启`Do Not Track`即可禁止本站统计脚本的生效，本站遵循`Do Not Track`协议。
 
