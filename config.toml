@@ -236,7 +236,7 @@ ignoreErrors = ["error-remote-getjson"]
 [params]
   # website title
   # 网站标题
-  title = "Hugo DoIt Theme Documentation"
+  title = "Aozaki's Note"
   # DoIt theme version
   # DoIt 主题版本
   version = "0.2.X"
