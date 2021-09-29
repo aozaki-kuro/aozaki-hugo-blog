@@ -10,11 +10,12 @@
         {
             "src": "/android-chrome-512x512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
     "theme_color": "#cbd3dd",
     "background_color": "#fff",
     "display": "standalone",
-    "start_url": "/index.html"
+    "start_url": "/"
 }
