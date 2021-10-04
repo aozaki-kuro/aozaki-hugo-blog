@@ -230,6 +230,8 @@ ignoreErrors = ["error-remote-getjson"]
         Ko-Fi = "Project_Stargazer"
         BuyMeACoffee = ""
         Linktree = ""
+        QQ = ""
+        QQGroup = ""
         Email = "i@aozaki.cc"
         RSS = true
 
@@ -278,7 +280,7 @@ ignoreErrors = ["error-remote-getjson"]
       logo = ""
       # title name
       # 标题名称
-      name = "Aozaki's Note"
+      name = "Aozaki"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -575,6 +577,7 @@ ignoreErrors = ["error-remote-getjson"]
         region = ""
         path = ""
         visitor = true
+        commentCount = false
       # Vssue comment config (https://vssue.js.org//)
       # Vssue comment 评论系统设置 (https://vssue.js.org//)
       [params.page.comment.vssue]
