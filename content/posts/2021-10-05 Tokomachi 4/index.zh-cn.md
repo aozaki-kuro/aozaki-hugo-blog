@@ -47,7 +47,7 @@ tags:
 
 ### 阿床 1st 演唱会蓝光碟
 
-{{< image src="20211007_0001.jpg" caption="等了好久的阿床演唱会蓝光碟" alt= "等了好久的阿床演唱会蓝光碟" linked=false >}}
+{{< image src="20211005_0001.jpg" caption="等了好久的阿床演唱会蓝光碟" alt= "等了好久的阿床演唱会蓝光碟" linked=false >}}
 
 阿床的蓝光碟于8月23日发售，而实际有一部分偷跑，于21日就送达了观众手中。
 
@@ -61,7 +61,7 @@ tags:
 
 > 宣布演唱会 [:(fab fa-youtube fa-fw): 【3DminiLIVE】星街すいせい大発表会ミニライブ‼…………のはず⁉](https://www.youtube.com/watch?v=H_08cZT_PrE)
 
-{{< image src="20211007_0005.jpg" caption="阿星的首次个人演唱会" alt= "阿星的首次个人演唱会" linked=false >}}
+{{< image src="20211005_0005.jpg" caption="阿星的首次个人演唱会" alt= "阿星的首次个人演唱会" linked=false >}}
 
 2021年8月21日，阿星宣布首场个人演唱会 "STELLAR into the GALAXY" 将于10月21日举办。举办场地选在了[豊洲PIT](https://toyosu-pit.team-smile.org/)。除了感叹阿星终于在发售专辑后宣布了个人演唱会的消息，也感叹首场个人演唱会选在了这么一个充满回忆、具有各种重大意义的场地。
 
@@ -73,7 +73,7 @@ tags:
 
 > 宣布嘉宾 [:(fab fa-youtube fa-fw): ソロライブの続報⁉ラストの告知まで歌います](https://youtu.be/d95pYGLpgXE?t=2740)
 
-{{< image src="20211007_0002.jpg" caption="阿床果然作为嘉宾出演，另一位嘉宾是AZKi" alt= "果然作为嘉宾出演" linked=false >}}
+{{< image src="20211005_0002.jpg" caption="阿床果然作为嘉宾出演，另一位嘉宾是AZKi" alt= "果然作为嘉宾出演" linked=false >}}
 
 9月10日当时追加情报的时候，就多少猜到应该是有嘉宾，而且阿床多半要出现。当情报公布的时候阿床确实出现在里面，尽管事前能猜出来，但也依然非常兴奋。
 
@@ -81,7 +81,7 @@ tags:
 
 <!-- 阿星发言 -->
 
-{{< image src="20211007_0006.jpg" caption="过去 - 未来" alt= "过去 - 未来" linked=false >}}
+{{< image src="20211005_0006.jpg" caption="过去 - 未来" alt= "过去 - 未来" linked=false >}}
 
 在谈及邀请嘉宾的理由的时候，阿星分别说了两位对她而言的重要意义。
 
@@ -93,7 +93,7 @@ tags:
 
 > 邀请 [:(fab fa-youtube fa-fw): とこまちラジオ(仮) ＃12](https://youtu.be/21ELJRyo-xI?t=2109)
 
-{{< image src="20211007_0004.jpg" caption="“来吗？” “来~”" alt= "“来吗？” “来~”" linked=false >}}
+{{< image src="20211005_0004.jpg" caption="“来吗？” “来~”" alt= "“来吗？” “来~”" linked=false >}}
 
 当然理由是搞得挺庞大的，但是实际邀请的过程，根据阿床描述来看特别好玩。
 
@@ -145,7 +145,7 @@ tags:
 
 > [:(fab fa-youtube fa-fw): とこまちラジオ(仮) ＃10](https://www.youtube.com/watch?v=pT5uYMHtmL0&t=3040s)
 
-{{< image src="20211007_0003.jpg" caption="茄子焗饭不要茄子" alt= "茄子焗饭不要茄子" linked=false >}}
+{{< image src="20211005_0003.jpg" caption="茄子焗饭不要茄子" alt= "茄子焗饭不要茄子" linked=false >}}
 
 虽然说阿星偏食已经是相当有名的一件事情了，不过能搞笑到这个程度的还有点少见。
 
@@ -161,7 +161,7 @@ tags:
 
 ### 来信被读啦！
 
-{{< image src="20211007_0007.jpg" caption="来信被读啦！" alt= "来信被读啦！" linked=false >}}
+{{< image src="20211005_0007.jpg" caption="来信被读啦！" alt= "来信被读啦！" linked=false >}}
 
 {{< admonition type="abstract" title="お便り原文 🎉" open=false >}}
 
@@ -179,4 +179,4 @@ tags:
 
 那当然是阿星演唱会的表现，以及星床电台一周年活动啦！
 
-手里有两张约稿正在进行，喜欢她们喜欢。
+手里有两张约稿正在进行，希望她们喜欢。
