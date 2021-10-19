@@ -23,6 +23,32 @@
     max-width: 800px;
 }
 
+#header-desktop {
+    [theme=light] & {
+        background: rgba(245, 245, 245, .7);
+	    -webkit-backdrop-filter: blur(12px);
+	    backdrop-filter: blur(12px);
+      }
+    
+    [theme=white] & {
+        background: rgba(245, 245, 245, .7);
+	    -webkit-backdrop-filter: blur(12px);
+	    backdrop-filter: blur(12px);
+      }
+
+    [theme=dark] & {
+        background: rgba(33, 33, 35, .7);
+	    -webkit-backdrop-filter: blur(12px);
+	    backdrop-filter: blur(12px);
+      }
+    
+    [theme=black] & {
+        background: rgba(0, 0, 0, .7);
+	    -webkit-backdrop-filter: blur(12px);
+	    backdrop-filter: blur(12px);
+      }
+}
+
 //.lazyautosizes{
 //    padding-top: 15px;
 //}
