@@ -37,6 +37,8 @@ categories: ["Portfolio Index"]
 
 {{< image src="https://img.aozaki.cc/commission/20210531_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/status/1402415053567975424)" alt= "DO NOT REPOST © 2021 Laxy" width="100%" height="" linked=false >}}
 
+{{< image src="https://img.aozaki.cc/commission/20211018_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/)" alt= "DO NOT REPOST © 2021 Laxy" width="100%" height="" linked=false >}}
+
 ## 四ノ宮しの:bread::dog_face:
 
 <!--Badge-->
@@ -61,6 +63,8 @@ categories: ["Portfolio Index"]
 </p>
 
 <!--Artworks-->
+
+{{< image src="https://img.aozaki.cc/commission/20211018_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1450748626725134337)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="100%" height="" linked=false >}}
 
 {{< image src="https://img.aozaki.cc/commission/20210902_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1433446939106807813)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="100%" height="" linked=false >}}
 
