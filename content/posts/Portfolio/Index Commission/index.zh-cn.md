@@ -64,6 +64,8 @@ categories: ["Portfolio Index"]
 
 <!--Artworks-->
 
+{{< image src="https://img.aozaki.cc/commission/20211018_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1450748626725134337)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="100%" height="" linked=false >}}
+
 {{< image src="https://img.aozaki.cc/commission/20210902_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1433446939106807813)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="100%" height="" linked=false >}}
 
 {{< image src="https://img.aozaki.cc/commission/20210708_四ノ宮しの.jpg" caption="© 2021 [四ノ宮しの](https://twitter.com/sinosino141/status/1413111074363113475)" alt= "DO NOT REPOST © 2021 四ノ宮しの" width="600rem" height="" linked=false >}}
