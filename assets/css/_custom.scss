@@ -25,13 +25,13 @@
 
 #header-desktop {
     [theme=light] & {
-        background: rgba(245, 245, 245, .8);
+        background: rgba(245, 245, 245, .92);
 	    -webkit-backdrop-filter: blur(12px);
 	    backdrop-filter: blur(12px);
       }
     
     [theme=white] & {
-        background: rgba(245, 245, 245, .8);
+        background: rgba(245, 245, 245, .92);
 	    -webkit-backdrop-filter: blur(12px);
 	    backdrop-filter: blur(12px);
       }
@@ -47,4 +47,12 @@
 	    -webkit-backdrop-filter: blur(12px);
 	    backdrop-filter: blur(12px);
       }
+}
+
+.search {
+    input {
+        [theme=dark] & {
+            background-color: rgba(33, 33, 35, .92);
+          }
+    }
 }
