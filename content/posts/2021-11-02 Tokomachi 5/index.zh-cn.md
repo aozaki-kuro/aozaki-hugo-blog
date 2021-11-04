@@ -6,7 +6,7 @@ date: 2021-11-02T18:05:00+08:00
 draft: false
 featuredImage: "0000.jpg"
 featuredImagePreview: "0000.jpg"
-images: ["/suisei-hoshimachi-inui-toko-tokomachi-4/0000.jpg"]
+images: ["/suisei-hoshimachi-inui-toko-tokomachi-5/0000.jpg"]
 categories: ["VTuber"]
 tags:
 - VTuber
