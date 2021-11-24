@@ -687,13 +687,13 @@ ignoreErrors = ["error-remote-getjson"]
       id = ""
     # Umami Analytics
     [params.analytics.umami]
-      data_website_id = "dcbe5206-db4e-4e41-8ca6-2ef8539c0c02"
-      src = "https://insight.aozaki.cc/app.js"
+      data_website_id = ""
+      src = ""
       data_domains = "aozaki.cc"
     # Plausible Analytics
     [params.analytics.plausible]
-      data_domain = ""
-      src = ""
+      data_domain = "aozaki.cc"
+      src = "https://insight.suisei.cc/js/plausible.jsa"
 
   # Cookie consent config
   # Cookie 许可配置
