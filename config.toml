@@ -693,7 +693,7 @@ ignoreErrors = ["error-remote-getjson"]
     # Plausible Analytics
     [params.analytics.plausible]
       data_domain = "aozaki.cc"
-      src = "https://insight.suisei.cc/js/plausible.jsa"
+      src = "https://insight.suisei.cc/js/app.js"
 
   # Cookie consent config
   # Cookie 许可配置
