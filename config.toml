@@ -20,7 +20,7 @@ enableRobotsTXT = true
 # 是否使用 git 信息
 enableGitInfo = true
 # whether to use emoji code
-# 是否使用 emoji 代码
+# 是否使用 emoji 代码 
 enableEmoji = true
 
 ignoreErrors = ["error-remote-getjson"]
