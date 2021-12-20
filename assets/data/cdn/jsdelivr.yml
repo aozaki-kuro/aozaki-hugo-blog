@@ -1,5 +1,5 @@
 prefix:
-  libFiles: https://unpkg.com/
+  libFiles: https://cdn.jsdelivr.net/npm/
   # simple-icons@5.8.1 https://github.com/simple-icons/simple-icons
   simpleIcons: https://unpkg.com/simple-icons@v5.8.1/icons/
 libFiles:
