@@ -126,13 +126,13 @@ openssl rand -base64 64 | tr -d '\n' ; echo
 ```
 
 3、接下来编辑 `plausible-conf.env` 也就时需要的变量
-```conf
+```env
 # 基本配置
-ADMIN_USER_EMAIL= # 管理员电邮
-ADMIN_USER_NAME= # 管理员用户名
-ADMIN_USER_PWD= # 密码
+ADMIN_USER_EMAIL=admin@example.com # 管理员电邮
+ADMIN_USER_NAME=admin # 管理员用户名
+ADMIN_USER_PWD=password # 密码
 BASE_URL=https://example.com # 这里填写项目网址
-SECRET_KEY_BASE= # 填写先前产生的密钥
+SECRET_KEY_BASE=aaaaaaaaaaaaa # 填写先前产生的密钥
 
 # 关闭注册
 DISABLE_REGISTRATION=true
