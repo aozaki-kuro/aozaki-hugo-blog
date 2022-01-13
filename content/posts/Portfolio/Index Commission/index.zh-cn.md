@@ -39,6 +39,8 @@ categories: ["Portfolio Index"]
 
 {{< image src="https://img.aozaki.cc/commission/20211018_Laxy.jpg" caption="© 2021 [Laxy](https://twitter.com/laxyiii/status/1451854024609714183)" alt= "DO NOT REPOST © 2021 Laxy" width="100%" height="" linked=false >}}
 
+{{< image src="https://img.aozaki.cc/commission/20220113_Laxy.jpg" caption="© 2022 [Laxy](https://twitter.com/laxyiii/status/1481568202060709892)" alt= "DO NOT REPOST © 2022 Laxy" width="100%" height="" linked=false >}}
+
 ## 四ノ宮しの:bread::dog_face:
 
 <!--Badge-->
