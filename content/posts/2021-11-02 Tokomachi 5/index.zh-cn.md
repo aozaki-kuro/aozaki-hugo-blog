@@ -9,15 +9,15 @@ featuredImagePreview: "0000.jpg"
 images: ["/suisei-hoshimachi-inui-toko-tokomachi-5/0000.jpg"]
 categories: ["VTuber"]
 tags:
-- VTuber
-- とこまち
-- 星街すいせい
-- 戌亥とこ
+  - VTuber
+  - とこまち
+  - 星街すいせい
+  - 戌亥とこ
 ---
 
 {{< admonition danger >}}
 
-切记，**嗑真人CP死路一条**，请勿上头。
+切记，**嗑真人 CP 死路一条**，请勿上头。
 
 {{< /admonition >}}
 
@@ -33,11 +33,11 @@ tags:
 
 第一篇：[:(fas fa-link): 戌亥とこ × 星街すいせい](/suisei-hoshimachi-inui-toko-tokomachi/)
 
-第二篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：3周年纪念演唱会](/suisei-hoshimachi-inui-toko-tokomachi-2/)
+第二篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：3 周年纪念演唱会](/suisei-hoshimachi-inui-toko-tokomachi-2/)
 
 第三篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：日常琐碎](/suisei-hoshimachi-inui-toko-tokomachi-3/)
 
-第四篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：日常琐碎2](/suisei-hoshimachi-inui-toko-tokomachi-4/)
+第四篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：日常琐碎 2](/suisei-hoshimachi-inui-toko-tokomachi-4/)
 
 第五篇了，我停不下来啊！
 
@@ -79,7 +79,7 @@ AZKi 代表了她的过去，其中包含了很多想和 AZKi 一起做的事情
 
 这次在新的舞美指导老师的加持下，两个人不再是跟上次一样跳完全成对的舞步，表演更上一层楼。
 
-灯光也是非常到位，用了两个人非常标志性的红色与蓝色~~红蓝出CP是吧~~。
+灯光也是非常到位，用了两个人非常标志性的红色与蓝色~~红蓝出 CP 是吧~~。
 
 {{< image src="20211102_0002.jpg" caption="这个远景和灯光其实挺不错的" alt= "这个远景拉得挺不错的" linked=false >}}
 
@@ -96,9 +96,9 @@ AZKi 代表了她的过去，其中包含了很多想和 AZKi 一起做的事情
 更惊人的是还埋入了两位的名字
 
 > 彗星が
-> 
+>
 > 向こうトコに
-> 
+>
 > はしっていけばいいんだ
 
 “彗星只要向着远方（阿床）奔跑就好”……老师您太会写了。
@@ -109,7 +109,7 @@ AZKi 代表了她的过去，其中包含了很多想和 AZKi 一起做的事情
 
 这首歌也算是给两人一年多以来努力的赞许，以及对两人前景的期望吧。
 
-Sololive中阿星个人的精彩表演，我想还是留给各位自行鉴赏。我自觉笔力根本不足以描述我自己的感受。
+Sololive 中阿星个人的精彩表演，我想还是留给各位自行鉴赏。我自觉笔力根本不足以描述我自己的感受。
 
 ## とこまちラジオ（仮）一周年！
 
@@ -133,7 +133,7 @@ Sololive中阿星个人的精彩表演，我想还是留给各位自行鉴赏。
 
 <!--Shino老师的图，新3D衣服，一起登台-->
 
-这张是7月8日交稿的，当时也就是一时兴起约的稿，没有什么特别的想法。
+这张是 7 月 8 日交稿的，当时也就是一时兴起约的稿，没有什么特别的想法。
 
 这次只是请 Shino 老师为了一周年活动重新投稿了一次，没想到就被选上了。
 
@@ -209,7 +209,7 @@ Sololive中阿星个人的精彩表演，我想还是留给各位自行鉴赏。
 
 ### 2019 年到现在
 
-2020 年阿床宣布阿星会作为嘉宾出演，首次明确突破了事务所的界限。在那之后两个人也是使劲挤出时间一起互动，一起录歌，以及出席对方演唱会…除了3D模型在对方公司通用，甚至收获了属于星床两人的第一首单曲，可谓是前无古人了。
+2020 年阿床宣布阿星会作为嘉宾出演，首次明确突破了事务所的界限。在那之后两个人也是使劲挤出时间一起互动，一起录歌，以及出席对方演唱会…除了 3D 模型在对方公司通用，甚至收获了属于星床两人的第一首单曲，可谓是前无古人了。
 
 {{< image src="20211102_0008.jpg" caption="2019 年时的愿景" alt= "2019 年时的愿景" linked=false >}}
 
@@ -219,7 +219,7 @@ Sololive中阿星个人的精彩表演，我想还是留给各位自行鉴赏。
 
 这俩人在 2019 年的推特互动，被人开玩笑说“这是热恋期吧”。而到如今很多贴贴小细节则说明两人已经充满了默契，很多事情已经心照不宣~~完全是老夫老妻了~~。
 
-题外话：这类跨事务所，尤其跨两大箱的联动，目前最长寿的应该是 [:(fab fa-youtube fa-fw): 猫又おかゆ](https://www.youtube.com/watch?v=-rg-yuriAn8) 和 [:(fab fa-youtube fa-fw): 椎名唯華](https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg) 的 [神岡家ラジオ](https://www.youtube.com/playlist?list=PL3y-e0n6k6gAVDHMiiZbp6jm1ShIzeBce) 。这边的电台是 2019年6月27日 首播，目前已经持续超过2年。也希望星床电台能够长长久久，两年、三年一直办下去吧。
+题外话：这类跨事务所，尤其跨两大箱的联动，目前最长寿的应该是 [:(fab fa-youtube fa-fw): 猫又おかゆ](https://www.youtube.com/watch?v=-rg-yuriAn8) 和 [:(fab fa-youtube fa-fw): 椎名唯華](https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg) 的 [神岡家ラジオ](https://www.youtube.com/playlist?list=PL3y-e0n6k6gAVDHMiiZbp6jm1ShIzeBce) 。这边的电台是 2019 年 6 月 27 日 首播，目前已经持续超过 2 年。也希望星床电台能够长长久久，两年、三年一直办下去吧。
 
 ### 一点缺憾
 

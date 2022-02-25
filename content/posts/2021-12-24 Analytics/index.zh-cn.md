@@ -9,9 +9,9 @@ featuredImagePreview: "0001.jpg"
 images: ["/plausible-analytics-self-hosting/0001.jpg"]
 categories: ["Tech"]
 tags:
-- 网络
-- 折腾
-- 博客
+  - 网络
+  - 折腾
+  - 博客
 ---
 
 ## 前言
@@ -24,15 +24,15 @@ tags:
 
 但是随着使用时间变长，我发现了不少体验上的问题，也是让我最后选择倒向 Plausible Analytics 的原因。
 
-||Plausible Analytics|Umami|
-|:--:|:--:|:--:|
-|资源占用|相对较高|低|
-|追踪脚本大小|< 1 KB|< 1 KB|
-|编写语言|Elixir|Next.js|
-|Docker部署|是，默认4个容器|是，总共1或2个容器|
-|页面流量统计|相对准确|**部分框架下存在问题**|
-|夜间模式|有，自动切换|有，手动切换|
-|多语言|否，仅英语|有，手动切换|
+|              | Plausible Analytics |         Umami          |
+| :----------: | :-----------------: | :--------------------: |
+|   资源占用   |      相对较高       |           低           |
+| 追踪脚本大小 |       < 1 KB        |         < 1 KB         |
+|   编写语言   |       Elixir        |        Next.js         |
+| Docker 部署  |  是，默认 4 个容器  | 是，总共 1 或 2 个容器 |
+| 页面流量统计 |      相对准确       | **部分框架下存在问题** |
+|   夜间模式   |    有，自动切换     |      有，手动切换      |
+|    多语言    |     否，仅英语      |      有，手动切换      |
 
 ---
 
@@ -67,7 +67,7 @@ sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg lsb-release
 ```
 
-2、导入 Docker 官方KEY
+2、导入 Docker 官方 KEY
 
 ```bash
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
@@ -115,17 +115,20 @@ sudo chmod a+rw /var/run/docker.sock
 > [:(fa fa-book): Plausible Analytics 官方教程](https://plausible.io/docs/self-hosting)
 
 1、拉取相关文件
+
 ```bash
 git clone https://github.com/plausible/hosting plausible
 cd plausible
 ```
 
 2、产生密钥，这里记得保存好，填写 env 时需要
+
 ```bash
 openssl rand -base64 64 | tr -d '\n' ; echo
 ```
 
 3、接下来编辑 `plausible-conf.env` 也就时需要的变量
+
 ```env
 # 基本配置
 ADMIN_USER_EMAIL=admin@example.com # 管理员电邮
@@ -139,6 +142,7 @@ DISABLE_REGISTRATION=true
 ```
 
 4、确认 `docker-compose.yml` 存在，启动
+
 ```bash
 docker-compose up -d
 ```

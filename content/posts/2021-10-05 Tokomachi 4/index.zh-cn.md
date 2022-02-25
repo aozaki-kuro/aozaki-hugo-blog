@@ -9,15 +9,15 @@ featuredImagePreview: "0000.jpg"
 images: ["/suisei-hoshimachi-inui-toko-tokomachi-4/0000.jpg"]
 categories: ["VTuber"]
 tags:
-- VTuber
-- とこまち
-- 星街すいせい
-- 戌亥とこ
+  - VTuber
+  - とこまち
+  - 星街すいせい
+  - 戌亥とこ
 ---
 
 {{< admonition danger >}}
 
-切记，**嗑真人CP死路一条**，请勿上头。
+切记，**嗑真人 CP 死路一条**，请勿上头。
 
 {{< /admonition >}}
 
@@ -33,7 +33,7 @@ tags:
 
 第一篇：[:(fas fa-link): 戌亥とこ × 星街すいせい](/suisei-hoshimachi-inui-toko-tokomachi/)
 
-第二篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：3周年纪念演唱会](/suisei-hoshimachi-inui-toko-tokomachi-2/)
+第二篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：3 周年纪念演唱会](/suisei-hoshimachi-inui-toko-tokomachi-2/)
 
 第三篇：[:(fas fa-link): 戌亥とこ × 星街すいせい：日常琐碎](/suisei-hoshimachi-inui-toko-tokomachi-3/)
 
@@ -49,13 +49,13 @@ tags:
 
 {{< image src="20211005_0001.jpg" caption="等了好久的阿床演唱会蓝光碟" alt= "等了好久的阿床演唱会蓝光碟" linked=false >}}
 
-阿床的蓝光碟于8月23日发售，而实际有一部分偷跑，于21日就送达了观众手中。
+阿床的蓝光碟于 8 月 23 日发售，而实际有一部分偷跑，于 21 日就送达了观众手中。
 
 送到我手中因为疫情等原因晚了一周左右，不过能够正常拿到，我就挺满足了。这次新录了评论音轨，前半是阿床、阿星、德龙三个人，阿星全程负责炒气氛。德龙也在自己的杂谈中提到阿星真的太活泼了，自己完全是看着星床两个人姨母笑的状态。
 
 具体内容和[第一篇内容](/suisei-hoshimachi-inui-toko-tokomachi/#演唱会)基本重合，因此就不再多说了。
 
-巧合的是，阿床的BD到达观众手中的当天，阿星宣布了自己个人演唱会的消息。
+巧合的是，阿床的 BD 到达观众手中的当天，阿星宣布了自己个人演唱会的消息。
 
 ### 演唱会嘉宾
 
@@ -63,19 +63,19 @@ tags:
 
 {{< image src="20211005_0005.jpg" caption="阿星的首次个人演唱会" alt= "阿星的首次个人演唱会" linked=false >}}
 
-2021年8月21日，阿星宣布首场个人演唱会 "STELLAR into the GALAXY" 将于10月21日举办。举办场地选在了[豊洲PIT](https://toyosu-pit.team-smile.org/)。除了感叹阿星终于在发售专辑后宣布了个人演唱会的消息，也感叹首场个人演唱会选在了这么一个充满回忆、具有各种重大意义的场地。
+2021 年 8 月 21 日，阿星宣布首场个人演唱会 "STELLAR into the GALAXY" 将于 10 月 21 日举办。举办场地选在了[豊洲 PIT](https://toyosu-pit.team-smile.org/)。除了感叹阿星终于在发售专辑后宣布了个人演唱会的消息，也感叹首场个人演唱会选在了这么一个充满回忆、具有各种重大意义的场地。
 
-豊洲PIT是 Hololive 首次全体演唱会 [ノンストップ・ストーリー](https://www.nonstop.hololive.tv/) 的举办地。这场活动上，阿星以一首天球博得满堂彩，从而得以转入本社、获得更多资源和机会。可以说在这里，她迎来了第二个转折点。
+豊洲 PIT 是 Hololive 首次全体演唱会 [ノンストップ・ストーリー](https://www.nonstop.hololive.tv/) 的举办地。这场活动上，阿星以一首天球博得满堂彩，从而得以转入本社、获得更多资源和机会。可以说在这里，她迎来了第二个转折点。
 
 而在[前一期](/suisei-hoshimachi-inui-toko-tokomachi-3/#天球)中也提到，阿星的选曲也是受了阿床表演的影响。可能没有阿床的表演，也就没有今天的阿星。所以演唱会场地选在这里对两人而言可以说是感慨万千吧。
 
-当然还有一个理由，就是她俩最喜欢的 あんさんぶるスターズ!! 的[**首场巡回演唱会**](https://stars-dreamlive.com/1st/)也正是在豊洲PIT举办的。此后的多场旋回演唱会也都包含了豊洲PIT，对两人来说这里可谓是圣地。而能够在自己喜欢的角色出演过的同一个舞台上表演，想必对星床两人也是追星大成功了吧。
+当然还有一个理由，就是她俩最喜欢的 あんさんぶるスターズ!! 的[**首场巡回演唱会**](https://stars-dreamlive.com/1st/)也正是在豊洲 PIT 举办的。此后的多场旋回演唱会也都包含了豊洲 PIT，对两人来说这里可谓是圣地。而能够在自己喜欢的角色出演过的同一个舞台上表演，想必对星床两人也是追星大成功了吧。
 
 > 宣布嘉宾 [:(fab fa-youtube fa-fw): ソロライブの続報⁉ラストの告知まで歌います](https://youtu.be/d95pYGLpgXE?t=2740)
 
 {{< image src="20211005_0002.jpg" caption="阿床果然作为嘉宾出演，另一位嘉宾是AZKi" alt= "果然作为嘉宾出演" linked=false >}}
 
-9月10日当时追加情报的时候，就多少猜到应该是有嘉宾，而且阿床多半要出现。当情报公布的时候阿床确实出现在里面，尽管事前能猜出来，但也依然非常兴奋。
+9 月 10 日当时追加情报的时候，就多少猜到应该是有嘉宾，而且阿床多半要出现。当情报公布的时候阿床确实出现在里面，尽管事前能猜出来，但也依然非常兴奋。
 
 时隔一年，阿星不仅请了阿床到自己的 YouTube 演唱会 [:(fas fa-ghost): SPACE for Virtual GHOST](https://www.youtube.com/watch?v=Ajwv4ANSSg0)，也再次请到了阿床到自己的个人演唱会作为嘉宾出演，成功把这段故事继续讲了下去。
 
@@ -121,15 +121,15 @@ tags:
 
 {{< youtube aWv2KjaFqBA >}}
 
-|日期|曲名|地址|本家|
-|----|----|----|----|
-|2020-10-31|今宵月の館にて|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)|
-|2020-12-25|Holy Angel's Carol|[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)|
-|2021-02-14|メルティ♡キッチン|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)|
-|2021-06-30|イースター・カーニバル|[:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA&t=74s)|
-|2021-09-13|Honeycomb Summer|[:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=aWv2KjaFqBA)|[:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=4m-CXEpFbB8)|
+| 日期       | 曲名                   | 地址                                                                                   | 本家                                                                                         |
+| ---------- | ---------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 2020-10-31 | 今宵月の館にて         | [:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk) | [:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=I48D23VrA0M)       |
+| 2020-12-25 | Holy Angel's Carol     | [:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=m-demdSHuYI)       | [:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=pLrfBepCDAE)       |
+| 2021-02-14 | メルティ ♡ キッチン    | [:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg) | [:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=ffrstjcl7bk)       |
+| 2021-06-30 | イースター・カーニバル | [:(fab fa-youtube fa-fw): 戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)       | [:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=yr1IKkZmIyA&t=74s) |
+| 2021-09-13 | Honeycomb Summer       | [:(fab fa-youtube fa-fw): Suisei Channel](https://www.youtube.com/watch?v=aWv2KjaFqBA) | [:(fab fa-youtube fa-fw): Happy Elements](https://www.youtube.com/watch?v=4m-CXEpFbB8)       |
 
-这次的主题是“夏天”，也确实赶在夏天发了出来（今年实在太热了）。阿床也提到，其实翻唱本身很早就一气呵成地录完了，但是为了符合 Honeycomb Summer 本家当时发表的节点（当时与活动一起在9月发表）所以也推迟到了9月中旬再发布。这次的录音质量、MIX质量以及也是比起以往要高，播放量也直追她俩的第一首翻唱。
+这次的主题是“夏天”，也确实赶在夏天发了出来（今年实在太热了）。阿床也提到，其实翻唱本身很早就一气呵成地录完了，但是为了符合 Honeycomb Summer 本家当时发表的节点（当时与活动一起在 9 月发表）所以也推迟到了 9 月中旬再发布。这次的录音质量、MIX 质量以及也是比起以往要高，播放量也直追她俩的第一首翻唱。
 
 在谈到录歌的时候，阿床也承认确实最近经常跟着阿星把情绪调动起来，仿佛本来就非常活泼一样。
 
@@ -165,15 +165,15 @@ tags:
 
 {{< admonition type="abstract" title="お便り原文 🎉" open=false >}}
 
-すいちゃん、とこちゃんこんばんは！すいちゃんの1stアルバム「Still Stil Stellar」発売＆1stソロライブ「STELLAR into the GALAXY」決定おめでとうございます！そしてとこちゃんの1stソロライブ「who i am」ブルーレイ発売＆オリコンランキングBlu-ray部門デイリー1位おめでとうございます！とこちゃんの1stソロライブのBlu-rayが届いた21日に、すいちゃんの1stソロライブも発表されました。そしてなんと、すいちゃんのソロライブ会場は思い出がいっぱいの豊洲PITだと驚きました。とこまち二人最近音楽に関してめでたいこと本当に多いですね～ファンとしてとても嬉しいです！海外ファンなので、ライブ現地にいけませんが、その代わりに、円盤とライブグッズをたくさん買って、アルバム特典も全コンプしました。財布の中身なくなりそうな勢いでしたが日常生活に支障が出ない程度ですのでご安心ください。とこまちお二人にとって健康的な推し活はどんな感じですか？円盤とグッズは複数購入しますか？ぜひ聞かせてください！
+すいちゃん、とこちゃんこんばんは！すいちゃんの 1st アルバム「Still Stil Stellar」発売＆1st ソロライブ「STELLAR into the GALAXY」決定おめでとうございます！そしてとこちゃんの 1st ソロライブ「who i am」ブルーレイ発売＆オリコンランキング Blu-ray 部門デイリー 1 位おめでとうございます！とこちゃんの 1st ソロライブの Blu-ray が届いた 21 日に、すいちゃんの 1st ソロライブも発表されました。そしてなんと、すいちゃんのソロライブ会場は思い出がいっぱいの豊洲 PIT だと驚きました。とこまち二人最近音楽に関してめでたいこと本当に多いですね～ファンとしてとても嬉しいです！海外ファンなので、ライブ現地にいけませんが、その代わりに、円盤とライブグッズをたくさん買って、アルバム特典も全コンプしました。財布の中身なくなりそうな勢いでしたが日常生活に支障が出ない程度ですのでご安心ください。とこまちお二人にとって健康的な推し活はどんな感じですか？円盤とグッズは複数購入しますか？ぜひ聞かせてください！
 
 {{< /admonition >}}
 
-8月、9月对于星床两个人可以说是有着非常多的变化和重大事项的宣布。当时想着要祝贺两人就写了一封超长的总结和祝贺信，没想到就被念了。
+8 月、9 月对于星床两个人可以说是有着非常多的变化和重大事项的宣布。当时想着要祝贺两人就写了一封超长的总结和祝贺信，没想到就被念了。
 
 然后阿床也很迅速地回答了“是否会购入多份周边”的问题。当然是会啦。阿星因为基本不买周边，所以等于也是问了白问（早就知道了）。
 
-9月这么重新发了一封，可能因为她们想把话题拆开慢慢回顾所以没被选上。不过能被念到一次已经够高兴了。
+9 月这么重新发了一封，可能因为她们想把话题拆开慢慢回顾所以没被选上。不过能被念到一次已经够高兴了。
 
 ## 接下来
 

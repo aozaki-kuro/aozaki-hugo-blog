@@ -9,7 +9,7 @@ featuredImagePreview: "0001.jpg"
 images: ["/happy-birthday-suisei/0001.jpg"]
 categories: ["VTuber"]
 tags:
-- VTuber
+  - VTuber
 ---
 
 {{< admonition warning >}}
@@ -26,35 +26,35 @@ tags:
 
 ## 生日快乐！
 
-随着时钟指向0点，星迎来了自己三周年纪念日。
+随着时钟指向 0 点，星迎来了自己三周年纪念日。
 
-从个人势到INNK，再从INNK到Hololive。在波澜万丈的2020年后迎来了2021年。
+从个人势到 INNK，再从 INNK 到 Hololive。在波澜万丈的 2020 年后迎来了 2021 年。
 
 我的“追星”历也即将迎来一周年的纪念日。
 
-在此也非常感谢[:(fab fa-twitter fa-fw):すいせいこーど](https://twitter.com/suiseicord)主催的一系列活动！不仅有幸参加了去年12月10日Inui Toko 1st Solo Live “who i am”的[星床花篮活动](https://twitter.com/suiseicord/status/1337005187123224576?s=20)，同时也参加了今年的生日留言册的活动。
+在此也非常感谢[:(fab fa-twitter fa-fw):すいせいこーど](https://twitter.com/suiseicord)主催的一系列活动！不仅有幸参加了去年 12 月 10 日 Inui Toko 1st Solo Live “who i am”的[星床花篮活动](https://twitter.com/suiseicord/status/1337005187123224576?s=20)，同时也参加了今年的生日留言册的活动。
 
 ![誕生日寄せ書き](0002.jpg "由Suiseicord主催的生日留言册")
 
-> :(far fa-file-pdf fa-fw):生日留言册完整PDF点[这里](https://suiseicord.com/shikishi/3rdannv)。
+> :(far fa-file-pdf fa-fw):生日留言册完整 PDF 点[这里](https://suiseicord.com/shikishi/3rdannv)。
 
-我大概从1月19日就已经准备好了相关文本，并且在开始征集时立刻投稿，所以我的留言和向今沢老师约的稿就在第11~13页，紧跟Suiseicord的核心成员。
+我大概从 1 月 19 日就已经准备好了相关文本，并且在开始征集时立刻投稿，所以我的留言和向今沢老师约的稿就在第 11~13 页，紧跟 Suiseicord 的核心成员。
 
-## 2021年的变化
+## 2021 年的变化
 
-2021年的开局正如[前一篇博文](/still-watching-vtuber-suisei-hoshimachi)所说，喜忧参半。不管是星还是观众，都迎来了各类重大变化。
+2021 年的开局正如[前一篇博文](/still-watching-vtuber-suisei-hoshimachi)所说，喜忧参半。不管是星还是观众，都迎来了各类重大变化。
 
 ### 电台
 
 ![MUSIC SPACE](0003.jpg "MUSIC SPACE，感谢一年以来的陪伴！")
 
-昨天（3月21日）还得知即将迎来一周年的MUSIC SPACE同时即将迎来第52周的最终回。
+昨天（3 月 21 日）还得知即将迎来一周年的 MUSIC SPACE 同时即将迎来第 52 周的最终回。
 
-不过就她在会限中所说，目前文化放送在将所有VTuber相关的节目关停，因此可以看作是文化放送的战略调整。这些空出来的时间自然是可以用作休息，以及进行相关的专业练习。
+不过就她在会限中所说，目前文化放送在将所有 VTuber 相关的节目关停，因此可以看作是文化放送的战略调整。这些空出来的时间自然是可以用作休息，以及进行相关的专业练习。
 
 ![VILLS Vol.2](0004.jpg "VILLS Vol.2，星演唱了NOW ON SPACE!!")
 
-由于有Pieces的先例[^1]，因此无论日本还是欧美观众均纷纷对这首歌的将来表示了担忧。会限中阿星表示“对这首歌今后会如何”也不是十分清楚。
+由于有 Pieces 的先例[^1]，因此无论日本还是欧美观众均纷纷对这首歌的将来表示了担忧。会限中阿星表示“对这首歌今后会如何”也不是十分清楚。
 
 希望这首星自己作词、对自己首个电台节目具有重大纪念意义的歌曲不会被埋没吧。
 
@@ -68,9 +68,9 @@ tags:
 
 ![3周年凸待](0005.jpg "3周年凸待，新声线披露。")
 
-[:(fab fa-youtube fa-fw):2021年3月22日的凸待](https://www.youtube.com/watch?v=oPz4lrkarZ0)中，星披露了自己的新声线。
+[:(fab fa-youtube fa-fw):2021 年 3 月 22 日的凸待](https://www.youtube.com/watch?v=oPz4lrkarZ0)中，星披露了自己的新声线。
 
-作出这一决定对她而言想必非常艰难，毕竟她用着这个声线从2018年3月22日投稿[第一个自我介绍视频](https://www.youtube.com/watch?v=1dOyVEls4pg&t=73s)开始，一路经历了那么多风风雨雨。然而她的嗓子从2020年夏天起因为不断增长的直播时间、收录工作与演唱会，已是不堪重负。为了她将来的职业生涯考虑，她不得不作出这一艰难的决定。
+作出这一决定对她而言想必非常艰难，毕竟她用着这个声线从 2018 年 3 月 22 日投稿[第一个自我介绍视频](https://www.youtube.com/watch?v=1dOyVEls4pg&t=73s)开始，一路经历了那么多风风雨雨。然而她的嗓子从 2020 年夏天起因为不断增长的直播时间、收录工作与演唱会，已是不堪重负。为了她将来的职业生涯考虑，她不得不作出这一艰难的决定。
 
 我突然也可以理解为什么她尽管最近嗓子状态不好，但仍然那么频繁直播——想必她是想抓住这些机会，用这个声线给观众留下美好回忆吧。
 
@@ -114,7 +114,7 @@ tags:
 
 {{< admonition >}}
 
-原因请参考3月21日的[:(fab fa-youtube fa-fw):会限](https://www.youtube.com/watch?v=77RIG0r65qE)，本节不对内容作表述。
+原因请参考 3 月 21 日的[:(fab fa-youtube fa-fw):会限](https://www.youtube.com/watch?v=77RIG0r65qE)，本节不对内容作表述。
 
 {{< /admonition >}}
 
@@ -136,4 +136,4 @@ tags:
 
 祝星街彗星生日快乐，祝你职业生涯一路顺利。
 
-[^1]: 该曲版权方可能包括Bilibili，因此在B站事件后星并无太大可能再次演唱这首歌。
+[^1]: 该曲版权方可能包括 Bilibili，因此在 B 站事件后星并无太大可能再次演唱这首歌。

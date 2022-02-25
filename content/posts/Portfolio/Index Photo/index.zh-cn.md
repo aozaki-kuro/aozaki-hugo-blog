@@ -22,7 +22,7 @@ categories: ["Portfolio Index"]
     </div>
 </a>
 
-***
+---
 
 ## 2015
 
@@ -66,7 +66,7 @@ categories: ["Portfolio Index"]
     </div>
 </a>
 
-***
+---
 
 ## 2016
 
@@ -86,7 +86,7 @@ categories: ["Portfolio Index"]
     </div>
 </a>
 
-***
+---
 
 ## 2017
 
@@ -98,7 +98,7 @@ categories: ["Portfolio Index"]
     </div>
 </a>
 
-***
+---
 
 ## 2019
 
@@ -110,6 +110,6 @@ categories: ["Portfolio Index"]
     </div>
 </a>
 
-***
+---
 
 <div align="center"><i>For Art Commission Collection, Please <a href="/art-comission-collection/">Click</a></i></div>

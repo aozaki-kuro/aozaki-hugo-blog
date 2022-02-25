@@ -7,9 +7,9 @@ license: "Copyright © 2014 Aozaki, All rights reserved."
 toc: false
 comment: false
 categories: ["Portfolio"]
-tags: 
-- 摄影
-- 人像
+tags:
+  - 摄影
+  - 人像
 ---
 
 <br>
