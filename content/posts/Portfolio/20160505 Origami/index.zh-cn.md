@@ -18,8 +18,8 @@ tags:
 <!--
 <br>
 <div align="center">
-    <img src="https://img.aozaki.cc/20160505_0001.jpg">
-    <img src="https://img.aozaki.cc/20160505_0002.jpg">
+    <img src="https://img.aozaki.cc/portfolio/20160505_0001.jpg">
+    <img src="https://img.aozaki.cc/portfolio/20160505_0002.jpg">
 </div>
 -->
 

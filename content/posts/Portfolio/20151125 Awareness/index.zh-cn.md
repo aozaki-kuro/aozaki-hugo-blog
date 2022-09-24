@@ -14,10 +14,10 @@ tags:
 
 <br>
 <div align="center">
-    <img src="https://img.aozaki.cc/20151125_0001.jpg">
-    <img src="https://img.aozaki.cc/20151125_0002.jpg">
-    <img src="https://img.aozaki.cc/20151125_0003.jpg">
-    <img src="https://img.aozaki.cc/20151125_0004.jpg">
+    <img src="https://img.aozaki.cc/portfolio/20151125_0001.jpg">
+    <img src="https://img.aozaki.cc/portfolio/20151125_0002.jpg">
+    <img src="https://img.aozaki.cc/portfolio/20151125_0003.jpg">
+    <img src="https://img.aozaki.cc/portfolio/20151125_0004.jpg">
 </div>
 
 <!--

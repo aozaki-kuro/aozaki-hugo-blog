@@ -30,7 +30,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-blossom/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20150209_0001.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20150209_0001.jpg">
     </div>
 </a>
 
@@ -38,7 +38,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-regret/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20150329_0005.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20150329_0005.jpg">
     </div>
 </a>
 
@@ -46,7 +46,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-funernal/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20150809_0002.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20150809_0002.jpg">
     </div>
 </a>
 
@@ -54,7 +54,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-refusal/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20150726_0003.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20150726_0003.jpg">
     </div>
 </a>
 
@@ -62,7 +62,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-awareness/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20151125_0002.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20151125_0002.jpg">
     </div>
 </a>
 
@@ -74,7 +74,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-origami/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20160505_0001.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20160505_0001.jpg">
     </div>
 </a>
 
@@ -82,7 +82,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-unbalance/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20160715_0005.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20160715_0005.jpg">
     </div>
 </a>
 
@@ -94,7 +94,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-wander/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20170720_0001.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20170720_0001.jpg">
     </div>
 </a>
 
@@ -106,7 +106,7 @@ categories: ["Portfolio Index"]
 
 <a href="/portrait-dreamer/">
     <div align="center">
-        <img src="https://img.aozaki.cc/20190214_0001.jpg">
+        <img src="https://img.aozaki.cc/portfolio/20190214_0001.jpg">
     </div>
 </a>
 
