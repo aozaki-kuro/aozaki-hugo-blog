@@ -6,7 +6,7 @@ slug: 'migrating blog to cloudflare workers'
 categories: ['Tech']
 featuredImage: '0002.jpg'
 featuredImagePreview: '0002.jpg'
-images: ['/migrating-blog-to-cloudflare-workers/0002.jpg']
+images: ['/posts/migrating-blog-to-cloudflare-workers/0002.jpg']
 displayCopyright: true
 tags:
   - 折腾

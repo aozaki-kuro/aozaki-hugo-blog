@@ -6,13 +6,13 @@ date: 2020-08-04T18:00:08+08:00
 draft: false
 badge: false
 toc: false
-comment: false
+comment: true
 featuredImage: '/media/work.jpg'
 featuredImagePreview: '/media/work.jpg'
-images: ['/about/work.jpg']
+images: ['/posts/about/work.jpg']
 ---
 
-<!--more-->
+![work](/media/work.jpg)
 
 ## 关于我 / About Me
 
@@ -47,3 +47,7 @@ images: ['/about/work.jpg']
 https://img.shields.io/badge/Theme-DoIt-999999?style=flat-square&logo=Github
 
  -->
+
+## 留言板
+
+以下是留言板，欢迎留言。

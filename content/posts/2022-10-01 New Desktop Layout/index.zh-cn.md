@@ -1,12 +1,12 @@
 ---
 title: '桌面整理与大翻修'
 summary: '切换至 Macbook 主力后的桌面大翻修！小空间内努力收纳整理的结果。'
-slug: 'new desktop layout'
+slug: 'desk new layout'
 date: 2022-10-01
 draft: false
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/new-desktop-layout/0001.jpg']
+images: ['/posts/desk-new-layout/0001.jpg']
 categories: ['Life']
 tags:
   - 折腾

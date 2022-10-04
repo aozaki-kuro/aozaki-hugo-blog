@@ -9,7 +9,7 @@ tags:
 slug: 'why still blogging'
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/why-still-blogging/0001.jpg']
+images: ['/posts/why-still-blogging/0001.jpg']
 ---
 
 虽然说昨天就已经顺利建立了 Hexo + NexT 的博客，并且好不容易动手写完了久违的一篇博客，并且想写下一点点迷思。

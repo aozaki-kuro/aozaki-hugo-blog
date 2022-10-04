@@ -6,7 +6,7 @@ date: 2021-04-01T09:05:00+08:00
 draft: false
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/migrating-to-netlify/0001.jpg']
+images: ['/posts/migrating-to-netlify/0001.jpg']
 categories: ['Tech']
 tags:
   - 网络

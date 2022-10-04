@@ -6,7 +6,7 @@ date: 2021-08-20T17:05:00+08:00
 draft: false
 featuredImage: '0001.png'
 featuredImagePreview: '0001.png'
-images: ['/migrating-to-vercel/0001.png']
+images: ['/posts/migrating-to-vercel/0001.png']
 categories: ['Tech']
 tags:
   - 网络

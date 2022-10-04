@@ -9,7 +9,7 @@ categories: ['Reading']
 description: '天久鷹央の推理カルテ，医生写的推理小说'
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/ameku-takao-no-suiri-karute/0001.jpg']
+images: ['/posts/ameku-takao-no-suiri-karute/0001.jpg']
 tags:
   - 生活
   - 阅读

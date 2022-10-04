@@ -8,7 +8,7 @@ authorLink: 'https://aozaki.cc/'
 description: '当个器材党真开心'
 featuredImage: '0003.jpg'
 featuredImagePreview: '0003.jpg'
-images: ['/leica-m10-r/0003.jpg']
+images: ['/posts/leica-m10-r/0003.jpg']
 toc: false
 categories: ['Life']
 tags: ['生活', '摄影']

@@ -6,7 +6,7 @@ date: 2021-12-23T17:05:00+08:00
 draft: false
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/plausible-analytics-self-hosting/0001.jpg']
+images: ['/posts/plausible-analytics-self-hosting/0001.jpg']
 categories: ['Tech']
 tags:
   - 网络

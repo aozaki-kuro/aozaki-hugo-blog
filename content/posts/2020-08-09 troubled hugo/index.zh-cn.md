@@ -9,7 +9,7 @@ tags:
 slug: 'Hugo Deployment Debugging'
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/hugo-deployment-debugging/0001.jpg']
+images: ['/posts/hugo-deployment-debugging/0001.jpg']
 displayCopyright: true
 toc: true
 ---
