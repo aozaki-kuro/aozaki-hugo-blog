@@ -3,3 +3,5 @@
 .github
 .contentlayer
 /public/*.js
+node_modules
+/themes/*
