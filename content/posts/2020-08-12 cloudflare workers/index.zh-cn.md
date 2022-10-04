@@ -1,12 +1,12 @@
 ---
-title: "浅尝Cloudflare Workers部署静态博客"
+title: '浅尝Cloudflare Workers部署静态博客'
 date: 2020-08-12T11:05:50+08:00
 draft: false
-slug: "migrating blog to cloudflare workers"
-categories: ["Tech"]
-featuredImage: "0002.jpg"
-featuredImagePreview: "0002.jpg"
-images: ["/migrating-blog-to-cloudflare-workers/0002.jpg"]
+slug: 'migrating blog to cloudflare workers'
+categories: ['Tech']
+featuredImage: '0002.jpg'
+featuredImagePreview: '0002.jpg'
+images: ['/migrating-blog-to-cloudflare-workers/0002.jpg']
 displayCopyright: true
 tags:
   - 折腾
@@ -68,7 +68,7 @@ jobs:
 
 这个空 IP 可以是`192.0.2.1`以及类似的空 IP。
 
-![0001](0001.jpg "其实就这么简单，但是连官方文档都没写，大部分教程也没写")
+![0001](0001.jpg '其实就这么简单，但是连官方文档都没写，大部分教程也没写')
 
 ## 坑 3：不支持中文路径
 

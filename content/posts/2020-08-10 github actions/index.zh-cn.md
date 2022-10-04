@@ -1,16 +1,16 @@
 ---
-title: "利用Github Action自动化部署Hugo"
+title: '利用Github Action自动化部署Hugo'
 date: 2020-08-10T18:04:51+08:00
 draft: false
-categories: ["Tech"]
+categories: ['Tech']
 toc: true
 tags:
   - 折腾
   - 网络
-slug: "deploying hugo with github actions"
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/deploying-hugo-with-github-actions/0001.jpg"]
+slug: 'deploying hugo with github actions'
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/deploying-hugo-with-github-actions/0001.jpg']
 ---
 
 先前抱怨过 Hugo 本地编译再`git push`至远端的操作过于繁琐，今天发现可以通过 Github Action 实现对 Hugo 的自动化部署并实践成功，故记录折腾过程。

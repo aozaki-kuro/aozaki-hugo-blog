@@ -1,12 +1,12 @@
 ---
 title: '桌面整理与大翻修'
 summary: '切换至 Macbook 主力后的桌面大翻修！小空间内努力收纳整理的结果。'
-slug: "new desktop layout"
+slug: 'new desktop layout'
 date: 2022-10-01
 draft: false
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/new-desktop-layout/0001.jpg"]
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/new-desktop-layout/0001.jpg']
 tags:
   - 折腾
   - 桌面
@@ -76,7 +76,7 @@ tags:
 
 ### Version 1.3
 
-![ver 1.3](https://img.aozaki.cc/20221001/0004.jpg)
+![ver 1.3](https://img.aozaki.cc/20221001/0004.jpg 'ver 1.3')
 
 书接 1.2 的时候发现的问题。信号线太粗以及弯折不了太大角度导致整个桌面再次重整。
 
@@ -92,11 +92,11 @@ tags:
 
 随后是因为显示器高度降低，中轴位置变化，而将 DAC 放在左侧，整个桌面又显得极其拥挤，甚至会将 DAC 放在路由器前，存在严重干扰机内信号的风险。我就把中轴和悬臂的方向换了一下，就是现在这样了。显示器下空了大量空间，正好可以放下一台 DAC。整个桌面也较为平衡。尤其扩展坞挪到桌面下，设备层叠带来的拥挤感和压迫感不复存在。
 
-![Genelec G1 with stand](https://img.aozaki.cc/20221001/0009.jpg)
+![Genelec G1 with stand](https://img.aozaki.cc/20221001/0009.jpg 'GENELEC G1')
 
 关于真力 G1 的支架选择，之前看过淘宝，有 100 来块出头的国产替用支架，但是实在是难看，并且只有黑色，与白色明显不搭，于是只能忍痛购买原厂单只高达 419 人民币的 Made in Germany 的支架…但，贵归贵，搭是真的搭，而且做工相当扎实，不晃动，对于异常共振的消除也做得很好，只能说贵还是有贵的理由。
 
-![The wall!](https://img.aozaki.cc/20221001/0010.jpg)
+![The wall!](https://img.aozaki.cc/20221001/0010.jpg '洞洞版收纳能力超群')
 
 这次能把桌面收拾到这么干净，还有一个原因就是把所有的零碎物件都扔进了抽屉以及上了墙。
 
@@ -106,7 +106,7 @@ Switch 当时想过是不是要整个底座一起放上去，但发现占地空�
 
 ### Version 1.4
 
-![ver 1.4](https://img.aozaki.cc/20221001/0001.jpg)
+![ver 1.4](https://img.aozaki.cc/20221001/0001.jpg 'ver 1.4')
 
 现阶段的最终版本。
 
@@ -118,9 +118,9 @@ Switch 当时想过是不是要整个底座一起放上去，但发现占地空�
 
 ## 对比与总结
 
-![ver 0.1](https://img.aozaki.cc/20221001/0008.jpg)
+![ver 0.1](https://img.aozaki.cc/20221001/0008.jpg '封城期间堆得乱七八糟的 ver 0.1')
 
-![ver 1.4](https://img.aozaki.cc/20221001/0001.jpg)
+![ver 1.4](https://img.aozaki.cc/20221001/0001.jpg '整理后的 ver 1.4')
 
 我终于从之前的聊天记录里翻出来了一张 ver 0.1 的图，现在回想一下我怎么忍耐下来这么乱的一个桌面的，简直不可思议（当然封城客观上也阻止了我进行任何形式的折腾）。顺带感叹一下只要肯利用好桌底空间和墙面，桌面上真的可以做到干干净净…
 

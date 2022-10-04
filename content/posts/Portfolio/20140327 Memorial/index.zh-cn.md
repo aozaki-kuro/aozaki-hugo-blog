@@ -1,12 +1,12 @@
 ---
-title: "The Portrait Series: Memorial"
-slug: "portrait memorial"
+title: 'The Portrait Series: Memorial'
+slug: 'portrait memorial'
 date: 2014-03-27T08:07:00+08:00
 draft: false
-license: "Copyright © 2014 Aozaki, All rights reserved."
+license: 'Copyright © 2014 Aozaki, All rights reserved.'
 toc: false
 comment: false
-categories: ["Portfolio"]
+categories: ['Portfolio']
 tags:
   - 摄影
   - 人像

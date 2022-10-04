@@ -1,15 +1,15 @@
 ---
-title: "Windows 10 透明效果失效"
-slug: "fix windows 10 transparency"
+title: 'Windows 10 透明效果失效'
+slug: 'fix windows 10 transparency'
 date: 2020-08-22T20:31:41+08:00
 draft: false
 displayCopyright: false
 toc: false
-categories: ["Tech"]
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/fix-windows-10-transparency/0001.jpg"]
-description: "Windows Bug 10"
+categories: ['Tech']
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/fix-windows-10-transparency/0001.jpg']
+description: 'Windows Bug 10'
 tags:
   - 技术
 ---
@@ -34,7 +34,7 @@ HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize
 
 此处可再关机开机一次，确保设置生效。
 
-![Windows Terminal](0001.jpg "配置了半天的Windows Terminal终于不是丑哭了的全实心界面了")
+![Windows Terminal](0001.jpg '配置了半天的Windows Terminal终于不是丑哭了的全实心界面了')
 
 ---
 

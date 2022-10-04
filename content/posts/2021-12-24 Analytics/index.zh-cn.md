@@ -1,13 +1,13 @@
 ---
-title: "摆脱 Google Analytics：自行部署 Plausible Analytics"
-description: "反正没几个人看。"
-slug: "plausible analytics and umami"
+title: '摆脱 Google Analytics：自行部署 Plausible Analytics'
+description: '反正没几个人看。'
+slug: 'plausible analytics and umami'
 date: 2021-12-23T17:05:00+08:00
 draft: false
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/plausible-analytics-self-hosting/0001.jpg"]
-categories: ["Tech"]
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/plausible-analytics-self-hosting/0001.jpg']
+categories: ['Tech']
 tags:
   - 网络
   - 折腾

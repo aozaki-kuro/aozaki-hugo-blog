@@ -1,13 +1,13 @@
 ---
-title: "Photograpy Portfolio"
-slug: "portfolio-photo"
+title: 'Photograpy Portfolio'
+slug: 'portfolio-photo'
 date: 2020-08-03T18:00:08+08:00
 draft: false
 comment: false
 toc: true
-description: "Photograpy Portfolio of Aozaki."
-license: "Copyright © 2014-2021 Aozaki, All rights reserved."
-categories: ["Portfolio Index"]
+description: 'Photograpy Portfolio of Aozaki.'
+license: 'Copyright © 2014-2021 Aozaki, All rights reserved.'
+categories: ['Portfolio Index']
 ---
 
 <!--more-->

@@ -1,17 +1,17 @@
 ---
-title: "本地图片库的整理思路"
+title: '本地图片库的整理思路'
 date: 2020-08-11T12:21:47+08:00
 draft: false
-categories: ["Tech"]
-featuredImage: "0004.jpg"
-featuredImagePreview: "0004.jpg"
-images: ["/arranging-local-pictures/0004.jpg"]
+categories: ['Tech']
+featuredImage: '0004.jpg'
+featuredImagePreview: '0004.jpg'
+images: ['/arranging-local-pictures/0004.jpg']
 tags:
   - 折腾
   - 强迫症
   - 整理癖
   - 仓鼠症
-slug: "arranging local pictures"
+slug: 'arranging local pictures'
 displayCopyright: true
 toc: true
 ---
@@ -27,11 +27,11 @@ toc: true
 
 感兴趣的读者可以 **[点击这里](https://pockies.github.io/2020/01/09/av-data-capture-jellyfin-kodi/)** 学习如何整理。
 
-![片库](0002.jpg "嗯，很整齐，很美观，满足强迫症和整理癖的需求")
+![片库](0002.jpg '嗯，很整齐，很美观，满足强迫症和整理癖的需求')
 
 然而当我点开放置 Pixiv Downloader 批量拖下来的图片库时…我就感到不适。
 
-![node_modules](0001.jpg "这就是我的感受")
+![node_modules](0001.jpg '这就是我的感受')
 
 由于整个图库文件夹实在过于积重难返，加上出现了用 Resilo Sync 在多台电脑之间选择性同步的需求，遂下定决心将图库文件夹进行一次重构。
 

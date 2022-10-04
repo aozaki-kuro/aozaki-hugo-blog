@@ -1,17 +1,17 @@
 ---
-title: "迁移到Cloudflare Pages，再见Github Pages"
-description: "我就感觉到快。"
+title: '迁移到Cloudflare Pages，再见Github Pages'
+description: '我就感觉到快。'
 date: 2021-03-19T13:51:51+08:00
 draft: false
-featuredImage: "0001.png"
-featuredImagePreview: "0001.png"
-images: ["/migrating-from-github-pages-to-cloudflare-pages/0001.png"]
-categories: ["Tech"]
+featuredImage: '0001.png'
+featuredImagePreview: '0001.png'
+images: ['/migrating-from-github-pages-to-cloudflare-pages/0001.png']
+categories: ['Tech']
 tags:
   - 折腾
   - 网络
   - Cloudflare
-slug: "migrating from github pages to cloudflare pages"
+slug: 'migrating from github pages to cloudflare pages'
 ---
 
 ## 曾经的折腾
@@ -48,7 +48,7 @@ slug: "migrating from github pages to cloudflare pages"
 
 从账户 Dashboard 的右侧找到 Pages，点击进入。~~中文面板这里是“网页”，属实非常难找。~~
 
-![选择repo](0002.jpg "在这一界面选择对应的repo")
+![选择repo](0002.jpg '在这一界面选择对应的repo')
 
 随后点击开始设置，随后在`构建设置`中，找到`框架预设`，选`Hugo`。其他选项都不用动。
 
@@ -58,7 +58,7 @@ slug: "migrating from github pages to cloudflare pages"
 
 点击提交后便会开始自动构建，这一过程我们都不用管。
 
-![完成](0003.jpg "提交完成后便已经可以通过子域访问")
+![完成](0003.jpg '提交完成后便已经可以通过子域访问')
 
 ### 绑定域名
 

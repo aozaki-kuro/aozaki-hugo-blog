@@ -1,15 +1,15 @@
 ---
-title: "The Portrait Series: Funernal"
-slug: "portrait funernal"
+title: 'The Portrait Series: Funernal'
+slug: 'portrait funernal'
 date: 2015-08-09T09:07:00+08:00
 draft: false
-license: "Copyright © 2015 Aozaki, All rights reserved."
+license: 'Copyright © 2015 Aozaki, All rights reserved.'
 toc: false
 comment: false
-categories: ["Portfolio"]
-tags: 
-- 摄影
-- 人像
+categories: ['Portfolio']
+tags:
+  - 摄影
+  - 人像
 ---
 
 <br>

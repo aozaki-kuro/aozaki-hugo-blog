@@ -1,15 +1,15 @@
 ---
-title: "The Portrait Series: Origami"
-slug: "portrait origami"
+title: 'The Portrait Series: Origami'
+slug: 'portrait origami'
 date: 2016-05-05T08:07:00+08:00
 draft: false
-license: "Copyright © 2016 Aozaki, All rights reserved."
+license: 'Copyright © 2016 Aozaki, All rights reserved.'
 toc: false
 comment: false
-categories: ["Portfolio"]
-tags: 
-- 摄影
-- 人像
+categories: ['Portfolio']
+tags:
+  - 摄影
+  - 人像
 ---
 
 {{< image src="https://img.aozaki.cc/20160505_0001.jpg" >}}

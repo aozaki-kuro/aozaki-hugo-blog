@@ -1,13 +1,13 @@
 ---
-title: "如何通过乐天Pay在Booth上购买锁区内容"
-description: "写给Booth的糟糕购买体验。"
-slug: "booth and rakuten pay"
+title: '如何通过乐天Pay在Booth上购买锁区内容'
+description: '写给Booth的糟糕购买体验。'
+slug: 'booth and rakuten pay'
 date: 2021-03-20T09:25:00+08:00
 draft: false
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/booth-and-rakuten-pay/0001.jpg"]
-categories: ["Tech"]
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/booth-and-rakuten-pay/0001.jpg']
+categories: ['Tech']
 tags:
   - 折腾
   - 烧钱
@@ -46,9 +46,9 @@ BOOTH 上的购买体验其实相当之差，想改个收货地址居然要看�
 
 ### 选择支付方式
 
-![购买界面](0002.jpg "到这里并没什么不同，之后问题太多了")
+![购买界面](0002.jpg '到这里并没什么不同，之后问题太多了')
 
-![选择支付方式](0003.jpg "问题来了，Paypal不能用")
+![选择支付方式](0003.jpg '问题来了，Paypal不能用')
 
 作为海外用户最方便快捷的 Paypal 在这里不能使用。查看原因，发现根据[公告内容](https://booth.pixiv.help/hc/ja/articles/900003444086)，R18 指定的商品是不可以通过 Paypal 购买的。这一问题其实也出现在 skeb 上，当然这是后话，下次再说。
 
@@ -66,7 +66,7 @@ BOOTH 上的购买体验其实相当之差，想改个收货地址居然要看�
 
 #### 乐天账户绑定信用卡
 
-![绑卡界面](0004.jpg "绑卡界面，全日文")
+![绑卡界面](0004.jpg '绑卡界面，全日文')
 
 | 日文           | 中文                                              |
 | -------------- | ------------------------------------------------- |
@@ -85,7 +85,7 @@ BOOTH 上的购买体验其实相当之差，想改个收货地址居然要看�
 
 {{< /admonition >}}
 
-![确认界面](0005.jpg "确认界面")
+![确认界面](0005.jpg '确认界面')
 
 然后输入密码，一路确认下去。
 
@@ -95,11 +95,11 @@ BOOTH 上的购买体验其实相当之差，想改个收货地址居然要看�
 
 #### 回到 BOOTH 并进行支付
 
-![支付界面变了](0006.jpg "支付界面变了")
+![支付界面变了](0006.jpg '支付界面变了')
 
 点击后便进入订单确认界面，这里非常想吐槽的是居然最长要花**1 小时**。
 
-![长达1小时的等待](0007.jpg "长达1小时的等待")
+![长达1小时的等待](0007.jpg '长达1小时的等待')
 
 ### 漫长的等待
 

@@ -1,15 +1,15 @@
 ---
-title: "《对马岛之鬼》白金后简评"
+title: '《对马岛之鬼》白金后简评'
 date: 2020-08-04T20:51:02+08:00
 toc: false
-categories: ["Life"]
+categories: ['Life']
 tags:
   - PS4
   - 游戏
-slug: "after playing ghost of tsushima"
-featuredImage: "0004.jpg"
-featuredImagePreview: "0004.jpg"
-images: ["/after-playing-ghost-of-tsushima/0004.jpg"]
+slug: 'after playing ghost of tsushima'
+featuredImage: '0004.jpg'
+featuredImagePreview: '0004.jpg'
+images: ['/after-playing-ghost-of-tsushima/0004.jpg']
 ---
 
 终于是花了两三周时间把 ~~对蒙忍~~ 对马岛之鬼白金了。总体非常满意游戏的质量，而且本作可谓是 PS4 末期的诚意之作，觉得还是有必要稍稍简评。

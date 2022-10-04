@@ -1,15 +1,15 @@
 ---
-title: "Hugo部署与踩坑记"
+title: 'Hugo部署与踩坑记'
 date: 2020-08-09T11:29:51+08:00
 draft: false
-categories: ["Tech"]
+categories: ['Tech']
 tags:
   - 折腾
   - 网络
-slug: "Hugo Deployment Debugging"
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/hugo-deployment-debugging/0001.jpg"]
+slug: 'Hugo Deployment Debugging'
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/hugo-deployment-debugging/0001.jpg']
 displayCopyright: true
 toc: true
 ---

@@ -1,15 +1,15 @@
 ---
-title: "The Portrait Series: Wander"
-slug: "portrait wander"
+title: 'The Portrait Series: Wander'
+slug: 'portrait wander'
 date: 2017-07-20T14:07:00+08:00
 draft: false
-license: "Copyright © 2017 Aozaki, All rights reserved."
+license: 'Copyright © 2017 Aozaki, All rights reserved.'
 toc: false
 comment: false
-categories: ["Portfolio"]
-tags: 
-- 摄影
-- 人像
+categories: ['Portfolio']
+tags:
+  - 摄影
+  - 人像
 ---
 
 <br>

@@ -1,13 +1,13 @@
 ---
-title: "该来的还是来了：迁移到Vercel"
-description: "笑了，该来的还是来了。"
-slug: "migrating to vercel"
+title: '该来的还是来了：迁移到Vercel'
+description: '笑了，该来的还是来了。'
+slug: 'migrating to vercel'
 date: 2021-08-20T17:05:00+08:00
 draft: false
-featuredImage: "0001.png"
-featuredImagePreview: "0001.png"
-images: ["/migrating-to-vercel/0001.png"]
-categories: ["Tech"]
+featuredImage: '0001.png'
+featuredImagePreview: '0001.png'
+images: ['/migrating-to-vercel/0001.png']
+categories: ['Tech']
 tags:
   - 网络
   - 折腾

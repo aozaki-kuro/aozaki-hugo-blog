@@ -1,15 +1,15 @@
 ---
-title: "The Portrait Series: Dreamer"
-slug: "portrait dreamer"
+title: 'The Portrait Series: Dreamer'
+slug: 'portrait dreamer'
 date: 2019-02-14T10:07:00+08:00
 draft: false
-license: "Copyright © 2019 Aozaki, All rights reserved."
+license: 'Copyright © 2019 Aozaki, All rights reserved.'
 toc: false
 comment: false
-categories: ["Portfolio"]
-tags: 
-- 摄影
-- 人像
+categories: ['Portfolio']
+tags:
+  - 摄影
+  - 人像
 ---
 
 <br>

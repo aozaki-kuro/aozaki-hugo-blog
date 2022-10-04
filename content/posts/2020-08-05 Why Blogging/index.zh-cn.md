@@ -1,15 +1,15 @@
 ---
-title: "新博客的折腾与迷思"
+title: '新博客的折腾与迷思'
 date: 2020-08-05T15:55:19+08:00
 draft: false
-categories: ["Life"]
+categories: ['Life']
 toc: false
 tags:
   - 随笔
-slug: "why still blogging"
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/why-still-blogging/0001.jpg"]
+slug: 'why still blogging'
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/why-still-blogging/0001.jpg']
 ---
 
 虽然说昨天就已经顺利建立了 Hexo + NexT 的博客，并且好不容易动手写完了久违的一篇博客，并且想写下一点点迷思。

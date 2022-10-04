@@ -1,16 +1,15 @@
-
 ---
-title: "The Portrait Series: Unbalance"
-slug: "portrait unbalance"
+title: 'The Portrait Series: Unbalance'
+slug: 'portrait unbalance'
 date: 2016-07-15T10:07:00+08:00
 draft: false
-license: "Copyright © 2016 Aozaki, All rights reserved."
+license: 'Copyright © 2016 Aozaki, All rights reserved.'
 toc: false
 comment: false
-categories: ["Portfolio"]
-tags: 
-- 摄影
-- 人像
+categories: ['Portfolio']
+tags:
+  - 摄影
+  - 人像
 ---
 
 <br>

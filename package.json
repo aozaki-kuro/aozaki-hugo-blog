@@ -1,0 +1,14 @@
+{
+  "name": "aozaki-next-js",
+  "version": "1.2.0",
+  "private": true,
+  "scripts": {
+    "start": "hugo server -D",
+    "build": "hugo",
+    "clean": "rm -rf ./public",
+    "format": "prettier './**/*.+(js|jsx|ts|tsx|json|css|md|mdx)' --write"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}

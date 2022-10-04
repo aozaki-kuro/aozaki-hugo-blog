@@ -1,15 +1,15 @@
 ---
-title: "读到一套挺有意思的医疗推理小说"
-slug: "ameku takao no suiri karute"
+title: '读到一套挺有意思的医疗推理小说'
+slug: 'ameku takao no suiri karute'
 date: 2020-10-10T11:07:00+08:00
 draft: false
 displayCopyright: false
 toc: false
-categories: ["Reading"]
-description: "天久鷹央の推理カルテ，医生写的推理小说"
-featuredImage: "0001.jpg"
-featuredImagePreview: "0001.jpg"
-images: ["/ameku-takao-no-suiri-karute/0001.jpg"]
+categories: ['Reading']
+description: '天久鷹央の推理カルテ，医生写的推理小说'
+featuredImage: '0001.jpg'
+featuredImagePreview: '0001.jpg'
+images: ['/ameku-takao-no-suiri-karute/0001.jpg']
 tags:
   - 生活
   - 阅读
