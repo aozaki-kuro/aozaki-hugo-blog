@@ -1,4 +1,4 @@
-baseURL = "https://aozaki.cc"
+baseURL = "https://blog.aozaki.cc"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-CN"
@@ -11,7 +11,7 @@ themesDir = "themes"
 
 # website title
 # 网站标题
-title = "Aozaki's Note"
+title = "Aozaki's Blog"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -277,10 +277,10 @@ ignoreErrors = ["error-remote-getjson"]
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = ""
+      logo = "/logo.png"
       # title name
       # 标题名称
-      name = "Aozaki"
+      name = "Aozaki's Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
