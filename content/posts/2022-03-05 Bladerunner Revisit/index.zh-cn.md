@@ -14,7 +14,11 @@ tags:
   - 思考
 ---
 
-**注意：全篇剧透。**
+{{< admonition warning >}}
+
+全篇剧透
+
+{{< /admonition >}}
 
 ## 起因
 

@@ -154,7 +154,7 @@ git push
 
 首先部署在 Windows 10 下，未使用 WSL 时，遇到了本地`hugo server -D`预览正常，`git push`后页面出错的问题。排查几次后发现报错如下：
 
-```
+```txt
 Failed to find a valid digest in the 'integrity' attribute for resource 'xxxxxxx.css' with computed SHA-256 integrity. The resource has been blocked.
 ```
 

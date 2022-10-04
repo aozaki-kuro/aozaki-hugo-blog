@@ -24,7 +24,7 @@ tags:
 
 定位注册表至如下位置：
 
-```
+```txt
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize
 ```
 

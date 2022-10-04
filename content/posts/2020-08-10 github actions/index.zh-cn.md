@@ -38,12 +38,12 @@ cat ~/.ssh/id_ecdsa. # 获取私钥
 ```
 
 添加私钥的方法如下
-![](0004.jpg)
-![](0005.jpg)
+![4](0004.jpg)
+![5](0005.jpg)
 此处因我的私钥变量名定为`ACTIONS_DEPLOY_KEY`，故填写相应名称。
 
 在放置博客源文件的 repo 里，在 Actions 中建立 Workflow
-![](0006.jpg)
+![6](0006.jpg)
 
 我的 build.yml 文件如下
 
