@@ -2,6 +2,6 @@
 .next
 .github
 .contentlayer
-/public/*.js
+/public
 node_modules
 /themes/*
