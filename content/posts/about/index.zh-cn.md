@@ -10,8 +10,6 @@ featuredImagePreview: '/media/work.jpg'
 images: ['/about/work.jpg']
 ---
 
-![work](/media/work.jpg)
-
 ## 关于我 / About Me
 
 心脏内科执业医师，目前博士在读。硕士期间主攻心脏电生理与起搏方向。热爱音乐、摄影、游戏、旅行，以及折腾各类电子产品，当然最近还看 VTuber。想要写些什么，记录一下生活与折腾经历。
