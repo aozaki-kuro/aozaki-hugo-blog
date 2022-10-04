@@ -80,7 +80,7 @@ Cloudflare Workers 仅仅是部署就已经出现了这样那样的坑，官方�
 
 目前保留了指向 Cloudflare Workers 的链接，但是不再 CI 上去，可以参观一下：
 
-https://dev.aozaki.cc/
+[https://dev.aozaki.cc/](https://dev.aozaki.cc/)
 
 `Expire date: 2020-09-11`
 

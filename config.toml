@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "Aozaki's Note"
+        title = "Aozaki's Blog"
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -149,9 +149,9 @@ ignoreErrors = ["error-remote-getjson"]
           # 主页显示的网站标题 (支持 HTML 格式)
           title = "Aozaki's Note"
           # 主页显示的网站副标题
-          subtitle = ""
+          subtitle = "Watch, read, write. It forges my soul."
           # 是否为副标题显示打字机动画
-          typeit = false
+          typeit = true
           # 是否显示社交账号
           social = true
           # 免责声明 (支持 HTML 格式)
@@ -238,7 +238,7 @@ ignoreErrors = ["error-remote-getjson"]
 [params]
   # website title
   # 网站标题
-  title = "Aozaki's Note"
+  title = "Aozaki's Blog"
   # DoIt theme version
   # DoIt 主题版本
   version = "0.2.X"
@@ -256,7 +256,7 @@ ignoreErrors = ["error-remote-getjson"]
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/media/logo.jpg"]
+  images = ["/twitter_card.jpg"]
   # enable PWA
   # 开启 PWA 支持
   enablePWA = false
@@ -277,7 +277,7 @@ ignoreErrors = ["error-remote-getjson"]
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "/logo.png"
+      logo = ""
       # title name
       # 标题名称
       name = "Aozaki's Blog"
@@ -357,7 +357,7 @@ ignoreErrors = ["error-remote-getjson"]
     twemoji = false
     # whether to enable lightgallery
     # 是否使用 lightgallery
-    lightgallery = false
+    lightgallery = true
     # whether to enable the ruby extended syntax
     # 是否使用 ruby 扩展语法
     ruby = true
@@ -470,7 +470,7 @@ ignoreErrors = ["error-remote-getjson"]
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = false
+      Weibo = true
       Renren = false
       Myspace = false
       Blogger = false
@@ -624,7 +624,7 @@ ignoreErrors = ["error-remote-getjson"]
     [params.page.seo]
       # image URL
       # 图片 URL
-      images = ["https://aozaki.cc/media/logo.jpg"]
+      images = ["https://blog.aozaki.cc/media/logo.jpg"]
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
@@ -692,8 +692,8 @@ ignoreErrors = ["error-remote-getjson"]
       data_domains = ""
     # Plausible Analytics
     [params.analytics.plausible]
-      data_domain = "aozaki.cc"
-      src = "https://beacon.suisei.cc/app.js"
+      data_domain = "blog.aozaki.cc"
+      src = "https://beacon.aozaki.cc/app.js"
 
   # Cookie consent config
   # Cookie 许可配置
@@ -783,7 +783,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Permalinks 配置 (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":slug"
+  posts = "posts/:slug"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
 # 隐私信息配置 (https://gohugo.io/about/hugo-and-gdpr/)

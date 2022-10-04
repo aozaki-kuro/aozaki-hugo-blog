@@ -1,8 +1,10 @@
 {
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "*": ["../themes/DoIt/assets/*"]
-    }
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../themes/DoIt/assets/*"
+   ]
   }
+ }
 }

@@ -7,6 +7,7 @@ draft: false
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
 images: ['/new-desktop-layout/0001.jpg']
+categories: ['Life']
 tags:
   - 折腾
   - 桌面
@@ -48,7 +49,7 @@ tags:
 
 ### Version 1.1
 
-![ver 1.1](https://img.aozaki.cc/20221001/0003.jpg)
+![ver 1.1](https://img.aozaki.cc/20221001/0003.jpg "下定决心收拾后的 ver 1.1")
 
 这是刚整理完时的 1.1 版本。当时还没有感知到音长时间佩戴耳机给脖子带来的不适，于是桌面上没有保留音响相关的设备。
 
