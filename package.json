@@ -6,9 +6,11 @@
     "start": "hugo server -D",
     "build": "hugo",
     "clean": "rm -rf ./public",
+    "algolia": "atomic-algolia",
     "format": "prettier './**/*.+(js|jsx|ts|tsx|json|css|md|mdx)' --write"
   },
   "dependencies": {
+    "atomic-algolia": "^0.3.19",
     "prettier": "^2.7.1"
   }
 }
