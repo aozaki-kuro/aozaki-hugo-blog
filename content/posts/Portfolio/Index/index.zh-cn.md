@@ -12,8 +12,8 @@ categories: ['Portfolio Index']
 
 <br>
 
-{{< showcase title="Photograpy Portfolio" summary="The photo collection taken by Aozaki." image="photo.jpg" link="/portfolio-photo/" column="1" >}}
+{{< showcase title="Photograpy Portfolio" summary="The photo collection taken by Aozaki." image="photo.jpg" link="/posts/portfolio-photo/" column="1" >}}
 
-{{< showcase title="Art Commission Collection" summary="The commissioned art collection of Aozaki." image="commission.jpg" link="/art-comission-collection/" column="1" >}}
+{{< showcase title="Art Commission Collection" summary="The commissioned art collection of Aozaki." image="commission.jpg" link="/posts/art-comission-collection/" column="1" >}}
 
 <br>

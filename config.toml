@@ -123,7 +123,7 @@ ignoreErrors = ["error-remote-getjson"]
         [languages.zh-cn.params.search.algolia]
           index = "aozaki-blog"
           appID = "C2LUBP92XW"
-          searchKey = "b68f09a37c09a125a2c3e42e0fcc9351"
+          searchKey = "578a95cdb054e982d23a60d1afb057ea"
         [languages.zh-cn.params.search.fuse]
           # https://fusejs.io/api/options.html
           isCaseSensitive = false
