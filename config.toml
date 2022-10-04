@@ -145,9 +145,9 @@ ignoreErrors = ["error-remote-getjson"]
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "media/logo.jpg"
+          avatarURL = ""
           # 主页显示的网站标题 (支持 HTML 格式)
-          title = "Aozaki's Note"
+          title = "<img src='media/logo_light.svg' />"
           # 主页显示的网站副标题
           subtitle = "Watch, read, write. It forges my soul."
           # 是否为副标题显示打字机动画
