@@ -6,7 +6,7 @@ date: 2021-03-20T09:25:00+08:00
 draft: false
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/posts/booth-and-rakuten-pay/0001.jpg']
+images: ['/booth-and-rakuten-pay/0001.jpg']
 categories: ['Tech']
 tags:
   - 折腾

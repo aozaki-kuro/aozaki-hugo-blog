@@ -6,7 +6,7 @@ date: 2022-10-01
 draft: false
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/posts/desk-new-layout/0001.jpg']
+images: ['/desk-new-layout/0001.jpg']
 categories: ['Life']
 tags:
   - 折腾

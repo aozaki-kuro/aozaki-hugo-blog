@@ -9,7 +9,7 @@ lightgallery: false
 description: 'Record of the art commissioned by Aozaki. DO NOT REPOST.'
 license: 'DO NOT REPOST'
 featuredImagePreview: '0001.jpg'
-images: ['/posts/art-comission-collection/0001.jpg']
+images: ['/art-comission-collection/0001.jpg']
 categories: ['Portfolio Index']
 ---
 

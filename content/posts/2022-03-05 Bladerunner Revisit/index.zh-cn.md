@@ -6,7 +6,7 @@ draft: false
 description: '想来也是可怕，人类自己才是最易失去人性的。注意：全篇剧透。'
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/posts/new-desktop-layout/0001.jpg']
+images: ['/new-desktop-layout/0001.jpg']
 categories: ['Movie']
 tags:
   - 观影

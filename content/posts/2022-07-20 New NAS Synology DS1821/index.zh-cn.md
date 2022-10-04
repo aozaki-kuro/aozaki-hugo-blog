@@ -7,7 +7,7 @@ description: '能花钱解决的问题就别折腾自己了。'
 tags: ['折腾']
 featuredImage: '0001.png'
 featuredImagePreview: '0001.png'
-images: ['/posts/new-nas-synology-ds1821/0001.png']
+images: ['/new-nas-synology-ds1821/0001.png']
 categories: ['Tech']
 ---
 

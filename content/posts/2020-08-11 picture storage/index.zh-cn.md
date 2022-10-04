@@ -5,7 +5,7 @@ draft: false
 categories: ['Tech']
 featuredImage: '0004.jpg'
 featuredImagePreview: '0004.jpg'
-images: ['/posts/arranging-local-pictures/0004.jpg']
+images: ['/arranging-local-pictures/0004.jpg']
 tags:
   - 折腾
   - 强迫症

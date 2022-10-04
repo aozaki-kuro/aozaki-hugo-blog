@@ -7,7 +7,7 @@ draft: false
 layout: single
 featuredImage: '/media/work.jpg'
 featuredImagePreview: '/media/work.jpg'
-images: ['/posts/about/work.jpg']
+images: ['/about/work.jpg']
 ---
 
 ![work](/media/work.jpg)

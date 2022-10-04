@@ -10,7 +10,7 @@ tags:
 slug: 'deploying hugo with github actions'
 featuredImage: '0001.jpg'
 featuredImagePreview: '0001.jpg'
-images: ['/posts/deploying-hugo-with-github-actions/0001.jpg']
+images: ['/deploying-hugo-with-github-actions/0001.jpg']
 ---
 
 先前抱怨过 Hugo 本地编译再`git push`至远端的操作过于繁琐，今天发现可以通过 Github Action 实现对 Hugo 的自动化部署并实践成功，故记录折腾过程。
