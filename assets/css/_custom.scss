@@ -4,55 +4,68 @@
 // ==============================
 
 .twitter-tweet {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-left: auto;
-    margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .single {
-    .content {
-        figure {
-            margin: 0rem;
-        }
+  .content {
+    figure {
+      margin: 0rem;
     }
+  }
 }
 
 .page {
-    width: 60%;
-    max-width: 800px;
+  width: 60%;
+  max-width: 800px;
 }
 
 #header-desktop {
-    [theme=light] & {
-        background: rgba(245, 245, 245, .92);
-	    -webkit-backdrop-filter: blur(12px);
-	    backdrop-filter: blur(12px);
-      }
-    
-    [theme=white] & {
-        background: rgba(245, 245, 245, .92);
-	    -webkit-backdrop-filter: blur(12px);
-	    backdrop-filter: blur(12px);
-      }
+  [theme='light'] & {
+    background: rgba(245, 245, 245, 0.92);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+  }
 
-    [theme=dark] & {
-        background: rgba(33, 33, 35, .92);
-	    -webkit-backdrop-filter: blur(12px);
-	    backdrop-filter: blur(12px);
-      }
-    
-    [theme=black] & {
-        background: rgba(0, 0, 0, .85);
-	    -webkit-backdrop-filter: blur(12px);
-	    backdrop-filter: blur(12px);
-      }
+  [theme='white'] & {
+    background: rgba(245, 245, 245, 0.92);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+  }
+
+  [theme='dark'] & {
+    background: rgba(33, 33, 35, 0.92);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+  }
+
+  [theme='black'] & {
+    background: rgba(0, 0, 0, 0.85);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+  }
 }
 
 .search {
-    input {
-        [theme=dark] & {
-            background-color: rgba(33, 33, 35, .92);
-          }
+  input {
+    [theme='dark'] & {
+      background-color: rgba(33, 33, 35, 0.92);
     }
+  }
+}
+
+.search .search-button {
+  top: -2pt;
+  bottom: 0pt;
+}
+
+#header-desktop {
+  line-height: unset;
+}
+
+#header-mobile {
+    line-height: unset;
 }
