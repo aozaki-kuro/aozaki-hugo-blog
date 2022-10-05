@@ -3,6 +3,9 @@
 // 自定义样式
 // ==============================
 
+@import "navbar.scss";
+@import "search.scss";
+
 .twitter-tweet {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -18,57 +21,11 @@
   }
 }
 
+/**
+*   限制页面宽度
+*/
+
 .page {
   width: 60%;
   max-width: 800px;
-}
-
-#header-desktop {
-  [theme='light'] & {
-    background-color: hsla(0, 0%, 100%, 0.65);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
-    border-bottom: 1px solid hsla(0, 0%, 0%, 0.1);
-  }
-
-  [theme='dark'] & {
-    background: rgba(33, 33, 35, 0.92);
-    -webkit-backdrop-filter: blur(12px);
-    backdrop-filter: blur(12px);
-  }
-
-  [theme='black'] & {
-    background: rgba(0, 0, 0, 0.85);
-    -webkit-backdrop-filter: blur(12px);
-    backdrop-filter: blur(12px);
-  }
-}
-
-.search {
-  input {
-    [theme='dark'] & {
-      background-color: rgba(33, 33, 35, 0.92);
-    }
-  }
-}
-
-.search .search-button {
-  top: 1pt;
-  bottom: 0pt;
-}
-
-.search .search-toggle {
-  left: .6rem;
-}
-
-.open .search .search-button, .search.mobile .search-button {
-  left: .4rem
-}
-
-#header-desktop {
-  line-height: 0rem;
-}
-
-#header-mobile {
-  line-height: 0rem;
 }

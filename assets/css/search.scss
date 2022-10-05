@@ -1,0 +1,30 @@
+/**
+*   去除搜索底框背景色
+*/
+
+.search .input {
+    [theme='light'] & {
+      background-color: unset;
+    }
+    [theme='dark'] & {
+      background-color: unset;
+    }
+  }
+  
+  /**
+  *   因使用 SVG 标题
+  *   重新对搜索标志进行定位
+  */
+  
+  .search .search-button {
+    top: 1pt;
+    bottom: 0pt;
+  }
+  
+  .search .search-toggle {
+    left: 0.6rem;
+  }
+  
+  open .search input {
+    visibility: hidden;
+  }
