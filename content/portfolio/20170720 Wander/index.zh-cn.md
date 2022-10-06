@@ -35,3 +35,11 @@ tags:
     Sony Cyber-shot RX1R II
     Zeiss 35mm f/2.0
 -->
+
+---
+
+<div align="center">:(fas fa-camera):  <i>For other photo works, please <a href="/portfolio/photo/">Click HERE</a></i></div>
+
+<br />
+<br />
+<br />

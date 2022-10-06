@@ -12,19 +12,22 @@ tags:
   - 人像
 ---
 
-{{< image src="https://img.aozaki.cc/20160505_0001.jpg" >}}
-{{< image src="https://img.aozaki.cc/20160505_0001.jpg" >}}
-
-<!--
 <br>
 <div align="center">
     <img src="https://img.aozaki.cc/portfolio/20160505_0001.jpg">
     <img src="https://img.aozaki.cc/portfolio/20160505_0002.jpg">
 </div>
--->
 
 <!--
     Hasselblad 203FE
     Hasselblad F 110m f/2.0 Planar
     Fujifilm Pro 400H
 -->
+
+---
+
+<div align="center">:(fas fa-camera):  <i>For other photo works, please <a href="/portfolio/photo/#origami">Click HERE</a></i></div>
+
+<br />
+<br />
+<br />

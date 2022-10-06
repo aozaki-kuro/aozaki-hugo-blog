@@ -1,6 +1,6 @@
 ---
 title: 'Art Commission Collection'
-slug: 'Art Comission Collection'
+slug: 'art comission'
 date: 2020-08-03T19:00:08+08:00
 draft: false
 comment: false
@@ -9,7 +9,7 @@ lightgallery: false
 description: 'Record of the art commissioned by Aozaki. DO NOT REPOST.'
 license: 'DO NOT REPOST'
 featuredImagePreview: '0001.jpg'
-images: ['/art-comission-collection/0001.jpg']
+images: ['/art-comission/0001.jpg']
 categories: ['Portfolio Index']
 ---
 

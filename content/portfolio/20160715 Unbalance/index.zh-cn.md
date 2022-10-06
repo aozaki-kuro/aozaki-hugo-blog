@@ -30,3 +30,11 @@ tags:
     Hasselblad F 110m f/2.0 Planar
     Fujifilm Pro 400H
 -->
+
+---
+
+<div align="center">:(fas fa-camera):  <i>For other photo works, please <a href="/portfolio/photo/">Click HERE</a></i></div>
+
+<br />
+<br />
+<br />

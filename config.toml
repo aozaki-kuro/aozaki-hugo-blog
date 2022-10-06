@@ -68,14 +68,23 @@ ignoreErrors = ["error-remote-getjson"]
         url = "/categories/"
         title = ""
         weight = 3
+        
       [[languages.zh-cn.menu.main]]
-        identifier = "Portfolio"
+        identifier = "portfolio"
         pre = ""
         post = ""
-        name = "Portfolio"
-        url = "/portfolio-index/"
+        name = "照片"
+        url = "/portfolio/photo/"
         title = ""
         weight = 4
+      [[languages.zh-cn.menu.main]]
+        identifier = "commission"
+        pre = ""
+        post = ""
+        name = "约稿"
+        url = "/portfolio/art-comission/"
+        title = ""
+        weight = 5
       [[languages.zh-cn.menu.main]]
         identifier = "about"
         pre = ""
@@ -83,7 +92,7 @@ ignoreErrors = ["error-remote-getjson"]
         name = "关于"
         url = "/about/"
         title = ""
-        weight = 5
+        weight = 6
     [languages.zh-cn.params]
       # 网站描述
       description = "Aozaki的个人博客，偶尔写点东西。 / Aozaki's personal blog, may write something from time to time."
@@ -633,7 +642,7 @@ ignoreErrors = ["error-remote-getjson"]
       # 出版者信息
       [params.page.seo.publisher]
         name = "Aozaki"
-        logoUrl = "/media/logo.jpg"
+        logoUrl = "/media/avatar.jpg"
 
   # TypeIt config
   # TypeIt 配置

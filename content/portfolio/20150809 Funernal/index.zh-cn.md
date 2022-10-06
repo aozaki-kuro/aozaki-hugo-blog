@@ -28,3 +28,11 @@ tags:
     Nikon AF-S NIKKOR 28mm f/1.8G
     Nikon AF-S NIKKOR 85mm f/1.8G
 -->
+
+---
+
+<div align="center">:(fas fa-camera):  <i>For other photo works, please <a href="/portfolio/photo/">Click HERE</a></i></div>
+
+<br />
+<br />
+<br />

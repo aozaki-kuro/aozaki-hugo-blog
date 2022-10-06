@@ -26,3 +26,11 @@ tags:
     Sony a7R III
     Sony Planar T* FE 50mm f/1.4 ZA
 -->
+
+---
+
+<div align="center">:(fas fa-camera):  <i>For other photo works, please <a href="/portfolio/photo/">Click HERE</a></i></div>
+
+<br />
+<br />
+<br />

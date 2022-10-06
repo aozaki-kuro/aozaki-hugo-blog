@@ -1,6 +1,6 @@
 ---
 title: 'Photograpy Portfolio'
-slug: 'portfolio-photo'
+slug: 'photo'
 date: 2020-08-03T18:00:08+08:00
 draft: false
 comment: false
@@ -16,7 +16,7 @@ categories: ['Portfolio Index']
 
 ### Memorial
 
-<a href="/portrait-memorial/">
+<a href="/portfolio/portrait-memorial/">
     <div align="center">
         <img src="/media/work.jpg">
     </div>
@@ -28,7 +28,7 @@ categories: ['Portfolio Index']
 
 ### Blossom
 
-<a href="/portrait-blossom/">
+<a href="/portfolio/portrait-blossom/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20150209_0001.jpg">
     </div>
@@ -36,7 +36,7 @@ categories: ['Portfolio Index']
 
 ### Regret
 
-<a href="/portrait-regret/">
+<a href="/portfolio/portrait-regret/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20150329_0005.jpg">
     </div>
@@ -44,7 +44,7 @@ categories: ['Portfolio Index']
 
 ### Funernal
 
-<a href="/portrait-funernal/">
+<a href="/portfolio/portrait-funernal/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20150809_0002.jpg">
     </div>
@@ -52,7 +52,7 @@ categories: ['Portfolio Index']
 
 ### Refusal
 
-<a href="/portrait-refusal/">
+<a href="/portfolio/portrait-refusal/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20150726_0003.jpg">
     </div>
@@ -60,7 +60,7 @@ categories: ['Portfolio Index']
 
 ### Awareness
 
-<a href="/portrait-awareness/">
+<a href="/portfolio/portrait-awareness/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20151125_0002.jpg">
     </div>
@@ -72,7 +72,7 @@ categories: ['Portfolio Index']
 
 ### Origami
 
-<a href="/portrait-origami/">
+<a href="/portfolio/portrait-origami/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20160505_0001.jpg">
     </div>
@@ -80,7 +80,7 @@ categories: ['Portfolio Index']
 
 ### Unbalance
 
-<a href="/portrait-unbalance/">
+<a href="/portfolio/portrait-unbalance/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20160715_0005.jpg">
     </div>
@@ -92,7 +92,7 @@ categories: ['Portfolio Index']
 
 ### Wander
 
-<a href="/portrait-wander/">
+<a href="/portfolio/portrait-wander/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20170720_0001.jpg">
     </div>
@@ -104,7 +104,7 @@ categories: ['Portfolio Index']
 
 ### Dreamer
 
-<a href="/portrait-dreamer/">
+<a href="/portfolio/portrait-dreamer/">
     <div align="center">
         <img src="https://img.aozaki.cc/portfolio/20190214_0001.jpg">
     </div>
@@ -112,4 +112,4 @@ categories: ['Portfolio Index']
 
 ---
 
-<div align="center"><i>For Art Commission Collection, Please <a href="/art-comission-collection/">Click</a></i></div>
+<div align="center"><i>For Art Commission Collection, please <a href="/portfolio/art-comission/">Click</a></i></div>
