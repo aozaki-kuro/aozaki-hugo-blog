@@ -1,0 +1,32 @@
+/**
+* Page 标题靠左
+*/
+
+.single .single-title {
+    text-align: left;
+  }
+  
+  /**
+  * 分类等页面标题靠左
+  */
+  
+  .archive .single-title {
+    text-align: left;
+    margin-top: 1.5rem;
+  }
+  
+  
+  /** 
+  * 去除无用动画
+  */
+  
+  h1.animate__animated {
+    -webkit-animation-duration: 0s !important;
+    animation-duration: 0s !important;
+  }
+  
+  h2.animate__animated {
+    -webkit-animation-duration: 0s !important;
+    animation-duration: 0s !important;
+  }
+  
