@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/static/media/logo_dark.svg" alt="aozaki's blog" width="50%" height="50%" />
+  <img src="/logo/logo_dark.svg" alt="aozaki's blog" width="50%" height="50%" />
 
 <b>- <em>Yet Another Blog of Aozaki</em> -</b>
 
