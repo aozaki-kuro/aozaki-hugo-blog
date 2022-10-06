@@ -100,7 +100,7 @@ Tailwind CSS 可能是我此次在迁移过程中发现的最大惊喜。相比�
 
 ## 现在如何了
 
-![Kübler-Ross 模型](https://img.aozaki.cc/20220228/0001.jpg "Kübler-Ross 模型")
+![Kübler-Ross 模型](https://img.aozaki.cc/20220228/0001.jpg 'Kübler-Ross 模型')
 
 首先概述我自己是怎么分析自己现在情况的。
 

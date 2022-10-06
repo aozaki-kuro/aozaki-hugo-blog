@@ -3,8 +3,8 @@
 // 自定义样式
 // ==============================
 
-@import "navbar.scss";
-@import "search.scss";
+@import 'navbar.scss';
+@import 'search.scss';
 
 .twitter-tweet {
   padding-top: 15px;
@@ -29,7 +29,6 @@
   width: 60%;
   max-width: 800px;
 }
-
 
 .single #comments {
   padding: 4rem 0 2rem;

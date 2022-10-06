@@ -57,7 +57,7 @@ libFiles:
   # object-fit-images@3.2.4 https://github.com/fregante/object-fit-images
   objectFitImagesJS: object-fit-images@3.2.4/dist/ofi.min.js
   # pjax@2.4.0 https://github.com/PaperStrike/Pjax
-  pjaxJS: "@sliphua/pjax@2.4.0/dist/pjax.min.js"
+  pjaxJS: '@sliphua/pjax@2.4.0/dist/pjax.min.js'
   # sharer.js@0.4.2 https://github.com/ellisonleao/sharer.js
   sharerJS: sharer.js@0.4.2/sharer.min.js
   # topbar@1.0.1 https://github.com/buunguyen/topbar
@@ -80,7 +80,7 @@ libFiles:
   vssueGitlabJS: vssue@1.4.8/dist/vssue.gitlab.min.js
   vssueCSS: vssue@1.4.8/dist/vssue.min.css
   # waline@2.3.2 https://github.com/walinejs/waline
-  walineJS: "@waline/client@2.3.2/dist/waline.js"
-  walineCSS: "@waline/client@2.3.2/dist/waline.css"
+  walineJS: '@waline/client@2.3.2/dist/waline.js'
+  walineCSS: '@waline/client@2.3.2/dist/waline.css'
   # tablesort@5.3.0 https://github.com/tristen/tablesort
-  tablesort: "tablesort@5.3.0/src/tablesort.min.js"
+  tablesort: 'tablesort@5.3.0/src/tablesort.min.js'
