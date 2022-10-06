@@ -4,25 +4,32 @@
 */
 
 #header-desktop {
+  /** 苹果官网的 backdrop-filter 配置 */
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+
   [theme='light'] & {
     background-color: hsla(0, 0%, 100%, 0.65);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
     border-bottom: 1px solid hsla(0, 0%, 0%, 0.1);
   }
 
   [theme='dark'] & {
     background: rgba(33, 33, 35, 0.75);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
   }
 
   [theme='black'] & {
     background: rgba(0, 0, 0, 0.65);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
     border-bottom: 1px solid hsla(0, 0%, 60%, 0.3);
   }
+
+  /** 修复 Safari 因 backdrop-filter 而产生的闪烁 */
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0);
+  -webkit-perspective: 1000;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  perspective: 1000;
 }
 
 /**
