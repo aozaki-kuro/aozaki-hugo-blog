@@ -5,6 +5,7 @@
 
 @import 'navbar.scss';
 @import 'search.scss';
+@import 'title.scss';
 
 .twitter-tweet {
   padding-top: 15px;
@@ -34,19 +35,10 @@
   padding: 4rem 0 2rem;
 }
 
-/**
-* Page 标题靠左
-*/
-
-.single .single-title {
-  text-align: left;
+.single .post-meta .post-meta-line {
+  padding-bottom: 0.2rem;
 }
 
-/**
-* 分类等页面标题靠左
-*/
-
-.archive .single-title {
-  text-align: left;
-  margin-top: 1.5rem;
+footer .footer-container {
+  padding-bottom: 1.5rem;
 }
