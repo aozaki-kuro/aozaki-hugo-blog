@@ -1,10 +1,10 @@
-/**
-*   Navbar 添加毛玻璃效果
-*   参照 Apple Store 配置
-*/
+// ==============================
+// Navbar 添加毛玻璃效果
+// 参照 Apple Store 配置
+// ==============================
 
 #header-desktop {
-  /** 苹果官网的 backdrop-filter 配置 */
+  // 苹果官网的 backdrop-filter 配置
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 
@@ -22,7 +22,7 @@
     border-bottom: 1px solid hsla(0, 0%, 60%, 0.3);
   }
 
-  /** 修复 Safari 因 backdrop-filter 而产生的闪烁 */
+  // 修复 Safari 因 backdrop-filter 而产生的闪烁
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateZ(0);
   -webkit-perspective: 1000;
@@ -31,10 +31,10 @@
   perspective: 1000;
 }
 
-/**
-  *   移动版 Navbar 更改配色但不添加毛玻璃
-  *   参照 Apple Store 配置
-  */
+// ==============================
+// 移动版 Navbar 更改配色但不添加毛玻璃
+// 参照 Apple Store 配置
+// ==============================
 
 #header-mobile {
   [theme='light'] & {
@@ -52,9 +52,9 @@
   }
 }
 
-/**
-  *   移动版 menu 匹配颜色设置
-  */
+// ==============================
+// 移动版 menu 匹配颜色设置
+// ==============================
 
 #header-mobile .header-container .menu {
   [theme='light'] & {
@@ -65,19 +65,19 @@
   }
 }
 
-/**
-* 修改 SVG 图标定位
-*/
+// ==============================
+// 修改 SVG 图标定位
+// ==============================
 
 .navbar-svg {
   padding-left: unset;
   margin-left: -0.4rem;
 }
 
-/**
-*   配合 SVG 标题
-*   去除 Navbar 行高
-*/
+// ==============================
+// 配合 SVG 标题
+// 去除 Navbar 行高
+// ==============================
 
 #header-desktop {
   line-height: 0rem;
