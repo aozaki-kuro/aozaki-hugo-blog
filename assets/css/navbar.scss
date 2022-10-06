@@ -15,7 +15,6 @@
 
   [theme='dark'] & {
     background: rgba(33, 33, 35, 0.75);
-    backdrop-filter: saturate(180%) blur(20px);
   }
 
   [theme='black'] & {
@@ -33,7 +32,7 @@
 }
 
 /**
-  *   移动版 Navbar 添加毛玻璃效果
+  *   移动版 Navbar 更改配色但不添加毛玻璃
   *   参照 Apple Store 配置
   */
 
@@ -49,6 +48,7 @@
 
   [theme='black'] & {
     background: rgba(0, 0, 0, 1);
+    border-bottom: 1px solid hsla(0, 0%, 60%, 0.3);
   }
 }
 
@@ -63,6 +63,15 @@
   [theme='dark'] & {
     background: rgba(33, 33, 35, 1);
   }
+}
+
+/**
+* 修改 SVG 图标定位
+*/
+
+header .header-title-post {
+  padding-left: unset;
+  margin: -0.4rem;
 }
 
 /**
