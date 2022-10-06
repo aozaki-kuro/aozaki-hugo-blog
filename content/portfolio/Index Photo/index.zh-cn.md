@@ -112,4 +112,4 @@ categories: ['Portfolio Index']
 
 ---
 
-<div align="center"><i>For Art Commission Collection, please <a href="/portfolio/art-comission/">Click</a></i></div>
+<div style="text-align:center; padding-bottom:4rem">:(fas fa-palette):  <i>For art commission records, please <a href="/portfolio/art-commission">Click HERE</a></i></div>

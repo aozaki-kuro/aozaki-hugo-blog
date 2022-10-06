@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "hugo server -D",
+    "start": "hugo server -D -e=production",
     "build": "hugo",
     "clean": "rm -rf ./public",
     "algolia": "atomic-algolia",

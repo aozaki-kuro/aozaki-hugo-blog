@@ -29,8 +29,4 @@ tags:
 
 ---
 
-<div align="center">:(fas fa-camera):  <i>For other photo works, please <a href="/portfolio/photo/">Click HERE</a></i></div>
-
-<br />
-<br />
-<br />
+<div style="text-align:center; padding-bottom:4rem">:(fas fa-camera):  <i>For other photo works, please <a href="/portfolio/photo/#dreamer">Click HERE</a></i></div>

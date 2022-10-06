@@ -82,7 +82,7 @@ ignoreErrors = ["error-remote-getjson"]
         pre = ""
         post = ""
         name = "约稿"
-        url = "/portfolio/art-comission/"
+        url = "/portfolio/art-commission/"
         title = ""
         weight = 5
       [[languages.zh-cn.menu.main]]

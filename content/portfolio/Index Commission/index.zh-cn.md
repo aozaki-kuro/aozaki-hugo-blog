@@ -1,6 +1,6 @@
 ---
 title: 'Art Commission Collection'
-slug: 'art comission'
+slug: 'art commission'
 date: 2020-08-03T19:00:08+08:00
 draft: false
 comment: false
@@ -9,7 +9,7 @@ lightgallery: false
 description: 'Record of the art commissioned by Aozaki. DO NOT REPOST.'
 license: 'DO NOT REPOST'
 featuredImagePreview: '0001.jpg'
-images: ['/art-comission/0001.jpg']
+images: ['/art-commission/0001.jpg']
 categories: ['Portfolio Index']
 ---
 
@@ -136,3 +136,7 @@ The copyright of all art works commissioned on Skeb belongs to the artist and th
 <br>
 © Copyright COVER corp. & ANYCOLOR Inc.
 </p>
+
+---
+
+<div style="text-align:center; padding-bottom:4rem">:(fas fa-palette):  <i>For my photo works, please <a href="/portfolio/photo">Click HERE</a></i></div>
