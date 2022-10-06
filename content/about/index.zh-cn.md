@@ -12,6 +12,10 @@ images: ['/media/work.jpg']
 
 <style>
 
+    h1.animate__animated {
+        display: none;
+    }
+
     .about-info {
         display: flex;
         justify-content: space-between;
@@ -90,3 +94,7 @@ images: ['/media/work.jpg']
 除特殊声明外，本站遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) 协议。您可以自由地**共享**以及**演绎**，但是必须**署名**并以**相同方式共享**。
 
 如有特殊声明**本文保留所有权利（All Rights Reserved）**，则文章内容与资源为 **Aozaki 版权所有**。未经授权复制或者分发本站内容，意味着您侵犯了我的版权。如果您对具体内容授权存在疑问，欢迎在引用内容之前通过电子邮件联系我。
+
+---
+
+<p style="padding-bottom:2rem"></p>
