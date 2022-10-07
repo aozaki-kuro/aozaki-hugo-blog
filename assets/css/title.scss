@@ -28,3 +28,23 @@ h2.animate__animated {
   -webkit-animation-duration: 0s !important;
   animation-duration: 0s !important;
 }
+
+// ==============================
+// 修改文章标题样式 "|" to "#"
+// ==============================
+
+.single .content > h2 > .header-mark::before {
+  content: '#';
+}
+
+.single .content > h3 > .header-mark::before {
+  content: '##';
+}
+
+.single .content > h4 > .header-mark::before,
+.single .content > h5 > .header-mark::before,
+.single .content > h6 > .header-mark::before {
+  content: '###';
+  margin-right: 0.25rem;
+  color: #2d96bd;
+}
