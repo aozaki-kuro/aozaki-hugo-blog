@@ -6,28 +6,33 @@
 {{- if $comment.enable -}}
     <div id="comments">
 
-        {{- /* Disqus Comment System */ -}}
+        {{- /* DisqusJS Comment System */ -}}
         {{- $disqusjs := $comment.disqusjs | default dict -}}
         {{- if $disqusjs.enable -}}
-            <!-- jsDelivr -->
-            {{- $source := $cdn.disqusjsCSS | default "lib/disqusjs/disqusjs.css" -}}
-            <link rel="stylesheet" href="{{- $source -}}">
-            {{- $source := $cdn.disqusjsJS | default "lib/disqusjs/disqus.js" -}}
-            <!-- jsDelivr -->
-            <script src="{{- $source -}}"></script>
-            <div id="disqus_thread" class="comment"></div>
-            <script>
-                var dsqjs = new DisqusJS({
-                    shortname: {{- $disqusjs.shortname -}},
-                    siteName: {{- $disqusjs.siteName -}},
-                    api: {{- $disqusjs.api -}},
-                    apikey: {{- $disqusjs.apikey -}},
-                    admin: {{- $disqusjs.admin -}},
-                    adminLabel: {{- $disqusjs.adminLabel -}}
-                 });
-                </script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/disqusjs@3.0/dist/browser/styles/disqusjs.css">
+        <script src="https://cdn.jsdelivr.net/npm/disqusjs@3.0/dist/browser/disqusjs.es2015.umd.min.js"></script>
+        <div id="disqusjs" class="comment"></div>
+        <script>
+        let disqusjs = null;
+        disqusjs = new DisqusJS({
+        shortname: 'aozaki-note',
+        siteName: "Aozaki's Blog",
+        identifier: '',
+        url: '',
+        title: '',
+        api: 'https://disqusjs.aozaki.cc',
+        apikey: '15uS5PY4o48PFojnWMfAwjyvIrgK2RFR6WxtsFhPF3gtURkxNHgaXzfK7dqQYv6p',
+        admin: 'Aozaki',
+        adminLabel: 'Spectator'
+        });
+        disqusjs.render(document.getElementById('disqusjs'));
+        document.addEventListener('pjax:send', () => {
+        // 销毁 DisqusJS 实例
+        disqusjs.destroy();
+        });
+        </script>
         {{- end -}}
-
+    
         {{- /* Disqus Comment System */ -}}
         {{- $disqus := $comment.disqus | default dict -}}
         {{- if $disqus.enable -}}
