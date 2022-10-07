@@ -500,7 +500,7 @@ ignoreErrors = ["error-remote-getjson"]
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = "aozaki-note"
@@ -595,7 +595,7 @@ ignoreErrors = ["error-remote-getjson"]
       # Twikoo comment config (https://twikoo.js.org/)
       # Twikoo comment 评论系统设置 (https://twikoo.js.org/)
       [params.page.comment.twikoo]
-        enable = true
+        enable = false
         envId = "https://twikoo.aozaki.cc"
         region = ""
         path = ""
