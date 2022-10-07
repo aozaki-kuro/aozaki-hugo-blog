@@ -1,0 +1,15 @@
+.star {
+  fill: #e8c385;
+}
+
+.text {
+  [theme='light'] & {
+    fill: #323845;
+  }
+  [theme='dark'] & {
+    fill: #e8c385;
+  }
+  [theme='black'] & {
+    fill: #e8c385;
+  }
+}
